@@ -1363,6 +1363,181 @@
      "Indiana assesses points through the <b>BMV</b>: 14 to 18 points brings a warning letter and <b>20 points</b> a one-month suspension, escalating from there. A BMV-approved defensive-driving course can reduce points, and courts often accept one instead of a conviction - ask before you enrol."
     ]
    }
+  },
+  {
+   "state": "CO",
+   "state_name": "Colorado",
+   "slug": "colorado-springs-co",
+   "city": "Colorado Springs",
+   "county": "El Paso County",
+   "contest_online": false,
+   "pay_link": "https://coloradosprings.gov/municipal-court/page/payments-and-parking-tickets",
+   "pay_label": "Colorado Springs Municipal Court - payment options, fines schedule and parking tickets",
+   "court_link": "https://coloradosprings.gov/municipalcourt",
+   "court_label": "Colorado Springs Municipal Court - official site (tickets, hearings, forms)",
+   "school_eligible": "Colorado Springs runs an <b>Automatic Point Reduction</b> for eligible offences: if you are charged with a traffic offence of four points or less and the officer marked your summons payable, the points are reduced automatically when you pay <i>before</i> the court date on the summons. Colorado itself has no course that removes points after a conviction - see the state page for the deferral and DMV hearing route.",
+   "school_link": "https://coloradosprings.gov/municipalcourt",
+   "points_note": "Colorado suspends an adult driver at 12 points in 12 months, and points stay on your record two years from the offence. Paying the summons is a guilty plea unless your charge qualifies for the Automatic Point Reduction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "The court publishes a schedule of payable fines and bail, and the officer marks the payable amount on the front of the summons. If no amount is printed, the summons is not payable and you must appear. Parking tickets must be paid within 14 days, with a $5 late charge added on the 15th day.",
+   "verify": [
+    "whether the exact charge on your summons is a city-code violation (Municipal Court) or a state charge (El Paso County Court)",
+    "the payable fine/bail amount printed on your summons, or the current schedule of payable fines",
+    "whether your offence is four points or less, so the Automatic Point Reduction applies"
+   ],
+   "local": {
+    "h": "Colorado Springs details, verified against the City's Municipal Court",
+    "bullets": [
+     "Your ticket is handled by the <b>Colorado Springs Municipal Court</b>, which hears violations of the city code, including city traffic offences - <a href='https://coloradosprings.gov/municipalcourt' target='_blank' rel='noopener'>court home page</a>. If a state trooper charged you under state law instead, that case goes to <b>El Paso County Court</b>, not this court - check the issuing agency on the ticket.",
+     "Start from the court's own <a href='https://coloradosprings.gov/municipal-court/page/payments-and-parking-tickets' target='_blank' rel='noopener'>payment page</a>. It lists the schedule of payable fines, the online payment portal and the parking-ticket rules - there is no other official payment site for these tickets.",
+     "<b>The city's best-kept deal is the Automatic Point Reduction.</b> If your charge is four points or less and payable, and you pay <i>before</i> the court date on your summons, the points come off automatically - no course, no hearing. Paying is otherwise a guilty plea that sends points to the DMV.",
+     "<b>If you are contesting the charge or pleading not guilty, you must appear on the court date.</b> Paying instead means you give up that right, so do not pay if you intend to fight it.",
+     "The court also runs a <b>Remote Disposition</b> process with the City Attorney's prosecution division: qualifying cases can be resolved without coming in, but only for defendants who live outside El Paso County or need a disability accommodation, and the request must be submitted at least 10 days before the court date.",
+     "Two phone numbers worth keeping: the court is <b>719-385-5922</b> (hours Mon-Fri, 8am-4pm; email MunicipalCourtViolations@ColoradoSprings.Gov), and probation is <b>719-385-5923</b>. Allow 24 hours for a reply to messages.",
+     "<b>Parking tickets are on a different clock.</b> Pay within 14 days or a $5 late charge is added on the 15th day; to contest one, see a Court Referee rather than a judge. Parking is also payable on the separate nCourt portal linked from the payment page.",
+     "If a payment is missed the city warns of added costs and even an arrest warrant, so if you cannot pay, contact the court about options rather than going silent."
+    ]
+   }
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "slug": "tampa-fl",
+   "city": "Tampa",
+   "county": "Hillsborough County",
+   "contest_online": false,
+   "pay_link": "https://www.hillsclerk.com/traffic/traffic-department/paying-for-tickets",
+   "pay_label": "Hillsborough Clerk of Court - pay a traffic ticket (online 24/7, phone, mail, in person)",
+   "court_link": "https://www.hillsclerk.com/traffic",
+   "court_label": "Hillsborough County Clerk of Courts - Traffic Department",
+   "school_eligible": "Florida lets you elect a 4-hour Basic Driver Improvement course. If you pay for it and complete it, adjudication is withheld and the DMV assesses no points, and your insurer cannot raise your rate or cancel you. Hillsborough allows the election once in a 12-month period and no more than five times in your lifetime; a CDL or commercial-vehicle ticket cannot use it.",
+   "school_link": "https://www.hillsclerk.com/trafficschool",
+   "points_note": "Florida adds 3, 4 or 6 points per moving violation and suspends at 12 points in 12 months, 18 in 18, or 24 in 36. Points stay on your record three years - which is why the school election matters more than the fine.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "The fine comes from Florida's statewide penalty schedule plus county surcharges and is printed on your citation. Paying the civil penalty is an admission of guilt and the DMV will assess points for a moving violation.",
+   "verify": [
+    "the exact deadline on your citation (Hillsborough gives 60 calendar days to pay, from the issue date)",
+    "whether your violation is eligible for the Basic Driver Improvement election",
+    "the payable amount and any county surcharge printed on your citation"
+   ],
+   "local": {
+    "h": "Tampa / Hillsborough County details, verified against the Clerk of Courts",
+    "bullets": [
+     "Your ticket is a <b>county</b> case, collected by the <b>Hillsborough County Clerk of Courts</b> (Victor D. Crist) for the 13th Judicial Circuit - <a href='https://www.hillsclerk.com/traffic' target='_blank' rel='noopener'>Traffic Department</a>. A Tampa police or sheriff's officer writes the ticket, but the Clerk handles payment, the school election and hearings.",
+     "<b>Two clocks run at once.</b> You have <b>30 calendar days</b> to tell the Clerk <i>how</i> you want to resolve the ticket (pay, elect school, or request a hearing). After that your only option is to pay and take the points. Separately you have <b>60 calendar days</b> to actually pay and finish every requirement.",
+     "<b>No extension is available.</b> The Clerk already built a 30-day extension into the 60-day figure, so it will not grant another one. If you cannot comply within 60 days, the move is to request a court hearing, not to let it lapse - late payment raises the penalty and can suspend your licence.",
+     "Look your ticket up or pay it on the Clerk's own pages: <a href='https://www.hillsclerk.com/traffic/traffic-department/look-up-ticket' target='_blank' rel='noopener'>look up a ticket</a> and <a href='https://www.hillsclerk.com/traffic/traffic-department/paying-for-tickets' target='_blank' rel='noopener'>paying for tickets</a>. Pay online 24/7 or by phone 24/7 at <b>813-276-8100</b> (have your ticket and Florida licence/ID ready).",
+     "Other ways to pay: by mail with a personal check, cashier's check or money order to <i>Clerk of the Circuit Court - Traffic, PO Box 3360, Tampa FL 33601-3360</i> (include a copy of the ticket), or in cash at Amscot locations and at Clerk offices Monday-Friday. Credit cards carry a <b>3.5% transaction fee</b>.",
+     "<b>Only the driver's own credit card can pay a driver's ticket</b>, and the billing ZIP must match, or the charge fails and a hold is placed on the funds for up to 10 business days.",
+     "<b>The school election is the big lever.</b> It keeps the ticket off your record, stops points and blocks an insurance increase - but the completion certificate from the school must reach the Clerk within 60 calendar days of the issue date, with no extension. See the Clerk's <a href='https://www.hillsclerk.com/trafficschool' target='_blank' rel='noopener'>traffic school page</a>.",
+     "To contest it instead, request a <a href='https://www.hillsclerk.com/traffic/traffic-department/request-court-hearing' target='_blank' rel='noopener'>court hearing</a> through the Clerk within the 30-day window. A city of Tampa ticket and a Hillsborough County ticket both land here - the issuing agency does not change the court."
+    ]
+   }
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "slug": "jacksonville-fl",
+   "city": "Jacksonville",
+   "county": "Duval County",
+   "contest_online": false,
+   "pay_link": "https://www.duvalclerk.com/redirects/epay",
+   "pay_label": "Duval County Clerk of Courts - pay a traffic citation online (ePay)",
+   "court_link": "https://www.duvalclerk.com/departments/criminal-court-services/traffic",
+   "court_label": "Duval County Clerk of Courts - Traffic (citations and options)",
+   "school_eligible": "Jacksonville uses the Florida Basic Driver Improvement election: pay the citation in full and complete the school, and adjudication is withheld so the DMV assesses no points. Florida allows it once in a 12-month period and no more than five times in your lifetime, and a CDL or commercial-vehicle ticket cannot use it.",
+   "school_link": "https://www.duvalclerk.com/departments/criminal-court-services/traffic",
+   "points_note": "Florida adds 3, 4 or 6 points per moving violation and suspends at 12 points in 12 months, 18 in 18, or 24 in 36. Paying the citation is a conviction and the points go on your record, so the school election is the decision that matters.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "The fine comes from Florida's statewide penalty schedule plus county surcharges and is printed on your citation. The Duval Clerk collects it - paying is a conviction and points are assessed for a moving violation.",
+   "verify": [
+    "your citation's issue date (you have 30 days to respond) and the payable amount printed on it",
+    "whether your violation is eligible for the Driver Improvement School election",
+    "the courthouse and hearing details if you choose to contest the citation"
+   ],
+   "local": {
+    "h": "Jacksonville / Duval County details, verified against the Clerk of Courts",
+    "bullets": [
+     "Jacksonville is a consolidated city-county, so your citation goes to the <b>Duval County Clerk of the Circuit Court</b> (Jody Phillips) for the 4th Judicial Circuit - <a href='https://www.duvalclerk.com/departments/criminal-court-services/traffic' target='_blank' rel='noopener'>Traffic department</a>. Jacksonville Sheriff's Office and Florida Highway Patrol tickets all land here.",
+     "<b>You have 30 calendar days from the issue date to respond.</b> Miss it and - in the Clerk's own words - your licence will be suspended and extra fees added. The three options are on the ticket itself: pay, pay and elect Driver Improvement School, or request a court date.",
+     "<b>Paying is a conviction.</b> If you pay the civil citation, points are assessed and you can no longer switch to the school option later. If points are your concern, do not pay first and ask questions after.",
+     "Everything is on the Clerk's site: pay online through <a href='https://www.duvalclerk.com/redirects/epay' target='_blank' rel='noopener'>ePay</a>, read the <a href='https://www.duvalclerk.com/how-do-i/make-payments/traffic-citations' target='_blank' rel='noopener'>traffic-citation payment page</a>, or pull the <a href='https://www.duvalclerk.com/how-do-i/complete-forms/traffic-forms' target='_blank' rel='noopener'>traffic forms</a> if you are responding by mail.",
+     "<b>The Driver Improvement election</b> lets you keep the ticket off your record even though you pay it - you pay in full and complete the school, and adjudication is withheld with no points. Florida allows it once in 12 months, max five times in a lifetime, and never for a CDL holder.",
+     "To fight the ticket, request a <b>court date</b> within the 30-day window rather than paying. The hearing is your chance to contest the officer's account; a paid ticket cannot be reopened.",
+     "If you were charged with a <b>criminal</b> traffic offence (DUI, reckless driving, driving on a suspended licence), that is not a civil citation and the options on this page do not apply - you need the criminal case, and usually a lawyer.",
+     "One caution: Duval's Clerk system is shared with civil and criminal filings, so always confirm the case number matches your citation before you pay."
+    ]
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "cincinnati-oh",
+   "city": "Cincinnati",
+   "county": "Hamilton County",
+   "contest_online": true,
+   "pay_link": "https://www.courtclerk.org/payments/court_cost_search.php",
+   "pay_label": "Hamilton County Clerk of Courts - look up and pay court costs / traffic tickets online",
+   "court_link": "https://www.courtclerk.org/traffic-tickets/",
+   "court_label": "Hamilton County Clerk of Courts - traffic ticket search, payout amounts and online payment",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total rather than a dismissal, so confirm what Cincinnati Municipal Court and the BMV will accept before you pay for a course - see the state page.",
+   "school_link": "https://www.courtclerk.org/traffic-tickets/",
+   "points_note": "Ohio assesses points on conviction and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). Points stay on your record two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines and court costs vary by violation, and many Ohio courts only show an online payment button once the case is marked payable. Treat the amount printed on your court notice as the real number.",
+   "verify": [
+    "the exact case number and payable amount for your ticket in the Clerk's lookup",
+    "whether your offence is one where a remedial driving course is accepted for a point credit",
+    "the Cincinnati Municipal Court date and courtroom printed on your notice"
+   ],
+   "local": {
+    "h": "Cincinnati / Hamilton County details, verified against the Clerk of Courts",
+    "bullets": [
+     "Your ticket is handled by the <b>Hamilton County Clerk of Courts</b> (Pavan V. Parikh), the record keeper for the <b>Cincinnati Municipal Court</b> - see the Clerk's <a href='https://www.courtclerk.org/traffic-tickets/' target='_blank' rel='noopener'>Traffic Tickets</a> page. Cincinnati Police moving-violation tickets are entered here.",
+     "The Clerk's traffic page gives you three things in one place: a <b>traffic ticket search</b>, the <b>payout amounts</b> for Hamilton County moving violations, and <b>online payment</b>. Cincinnati Municipal Court is the court of record for city tickets.",
+     "<b>Look up the case before you pay.</b> Use the Clerk's <a href='https://www.courtclerk.org/payments/court_cost_search.php' target='_blank' rel='noopener'>court costs / ticket search</a> to confirm your case number and the exact amount - Ohio court costs are itemised and can differ from the number you remember from the ticket.",
+     "<b>The Clerk's own caveat matters:</b> the listings reflect only records already entered in the database. Tickets issued by Cincinnati Police Records or others may be open but not yet listed, so a search that returns nothing does not mean you have no ticket.",
+     "Parking is separate. City of Cincinnati parking tickets go through the city's parking violations process, not the Clerk's traffic division - check the issuing authority on the ticket.",
+     "<b>Ohio uses points, not traffic school.</b> Convictions add points and 12 points in two years triggers a class-D suspension; a BMV-approved <b>remedial driving course credits 2 points</b> against the total. It reduces points rather than erasing the ticket, so check first.",
+     "More serious charges (DUI/OVI, driving under suspension) are criminal matters in Cincinnati Municipal Court and are not resolvable with a simple online payment - those usually need a lawyer.",
+     "If you want to contest the ticket, do not pay first. Ask the Clerk for the case schedule and appear for the arraignment; paying is treated as a no-contest or guilty plea."
+    ]
+   }
+  },
+  {
+   "state": "WA",
+   "state_name": "Washington",
+   "slug": "spokane-wa",
+   "city": "Spokane",
+   "county": "Spokane County",
+   "contest_online": true,
+   "pay_link": "https://my.spokanecity.org/courts/municipal-court/eportal/",
+   "pay_label": "Spokane Municipal Court - eCourt Portal (look up and pay tickets online)",
+   "court_link": "https://my.spokanecity.org/courts/municipal-court/tickets/",
+   "court_label": "Spokane Municipal Court - respond to a ticket (infractions, hearings, forms)",
+   "school_eligible": "Washington has no traffic-school dismissal. The equivalent is a <b>deferred finding</b>: the court defers the ticket for up to a year and, if you stay violation-free, it never goes on your record. Most drivers get one deferral for a moving and one for a non-moving infraction every seven years - ask about it before you pay.",
+   "school_link": "https://my.spokanecity.org/courts/municipal-court/tickets/",
+   "points_note": "Washington does not use points. A civil infraction still shows on your DOL record for three years and can affect your insurance - a deferred finding keeps it off, which is the real prize.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Washington sets a statewide penalty schedule for civil traffic infractions, so the base fine is the same across the state. The amount is printed on your notice, plus any local assessments.",
+   "verify": [
+    "whether your notice is a Spokane Municipal Court infraction or a Spokane County District Court one",
+    "the 30-day response deadline and the option you select on the ticket",
+    "whether your infraction is eligible for a deferred finding"
+   ],
+   "local": {
+    "h": "Spokane details, verified against the City's Municipal Court",
+    "bullets": [
+     "Spokane has <b>two</b> ticket courts: the <b>Spokane Municipal Court</b> (city tickets, founded 2009) and <b>Spokane County District Court</b> (county and state infractions). Read the court name on your notice - a city officer's ticket goes to Municipal Court, and everything below is the Municipal Court process. <a href='https://my.spokanecity.org/courts/municipal-court/tickets/' target='_blank' rel='noopener'>Tickets page</a>.",
+     "<b>You must respond within 30 days</b> of the issue date. Select one of the options printed on the ticket and return it to the Municipal Court Clerk's Office by mail or in person - if you mail it, it must be postmarked by midnight on the due day.",
+     "<b>The penalty for silence is steep:</b> if you fail to respond or to appear, the court enters a finding of <i>committed</i> for the full fine, adds a <b>$52 fee</b>, and refers the account to a collection agency. For a traffic infraction it also notifies the state.",
+     "Your two hearing choices are a <b>contested hearing</b> (dispute that you committed the infraction) or a <b>mitigation hearing</b> (admit it but explain circumstances to seek a reduced fine). You can appear in person or submit a <b>written statement</b> instead, using the court's contest or mitigate form.",
+     "Pay online through the <a href='https://my.spokanecity.org/courts/municipal-court/eportal/' target='_blank' rel='noopener'>eCourt Portal</a>, or by mail to <i>1100 W. Mallon, Spokane, WA 99260</i>. The <a href='https://my.spokanecity.org/courts/municipal-court/payments/' target='_blank' rel='noopener'>payments page</a> also lists the full fee schedule and payment plans.",
+     "<b>Payment plans exist</b> for traffic and code infractions: sign an agreement at the Clerk's Office, send a signed written request by mail, or ask the judicial officer for a plan at your contested or mitigation hearing. It is a better move than defaulting.",
+     "<b>The real prize in Washington is a deferred finding</b>, not a fine reduction: ask the court to defer the ticket for up to a year, stay clean, and it never reaches your record or your insurer. Most drivers get one deferred finding for a moving and one for a non-moving infraction every seven years.",
+     "Criminal misdemeanour tickets (DUI, driving while suspended) are different: an officer usually writes an arraignment date on the face of the ticket and you <b>must appear</b>, or a warrant will issue. Those cases belong with the criminal calendar, not the infraction process."
+    ]
+   }
   }
  ]
 }
