@@ -1,0 +1,1368 @@
+{
+ "cities": [
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "los-angeles-ca",
+   "city": "Los Angeles",
+   "county": "Los Angeles County",
+   "pay_link": "https://www.lacourt.org/division/traffic/TR0009.aspx",
+   "pay_label": "LA Superior Court - pay / contest a traffic ticket online",
+   "verify": [
+    "the exact traffic courthouse and phone number for your citation",
+    "the current bail schedule amount for your violation",
+    "whether your violation is eligible for traffic school"
+   ],
+   "court_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "court_label": "Official traffic rules & court options",
+   "local": {
+    "h": "Los Angeles details, verified against LA Superior Court",
+    "bullets": [
+     "Your ticket is handled by the <b>Superior Court of California, County of Los Angeles - Traffic Division</b>. Start from the court's own traffic page - <a href='https://www.lacourt.org/division/traffic/TR0009.aspx' target='_blank' rel='noopener'>How do I pay my ticket?</a> - which is the hub for payment, extensions, traffic school and court dates. There is no other official payment site for LA County tickets.",
+     "Pay online by looking the ticket up either by <b>driver's license number</b> or by <b>citation number</b> (both search boxes are on that page). You can also pay by phone, by mail, or in person at the courthouse printed on your ticket.",
+     "<b>What paying really does:</b> the court's page is blunt - the bail is declared <b>forfeited</b>, the case may be closed, and the ticket information is <b>forwarded to the DMV and recorded on your driving record</b>. Paying is not a way to keep a moving violation off your record.",
+     "<b>Some tickets cannot be paid online or by phone at all.</b> The court warns that certain violations require a mandatory court appearance, so check the violation code on your citation before assuming you can settle it online.",
+     "At an <b>arraignment hearing</b> you can do all four things in one visit: pay the bail, request traffic school if you are eligible, enter a plea of guilty / no contest / not guilty, or set the case for trial.",
+     "Traffic school is requested through the court itself - look for <b>&ldquo;How do I request traffic school?&rdquo;</b> and <b>&ldquo;How do I request a traffic school extension?&rdquo;</b> in the Q&amp;A list on that same traffic page. California generally allows it once every 18 months on an eligible violation - see the state's <a href='https://selfhelp.courts.ca.gov/traffic/traffic-school' target='_blank' rel='noopener'>traffic school rules</a>.",
+     "Contest it without taking a day off: a <b>trial by written declaration</b> lets you argue your case in writing. The court's <b>Trial Types</b> section covers what it is and who qualifies.",
+     "Can't afford the full fine? LA runs its own <b>Traffic Payment Plan</b> (what it is, who qualifies and where to sign up are all in the Q&amp;A list on the court's traffic page), and the statewide <a href='https://mycitations.courts.ca.gov/' target='_blank' rel='noopener'>Ability to Pay</a> portal is also open to you.",
+     "<b>Parking tickets are not this court's business.</b> They belong to the city or agency that issued them, so pay or contest through them, not the Superior Court."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "san-diego-ca",
+   "city": "San Diego",
+   "county": "San Diego County",
+   "pay_link": "https://www.sdcourt.ca.gov/makeapayment",
+   "pay_label": "San Diego Superior Court - pay a traffic / minor offense ticket online",
+   "verify": [
+    "the courthouse named on your citation (this division runs more than one traffic location)",
+    "the current bail schedule amount for your violation",
+    "traffic-school eligibility and fee for your violation"
+   ],
+   "court_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "court_label": "Official traffic rules & court options",
+   "local": {
+    "h": "San Diego details, verified against San Diego Superior Court",
+    "bullets": [
+     "Your ticket is handled by the <b>Superior Court of California, County of San Diego - Traffic / Minor Offense Division</b>. Its jurisdiction covers Vehicle Code violations, some local municipal ordinances and infractions, and also Fish and Game, Animal Control and transit tickets such as San Diego Trolley violations.",
+     "Pay online at the court's own <a href='https://www.sdcourt.ca.gov/makeapayment' target='_blank' rel='noopener'>payment page</a>: choose <b>Traffic or Minor Offense Ticket</b>, then Pay Now. <b>New card fee:</b> from 1 July 2026 the court's payment processing vendor may add a <b>2.75% service fee</b> on credit, debit or prepaid card and mobile-wallet payments (Apple Pay, Google Wallet) - budget for it.",
+     "<b>Scam alert, from the court itself:</b> people are receiving text messages saying court fees on traffic tickets are overdue and action will be taken. The court <b>does not conduct business by text message</b> - official correspondence comes by U.S. mail. Check the court's online Traffic Portal for the real status of your ticket and ignore those texts.",
+     "Need to move your date? Traffic appearances are scheduled through <a href='https://www.sdcourt.ca.gov/sdcourt/traffic3/cas' target='_blank' rel='noopener'>Schedule Traffic Appearances</a>.",
+     "<b>Traffic school</b> and <b>pleading not guilty</b> each have their own section in this division's menu on <a href='https://www.sdcourt.ca.gov/sdcourt/traffic3' target='_blank' rel='noopener'>the court's traffic page</a> - that is where the court's own instructions live.",
+     "Can't pay in full or on time? The division has a <b>Payment Options and Financial Hardship Information</b> section, and a dedicated <b>Failure to Appear, Pay, or Comply</b> page. Read that one before simply letting a deadline pass.",
+     "You may receive a <b>reminder notice in the mail</b> - for many drivers that is the first contact with the traffic court process, and the notice answers most of the usual questions. If it never arrives, the court's site explains what to do."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "san-jose-ca",
+   "city": "San Jose",
+   "county": "Santa Clara County",
+   "pay_link": "https://portal.scscourt.org/traffic",
+   "pay_label": "Santa Clara Superior Court - Traffic Portal (look up your case and pay)",
+   "verify": [
+    "current bail schedule amount",
+    "exact courthouse for your citation"
+   ],
+   "court_link": "https://santaclara.courts.ca.gov/divisions/traffic-division",
+   "court_label": "Santa Clara Superior Court - Traffic Division (options, bail schedule, FAQs)",
+   "local": {
+    "h": "San Jose details, verified against Santa Clara County Superior Court",
+    "bullets": [
+     "<b>San Jose / Santa Clara County citations</b> go to the <b>Superior Court of California, County of Santa Clara</b>, Traffic Division - it handles traffic and minor offences filed by law enforcement agencies inside the county.",
+     "<b>Be patient, then don't be late.</b> The court says a citation is usually <b>entered in the system 4 to 8 weeks</b> after you get it, and a <b>Courtesy Notice comes 45 to 60 days</b> after the citation with your options and a due date. You <b>cannot</b> pay or deal with the citation until it is in the system - check the <a href='https://portal.scscourt.org/traffic' target='_blank' rel='noopener'>Traffic Case Info Portal</a>. If the notice has not arrived by the date printed at the bottom of your citation, you must contact the court by phone or in person.",
+     "<b>How to pay:</b> in person at any court location - cash, or a cheque payable to &lsquo;Clerk/Superior Court&rsquo;, or a card through NCourt (a <b>3.5%</b> convenience fee, Amex, Discover, Mastercard, Visa); by mail with a cheque only (<b>never send cash</b>); or, for traffic cases that are eligible, by phone on <b>408-878-0098</b> (Mon&ndash;Fri 6pm&ndash;9pm, Sat&ndash;Sun 6am&ndash;3pm, Spanish available) or online at the Traffic Portal - card payments carry a <b>5%</b> fee and an electronic fund transfer costs <b>$1.95</b>.",
+     "<b>Fix-it tickets:</b> your courtesy notice says whether you can just pay or must show <b>proof of correction</b>. Get the citation signed off by a <b>police officer</b> for equipment, the <b>DMV</b> for licence and registration, or a <b>court clerk</b> for insurance, licence and registration (bring the right documents). The police agency charges a fee to sign off <i>and</i> the court charges a dismissal fee - and any bail on a moving violation is payable on top. Then send the signed-off citation with the dismissal fee to the clerk.",
+     "Correcting a <b>registration</b> violation: show a valid registration card (valid now, or valid on the date of the violation), or get the DMV or a police officer to sign off, or show an official receipt from an identified junk dealer proving the vehicle was scrapped. The court does <b>not</b> accept a DMV &lsquo;Suspense Receipt&rsquo; or a &lsquo;Certificate of Non-operation&rsquo;.",
+     "If you <b>cannot</b> fix the violation you can ask for a court date instead. If the violation does not require proof of correction, you can forfeit bail (pay) and close the case. If the ticket <b>is not your vehicle</b> but you signed the citation, you are still the responsible party - either forfeit bail or ask the clerk for a court date to explain to the commissioner.",
+     "If money is the problem, California also runs the statewide <a href='https://mycitations.courts.ca.gov/' target='_blank' rel='noopener'>MyCitations</a> portal for ability-to-pay requests."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "san-francisco-ca",
+   "city": "San Francisco",
+   "county": "City & County of San Francisco",
+   "pay_link": "https://sf.courts.ca.gov/divisions/traffic/pay-traffic-citations",
+   "pay_label": "SF Superior Court - pay a traffic citation online",
+   "verify": [
+    "current bail schedule amount",
+    "online contest procedure",
+    "traffic-school eligibility"
+   ],
+   "court_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "court_label": "Official traffic rules & court options",
+   "local": {
+    "h": "San Francisco details, verified against the SF Superior Court - Traffic Division",
+    "bullets": [
+     "Your ticket is handled by the <b>Superior Court of California, County of San Francisco &mdash; Traffic Court</b>. It hears <b>infractions</b> only (speeding, cell phone, expired registration, equipment): the worst outcome is a fine, never jail. <b>Parking tickets are not handled here</b> - those go to <a href='https://www.sfmta.com/' target='_blank' rel='noopener'>SFMTA</a>, not the court.",
+     "A scam warning straight from the court: it <b>never sends ticket notices by text message</b>. If you get a text about a ticket, do not reply, click the link or scan the QR code - only the court's official phone numbers and website are real.",
+     "You should receive a <b>Reminder Notice</b> at the address on the citation, usually <b>within 21 days</b> of the ticket being issued. It shows the bail amount and due date, the proof required for correctable violations, and your court and traffic-school options. If it never arrives - still with the officer, DMV address not updated, wrong address on the ticket, returned by the post office - <b>you are still expected to answer on time</b>. Signing the citation was already your written promise to appear.",
+     "Miss the court date or the payment deadline and the court adds a <b>$100 civil assessment</b>, notifies the DMV (a possible point on your record), and hands the unpaid debt to the <b>Alliance One</b> collection agency, where wage garnishment and property liens are possible. The civil assessment can stand even if you later win the case.",
+     "Pay by <b>phone</b> (415) 551-8550, Mon&ndash;Fri 4am&ndash;9pm and Sat&ndash;Sun 9am&ndash;6pm PT; <b>online</b> through the court's nCourt portal (Visa, Amex, Mastercard, Discover, e-check); <b>by mail</b> (personal check or money order only); or <b>in person</b> (cash, cards, Apple Pay, check, money order). Online payment needs your <b>case number and the amount due</b>. Window service is at <b>Hall of Justice</b>, 850 Bryant St., Room 145 (8:30am&ndash;4pm, closed 12&ndash;1pm), and <b>Civic Center Courthouse</b>, 400 McAllister St., Room 103 - the Traffic Court itself sits in Department 218, 2nd floor.",
+     "The online payment page <b>only takes money</b> - it does not show case status or your court date. To check where your case stands or when you must appear, call <b>415-551-8540</b> or use the court's LiveChat.",
+     "<b>Traffic school</b> (Veh. Code 42005 + Cal. Rules of Court 4.104) needs a valid California licence, an eligible infraction, <b>no more than one DMV point</b> from this ticket, <b>no traffic school in the last 18 months</b>, no alcohol- or drug-related offence, speeding no more than <b>25 mph over the limit</b>, and not the tanker-truck offence in VC 22406.5.",
+     "<b>Correctable tickets</b> (expired registration, no proof of insurance, equipment) are dismissed by showing proof - for insurance you must prove you were insured on the day of the ticket - plus a <b>$25 fee per item</b>. Mechanical defects need a police officer's signature before you send them in.",
+     "Lost at trial? You have <b>30 days</b> to appeal - collect the 'Instructions on Appeal Procedures for Infractions' form at Hall of Justice Room 101, and keep paying the fine on time while you appeal. If you <b>cannot afford to pay</b>, ask for a determination of ability to pay before the due date: the court can cut the fine by 50&ndash;80% or more."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "irvine-ca",
+   "city": "Irvine",
+   "county": "Orange County",
+   "pay_link": "https://www.occourts.org/divisions/traffic/my-court-portal-traffic-and-criminal",
+   "pay_label": "My Court Portal - pay, request an extension, set up a payment plan, submit proof of correction",
+   "local": {
+    "h": "Irvine details, verified against Orange County Superior Court",
+    "bullets": [
+     "Your ticket is handled by the <b>Superior Court of California, County of Orange</b>, Traffic Division. Payment, extensions, payment plans, proof of correction and case reminders all run through <a href='https://www.occourts.org/divisions/traffic/my-court-portal-traffic-and-criminal' target='_blank' rel='noopener'>My Court Portal</a>.",
+     "Online payment needs your <b>OC Pay #</b> (printed on the citation - look it up at <a href='https://www.occourts.org/online-services/oc-pay' target='_blank' rel='noopener'>OC Pay</a>) and only works <b>on or before your original due date</b>. Once it is past due, use My Court Portal instead.",
+     "<b>By mail:</b> checks or money orders only - never cash - payable to <b>Clerk of the Court</b>, with your citation or case number written on it, to Information Payment Center, P.O. Box 6040, Newport Beach, CA 92658-6040. Checks must be preprinted with your name.",
+     "<b>In person:</b> any of the four Criminal &amp; Traffic departments - Central (700 Civic Center Dr W, Santa Ana), Harbor (4601 Jamboree Rd, Newport Beach), North (1275 N Berkeley Ave, Fullerton), West (8141 13th St, Westminster). The courthouse named on your citation is the one that decides your case.",
+     "<b>Can't afford the full fine?</b> Ask for an Ability to Pay determination <b>before</b> the due date - details on the court's <a href='https://www.occourts.org/divisions/traffic/mycitations-information' target='_blank' rel='noopener'>MyCitations page</a>, or use the statewide portal at <a href='https://mycitations.courts.ca.gov/' target='_blank' rel='noopener'>mycitations.courts.ca.gov</a>.",
+     "<b>Contesting it yourself:</b> the court's <a href='https://www.occourts.org/divisions/traffic/contesting-your-citation' target='_blank' rel='noopener'>Contesting Your Citation</a> page covers arraignment, trial by written declaration and what to bring.",
+     "<b>Parking tickets are different.</b> They are not handled by this court - the city that issued it (Irvine parking enforcement) handles payment and appeals.",
+     "<b>Deadline warning:</b> failing to pay or appear can add penalties and put a hold on your license. See <a href='https://www.occourts.org/divisions/traffic/appearances-court-traffic-minor-offenses' target='_blank' rel='noopener'>Appearances in Court / Failure to Appear</a>."
+    ]
+   },
+   "verify": [],
+   "court_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "court_label": "Official traffic rules & court options"
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "sacramento-ca",
+   "city": "Sacramento",
+   "county": "Sacramento County",
+   "pay_link": "https://www.saccourt.ca.gov/divisions/traffic/ticket-options",
+   "pay_label": "Sacramento Superior Court - Ticket Options (pay, payment plan, traffic school)",
+   "verify": [
+    "current bail schedule amount",
+    "traffic-school provider list"
+   ],
+   "court_link": "https://www.saccourt.ca.gov/divisions/traffic",
+   "court_label": "Sacramento Superior Court - Traffic Division (ticket options, ability to pay, FAQs)",
+   "local": {
+    "h": "Sacramento details, verified against Sacramento County Superior Court",
+    "bullets": [
+     "<b>Sacramento County citations</b> go to the <b>Superior Court of California, County of Sacramento</b>, Traffic Division. The traffic court is at the <b>Carol Miller Justice Center, 301 Bicentennial Circle, Room 100, Sacramento, CA 95826</b>. The call centre is <b>916-875-7800</b>; extra options are available on <b>916-669-5712</b>, through the Virtual Public Counter (Zoom) or in person.",
+     "The court's <b>Public Case Access System</b> is the online route to pay in full and close your case, request Traffic Violator School (or pay for it), request a monthly payment plan, and view or print case documents.",
+     "<b>Paying in full - or setting up monthly payments - is a &lsquo;bail forfeiture&rsquo;:</b> a conviction is reported to the DMV, your right to contest the ticket is gone, and once you sign up for monthly payments the case is <b>no longer eligible for traffic school</b>. Decide before you pay.",
+     "<b>Ways to pay:</b> online through the Public Case Access System with a credit or debit card; by phone on 916-875-7800; over Zoom at the Virtual Public Counter; in person at the Traffic Public Counter; or by mail or drop box with a cheque or money order payable to the <b>Sacramento Superior Court</b>. Note: <b>postmarks are not accepted</b> - the payment has to arrive by the due date.",
+     "<b>Monthly payment plans</b> need <b>10% of the full amount as a down payment</b>; after that the Department of Revenue Recovery handles the monthly billing. Falling behind is expensive: collection enforcement can include garnishment of your wages, seizure of money in your bank accounts, a lien on real property, your balance reported to credit bureaus as delinquent, and <b>seizure of your California state income tax refund</b>.",
+     "<b>Can't afford it?</b> Two routes: the Alternative Sentencing Program - community service hours instead of all or part of the fine (you may still owe court fees plus application and daily fees to the Sacramento Sheriff's Department, scaled to your ability to pay) - or an <b>Ability to Pay</b> application, online through the MyCitations portal or on paper to the Traffic Division at the Carol Miller Justice Center. Applications are reviewed within 30 days. Watch the trap: on a case in <b>active or failure-to-appear</b> status the ability-to-pay form requires you to plead <b>guilty or no contest</b>, and once the court accepts that plea you can no longer appear in court. If you have been approved for Traffic Violator School, submit the ability-to-pay application at least <b>10 calendar days before the due date</b>.",
+     "Trials can be held in person or over <b>Zoom</b> (Penal Code 1428.5) - tell the court at your next hearing if you do not consent to a remote trial."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "fresno-ca",
+   "city": "Fresno",
+   "county": "Fresno County",
+   "pay_link": "https://www.fresno.courts.ca.gov/online-services/pay-traffic-fines",
+   "pay_label": "Fresno Superior Court - pay traffic fines (ePayIt) or request an extension",
+   "verify": [
+    "current bail schedule amount",
+    "traffic-school provider list"
+   ],
+   "court_link": "https://www.fresno.courts.ca.gov/divisions/traffic",
+   "court_label": "Fresno Superior Court - Traffic Division (arraignment calendar, contacts, extensions)",
+   "local": {
+    "h": "Fresno details, verified against Fresno County Superior Court",
+    "bullets": [
+     "<b>Fresno County citations</b> go to the <b>Superior Court of California, County of Fresno</b>, Traffic Division. The traffic court is at <b>2317 Tuolumne Street, Fresno, CA 93721</b> (clerk's office Mon&ndash;Fri 8am&ndash;4pm). You can also pay or write by mail to 1100 Van Ness Avenue, ATTN: Traffic Division, Fresno, CA 93724, by fax on <b>(559) 457-1710</b>, by email to InfoDeskCrim@fresno.courts.ca.gov, or via the drop box inside the M Street Courthouse. The call centre is <b>(559) 457-1700</b>, Mon&ndash;Fri 8am&ndash;4pm.",
+     "You must <b>pay the bail on your reminder notice or appear on or before the due date</b> - that date is printed at the bottom of your citation and on the reminder notice. To appear without an appointment you put yourself on the morning arraignment calendar (heard <b>Monday to Wednesday</b>) and must check in at the Traffic Clerk's Office by <b>9:30am</b>; the lines are long, so arrive early.",
+     "<b>Missing the deadline has a specific consequence:</b> under California Vehicle Code <b>40903</b> the court may deem you to have elected a <b>trial by written declaration</b>.",
+     "<b>Extensions:</b> the clerk may grant <b>one 90-day extension</b> to appear or pay bail, but only on eligible citations that do not require a mandatory court appearance - and <b>no further extensions</b> are given after that 90 days. Ask online through the court's ePayIt system, by phone, by mail, or in person.",
+     "<b>Delinquent fines are collected by an outside firm.</b> If you get a letter from <b>Linebarger</b> (LGBS), pay at <a href='https://www.lgbswebpayments.com/' target='_blank' rel='noopener'>lgbswebpayments.com</a> using the reference number on their letter, call <b>1-844-566-6558</b>, or write to LGBS LLP, PO Box 708900, San Antonio, TX 78270.",
+     "<b>Two things the online payment service cannot do:</b> if you are pleading <b>not guilty</b> you may not use it - you must mail your written request for a court trial, with bail, to the court listed at the bottom of your citation; and you may not use it for <b>fix-it violations</b>, because the amount owing drops once you show proof of correction.",
+     "<b>Fraud advisory from the court itself:</b> scam text messages pretending to come from the California Judicial Branch, with links to fraudulent payment websites, are circulating. The Judicial Branch <b>does not send unsolicited text messages</b> about filed cases. Report a suspicious message to JCCInfoSec@jud.ca.gov."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "long-beach-ca",
+   "city": "Long Beach",
+   "county": "Los Angeles County",
+   "pay_link": "https://www.lacourt.org/division/traffic/TR0009.aspx",
+   "pay_label": "LA Superior Court - pay / contest a traffic ticket online",
+   "verify": [],
+   "court_link": "https://www.longbeach.gov/parking/citations/",
+   "court_label": "City of Long Beach - parking citations (the city, not the court)",
+   "local": {
+    "h": "Long Beach details, verified against LA Superior Court",
+    "bullets": [
+     "Citations issued in Long Beach go to the <b>Superior Court of California, County of Los Angeles</b>, Traffic Division - and specifically to the courthouse printed on your citation. For Long Beach that is the <b>Governor George Deukmejian Courthouse</b>, 275 Magnolia Avenue, Long Beach, CA 90802 (LA Superior Court's South District, which also covers Signal Hill, San Pedro, Wilmington, Harbor City and Catalina). The court's own <a href='https://www.lacourt.org/division/traffic/TR0009.aspx' target='_blank' rel='noopener'>How do I pay my ticket?</a> page is the only official place to pay, extend or set a court date for an LA County ticket.",
+     "<b>Paying online:</b> that page lets you find your ticket by <b>driver's licence number</b> or by <b>citation number</b>. You can also pay by phone, by mail, or in person at the courthouse on your ticket - the court lists the payment phone number next to each courthouse entry, so take it from the entry for the Long Beach courthouse.",
+     "<b>What paying really means:</b> the court's own wording is blunt - the bail is declared <b>forfeited</b>, the case may be closed, and the ticket information is <b>forwarded to the DMV and recorded on your driving record</b>. Paying is not a way to keep a moving violation off your record.",
+     "<b>Some tickets cannot be paid online or by phone at all.</b> The court warns that certain violations require a mandatory court appearance, so check the violation code on your citation before assuming you can settle it from your sofa.",
+     "At an <b>arraignment</b> you can do all four things in one visit: pay the bail, request traffic school if you are eligible, enter a plea of guilty, no contest or not guilty, or set the case for trial. If you would rather not go in, a <b>trial by written declaration</b> lets you argue the case in writing.",
+     "<b>Cannot afford it?</b> LA runs its own <b>Traffic Payment Plan</b> on the same page (who qualifies and how to sign up are in its Q&amp;A list), and the statewide <a href='https://mycitations.courts.ca.gov/' target='_blank' rel='noopener'>MyCitations</a> ability-to-pay portal is open to LA County drivers too. California generally allows traffic school once every 18 months on an eligible violation - see the state's <a href='https://selfhelp.courts.ca.gov/traffic/traffic-school' target='_blank' rel='noopener'>traffic school rules</a>.",
+     "<b>Long Beach parking tickets are the city's, not the court's.</b> The <a href='https://www.longbeach.gov/parking/citations/' target='_blank' rel='noopener'>City of Long Beach Parking Citations</a> office handles payment and appeals: you must request a review <b>within 21 days</b> of the issue date and go through its Administrative Review (up to three documents can be attached). Contest online with the city's Contest Citation tool, by mail to Parking Citations, PO Box 22766, Long Beach, CA 90801, or in person at City Hall, 411 West Ocean Blvd, Lobby Level. Questions: FM-ParkingCitation@longbeach.gov or <b>(562) 570-6822</b>. The city also offers <b>standard and indigent payment plans</b> for parking fines, and parking enforcement can be reached on (562) 570-2866."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://www.alameda.courts.ca.gov/divisions/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "oakland-ca",
+   "city": "Oakland",
+   "county": "Alameda County",
+   "pay_link": "https://www.alameda.courts.ca.gov/divisions/traffic/look-and-pay-your-traffic-ticket",
+   "pay_label": "Alameda County Superior Court - look up and pay your traffic ticket",
+   "verify": [
+    "current bail schedule amount",
+    "exact courthouse for your citation"
+   ],
+   "court_link": "https://www.alameda.courts.ca.gov/divisions/traffic",
+   "court_label": "Alameda County Superior Court - Traffic (courts, school, contest, ability to pay)",
+   "local": {
+    "h": "Oakland details, verified against Alameda County Superior Court",
+    "bullets": [
+     "<b>Alameda County citations</b> go to the <b>Superior Court of California, County of Alameda</b>, Traffic Division. Its three traffic courthouses are <b>Fremont</b>, <b>Oakland</b> (Wiley W. Manuel Courthouse) and <b>Dublin</b> (East County Hall of Justice) - the citation names the one that has your case.",
+     "The court's online system (<a href='https://alameda.epay-it.com/' target='_blank' rel='noopener'>alameda.epay-it.com</a>) lets you: forfeit bail or pay a fine/fee, post bail for a court trial, post bail and request a trial by declaration, pay traffic school fees (bail plus enrolment fee), make a payment on an existing payment plan, extend your citation due date, fine due date or traffic-school completion date, confirm the court received your traffic-school certificate, and look up your ticket or print your courtesy notice.",
+     "<b>Traffic school eligibility</b> - you must meet all of it: pay the bail amount <b>and</b> the state-mandated traffic-school administrative fee before enrolling (on top of whatever the school charges); hold a valid licence at the time you were cited (since 13 Sep 2012 CDL holders driving a non-commercial vehicle are eligible); not have attended traffic school in the <b>last 18 months</b> (Veh. Code 1808.7 keeps only one citation per 18 months confidential, counted from violation date to violation date, not the class date); the citation must be a <b>moving violation</b>, not a misdemeanour, and you must not have been driving a commercial vehicle; the violation must not require a mandatory court appearance; nothing involving alcohol or drugs; not Veh. Code 22406.5 or 21655.5; and <b>25 mph or more over the limit is not eligible</b>. Any failure to appear, warrant or civil assessment must be cleared or paid in full first.",
+     "Finish the course and file the certificate in time and, under Veh. Code 42007, the DMV keeps the conviction confidential - it will not show on your driving record. If you are eligible and skip traffic school, your auto insurance can be affected (Veh. Code 42007(f)).",
+     "<b>Can't afford the fine?</b> You can ask the court to lower it, set up a payment plan, give you more time, or do community service instead - see the court's financial hardship and ability-to-pay page.",
+     "<b>Delinquent fines</b> are referred to the court's collection agency, and the court's online payment tool <b>does not work</b> for delinquent fines: pay on the collection agency's website or call them on <b>(844) 544-5358</b>.",
+     "<b>Scam alert posted by the court:</b> scammers are impersonating the court's Pretrial Services to collect payment for GPS monitoring. The court does not collect money that way."
+    ]
+   }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "school_eligible": "In California you can usually take traffic school once every 18 months to keep a point off a moving violation, if the violation is eligible. Your court notice says whether you qualify.",
+   "school_link": "https://selfhelp.courts.ca.gov/traffic/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record, which can raise your insurance for up to 3 years.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Check the court's current bail/fine schedule - the amount on your court notice is the real number.",
+   "contest_online": true,
+   "slug": "anaheim-ca",
+   "city": "Anaheim",
+   "county": "Orange County",
+   "pay_link": "https://www.occourts.org/divisions/traffic/my-court-portal-traffic-and-criminal",
+   "pay_label": "My Court Portal - pay, request an extension, set up a payment plan, submit proof of correction",
+   "verify": [],
+   "court_link": "https://www.occourts.org/location/north-justice-center",
+   "court_label": "North Justice Center, Fullerton - the courthouse that serves Anaheim (cases, traffic phone, hours)",
+   "local": {
+    "h": "Anaheim details, verified against Orange County Superior Court",
+    "bullets": [
+     "Citations issued in Anaheim are handled by the <b>Superior Court of California, County of Orange</b>, Traffic Division. The court's own city list puts Anaheim at the <b>North Justice Center</b> - 1275 North Berkeley Avenue, Fullerton, CA 92832, traffic counter <b>(657) 622-8459</b> (Monday to Friday, 8:00 a.m. to 4:00 p.m.). Your citation still names the courthouse that has your case, so check the notice before you drive out.",
+     "<b>You can extend the date twice before it turns into a failure to appear.</b> The clerk can grant <b>one 45-day extension and then one further 30-day extension</b> before any failure-to-appear action (warrant, DMV hold or civil assessment) - this applies to mandatory and forfeitable infractions; anything beyond that must be referred to a judge. After you have paid the traffic school fine and fees you get <b>one 30-day extension</b> to finish the school, and <b>one 30-day extension</b> on a payment plan set up under Vehicle Code 40510.5 (not on traffic school plans). Request them in person at any Justice Center or online through <a href='https://www.occourts.org/divisions/traffic/my-court-portal-traffic-and-criminal' target='_blank' rel='noopener'>My Court Portal</a>.",
+     "<b>How to pay:</b> online through <a href='https://www.occourts.org/divisions/traffic/my-court-portal-traffic-and-criminal' target='_blank' rel='noopener'>My Court Portal</a> - you need your <b>OC Pay #</b> (printed on the citation - <a href='https://www.occourts.org/online-services/oc-pay' target='_blank' rel='noopener'>look it up here</a>); internet payments only work on or before the original due date, and you <b>cannot</b> post bail online for a court trial or a trial by written declaration. By phone through the automated payment system. By mail: <b>cheques or money orders only, never cash</b>, payable to <b>Clerk of the Court</b>, preprinted with the maker's name and with the case or citation number on it, to Information Payment Center, P.O. Box 6040, Newport Beach, CA 92658-6040 (collected 24 hours a day). In person at any of the four Criminal &amp; Traffic departments - Central (700 Civic Center Dr W, Santa Ana), Harbor (4601 Jamboree Rd, Newport Beach), North (1275 N Berkeley Ave, Fullerton) or West (8141 13th St, Westminster). Cash is accepted only in person; cards accepted are Visa, Mastercard, Discover and Diners Club.",
+     "<b>Traffic school costs $54</b> to the court (the state fee) <i>plus</i> whatever the school itself charges. The clerk can authorise an 8-hour traffic violator school if you are a licensed driver and the offence is an infraction under the Vehicle Code rules of the road, or an equipment violation, that is reportable to the DMV. You are <b>not</b> eligible if the violation carries more than one point on your DMV record, if you elected traffic school within the last 18 months, if it is alcohol or drug related, if you failed to appear and an unpaid civil assessment was added, if the speeding was <b>more than 25 mph over the limit</b>, or if it happened in a commercial vehicle. Commercial-licence holders cited in a non-commercial vehicle may attend, but the conviction is not masked - no points are added instead.",
+     "<b>Cannot afford the full amount?</b> Ask for an <b>Ability to Pay</b> determination - a lower fine, a payment plan, community service or more time to pay. Requests go in through the statewide <a href='https://www.occourts.org/divisions/traffic/mycitations-information' target='_blank' rel='noopener'>MyCitations</a> tool or in person at any Justice Center (Central, Harbor, North or West). Be careful: if your case has not been decided yet, the court may require you to plead guilty or nolo contendere before it will consider your ability to pay.",
+     "<b>Contesting it yourself:</b> the court's <a href='https://www.occourts.org/divisions/traffic/contesting-your-citation' target='_blank' rel='noopener'>Contesting Your Citation</a> page sets out the options, including a <b>trial by written declaration</b> if you would rather not take a day off work.",
+     "<b>Parking tickets are not this court's business.</b> They are issued and handled by the City of Anaheim's parking enforcement, so pay or contest them through the city - not the Superior Court.",
+     "<b>Deadline warning:</b> missing the date on your citation can add a civil assessment and put a hold on your licence. The court's <a href='https://www.occourts.org/self-help/self-help-traffic/failure-go-court-or-pay' target='_blank' rel='noopener'>failure to appear</a> page explains what happens next, and the current <a href='https://www.occourts.org/divisions/traffic/traffic-fines-fees-court-costs-bail-and-bonds' target='_blank' rel='noopener'>fines and bail schedule</a> information is on the court's fines page."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "houston-tx",
+   "city": "Houston",
+   "county": "Harris County",
+   "pay_link": "https://www.houstontx.gov/redirect/ticketpay.html",
+   "pay_label": "City of Houston Municipal Courts - pay a traffic ticket online",
+   "verify": [
+    "the exact court named on your citation (City of Houston vs. Harris County JP)",
+    "the current fine and court costs for your violation"
+   ],
+   "court_link": "https://www.tdlr.texas.gov/driver/driver.htm",
+   "court_label": "TDLR - Texas driving safety (DSC) course rules and approved providers",
+   "local": {
+    "h": "Houston details, verified against Houston Municipal Courts",
+    "bullets": [
+     "<b>City of Houston tickets</b> go to the <b>City of Houston Municipal Courts Department</b> - that is the court this page covers. If the court printed on your citation is a <b>Harris County Justice of the Peace</b> court instead, pay through the county at <a href='https://jp.hctx.net/' target='_blank' rel='noopener'>jp.hctx.net</a>.",
+     "Pay online through the city's <a href='https://www.houstontx.gov/courts/paying-your-fine-online.html' target='_blank' rel='noopener'>ticket payment page</a> - and read its warning: the payment is processed as <b>two separate transactions</b>, the fine first and the service fee second. On a debit or prepaid card, tell your bank two charges are coming and keep enough in the account: if the second one fails, the first is declined too and your bank may hold the money for up to 30 days.",
+     "You <b>cannot</b> pay a Driver Safety Course or a Deferred Disposition through the online payment link - those are requests, not payments. You must appear on or before your scheduled court date, or follow the mail / email instructions.",
+     "<b>Driver Safety Course (DSC)</b> - Texas Code of Criminal Procedure Art. 45A.354 lets you get a charge dismissed by successfully completing a driving safety course. You must ask <b>on or before your arraignment date</b> or you lose the right. You are <b>not</b> eligible if you have no valid Texas driver's license, you held a CDL when you were cited, you took a court-ordered DSC within one year of this citation, or you were charged with 95 mph or more, 25 mph or more over the posted limit, passing a school bus, a serious traffic violation, failing to stop and give information or render aid, or an offence in a construction zone with workers present. Juveniles must apply in person with a parent or guardian. <a href='https://www.houstontx.gov/courts/HowDoIRequestDefensiveDriving.html' target='_blank' rel='noopener'>Requirements and the application form</a>",
+     "<b>Deferred Disposition</b> is a suspended sentence. You plead guilty or no contest, the court defers a finding of guilt and you post a bond and meet conditions: complete them and the case is dismissed (the bond is applied to a special expense fee), fail and it is a conviction <b>reported to the Texas Department of Public Safety</b>. Ask on or before your first court date, in person, by phone or by mail. On a moving violation, if you are under 25 the judge must require a driver safety course; CDL holders are not eligible. Some cases - 26 mph or more over the limit, CDL holders, passing a school bus, no liability insurance, construction-zone violations - <b>must be requested in person</b>. <a href='https://www.houstontx.gov/courts/HowDoIRequestDeferredDisposition.html' target='_blank' rel='noopener'>Full rules</a>",
+     "Fixed the problem? Some tickets can be dismissed after the fact by proving compliance - the city's <a href='https://www.houstontx.gov/courts/ticket_dismissal.html' target='_blank' rel='noopener'>Post Compliance</a> page says what qualifies and what proof to send.",
+     "<b>Parking tickets are a separate system.</b> Pay or contest a City of Houston parking citation from <a href='https://www.houstontx.gov/parking/paycitation.html' target='_blank' rel='noopener'>the parking citations page</a>, not the traffic ticket link.",
+     "Contesting a ticket, changing your court date, fines and fees, and what happens if you neglect a ticket each have their own page - the department's <a href='https://www.houstontx.gov/courts/ticket_information.html' target='_blank' rel='noopener'>Ticket Information</a> hub links them all."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "san-antonio-tx",
+   "city": "San Antonio",
+   "county": "Bexar County",
+   "pay_link": "https://6.municipal.cc/sanantoniocosatx/citationwebportal/",
+   "pay_label": "San Antonio Municipal Court - online citation payment portal",
+   "verify": [
+    "which JP precinct is on your citation",
+    "current fine amount",
+    "driving-safety-course deadline"
+   ],
+   "court_link": "https://www.tdlr.texas.gov/driver/driver.htm",
+   "court_label": "TDLR - Texas driving safety (DSC) course rules and approved providers",
+   "local": {
+    "h": "San Antonio details, verified against the San Antonio Municipal Court",
+    "bullets": [
+     "<b>City of San Antonio citations</b> go to the <b>San Antonio Municipal Court</b>, 401 S. Frio St., San Antonio, TX 78207, 210-207-8970, open Monday to Friday 8am-4:30pm (closed on city holidays). If the citation names a <b>Bexar County Justice of the Peace</b> precinct instead, it is a county case - pay the county, not the city. The Magistrate Court and the Detention Center are open 24/7.",
+     "Pay or resolve online at the <a href='https://6.municipal.cc/sanantoniocosatx/citationwebportal/' target='_blank' rel='noopener'>Municipal Court online payment portal</a>, and look up a case or docket at <a href='https://municipalrecordsearch.com/sanantoniotx' target='_blank' rel='noopener'>municipalrecordsearch.com/sanantoniotx</a>.",
+     "<b>Driver Safety Course (defensive driving):</b> plead <b>no contest or guilty</b>, pay the court costs, and complete a course approved by the <b>Texas Department of Licensing &amp; Regulation (TDLR)</b> and the charge is dismissed. Not every violation qualifies. You need a valid <b>Texas</b> licence (a permit or active-military status also works), current liability insurance with <b>your name on the policy</b> (no commercial policies), <b>no DSC in the last 12 months</b>, no CDL, and you must not have been <b>25 mph or more over the limit</b>, at <b>95 mph or more</b>, passing a school bus loading or unloading children, in a construction or work zone with workers present, or leaving the scene of a collision. You also pay the state and administrative fees when you request - the court notes these change with state law.",
+     "<b>Deferred Disposition</b> is probation: you ask the judge to place you on deferred disposition, agree to the conditions, and the citation is dismissed when you complete them.",
+     "<b>Compliance and dismissal:</b> for certain violations you can have the ticket dismissed by showing proof that you fixed the defect.",
+     "<b>Don't ignore an old ticket.</b> In August 2025 the court contracted with the collection firm <b>Linebarger Goggan Blair &amp; Sampson LLP</b> to chase delinquent criminal, parking and civil code citations. Under Texas law municipal citations <b>do not expire</b> - they stay enforceable until resolved. The court also warns that scam texts impersonating government and collection agents are going around: a genuine Linebarger text only ever comes from the short code <b>98023</b>.",
+     "Once you appear, the court says a judge can <b>reduce or waive amounts due, grant extensions, order community service</b>, or authorise other alternatives to payment. Notices on unadjudicated cases still give you the chance to contest the case and set it for trial."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "dallas-tx",
+   "city": "Dallas",
+   "county": "Dallas County",
+   "pay_link": "https://www.municipalonlinepayments.com/dallastx",
+   "pay_label": "Dallas Municipal Court - pay a citation online (24/7, Visa or Mastercard)",
+   "verify": [
+    "which JP precinct is on your citation",
+    "current fine amount",
+    "driving-safety-course deadline"
+   ],
+   "court_link": "https://www.tdlr.texas.gov/driver/driver.htm",
+   "court_label": "TDLR - Texas driving safety (DSC) course rules and approved providers",
+   "local": {
+    "h": "Dallas details, verified against the Dallas Municipal Court",
+    "bullets": [
+     "<b>City of Dallas citations</b> go to the <b>Dallas Municipal Court</b> (Court &amp; Detention Services), 2014 Main St., Dallas, TX 75201, 214-670-0109. If the court printed on your citation is a <b>Dallas County Justice of the Peace</b> instead, that is a county court - pay there, not the city. <b>Parking citations are separate</b>: pay or appeal them at <a href='https://cityofdallas.rmcpay.com' target='_blank' rel='noopener'>cityofdallas.rmcpay.com</a>. Look up any citation - warrants show in red - at <a href='https://www.municipalrecordsearch.com/dallastx/Cases' target='_blank' rel='noopener'>Dallas Citation Search</a>.",
+     "Watch the <b>21-day clock</b>. The court warns that for a driving safety course &ldquo;once you are past the 21 days, the amount may be higher, or this option may no longer be available&rdquo;. After 21 days from the file date your options are listed on the court's &lsquo;citations over 21 days&rsquo; page.",
+     "<b>What paying means.</b> Paying online enters a <b>plea of No Contest or Guilty</b>, waives your right to a jury trial and to discovery, and a finding of guilt <b>may be reported to the Texas Department of Public Safety</b> (Tex. Code Crim. Proc. art. 27.14(c)). Payments made after hours, at weekends or on holidays do not post until the next business day. Online runs 24/7, <b>Visa or Mastercard only</b>, with a convenience fee.",
+     "<b>Other ways to pay:</b> by phone through AllPaid on <b>1-833-256-5997</b> (24/7, Visa, Mastercard, Amex, Discover); <b>cash at a retail store</b> - nearly 27,000 locations including 7-Eleven, CVS, RiteAid and Walmart, but you must call AllPaid first to get the barcode you need; <b>by mail</b> - a check, cashier's check or money order payable to &lsquo;City of Dallas&rsquo; with the citation number printed on it (the postmark is the received date, certified mail is recommended but not required, and never send cash); or <b>in person</b> with cash, debit or credit card, check or money order. Paying cash or by cheque avoids the card convenience fee.",
+     "<b>Driving Safety Course (DSC):</b> you need a valid <b>Texas</b> licence (other states' licences are not accepted), an insurance policy naming you as a driver, <b>no DSC in the previous 12 months</b>, <b>no CDL</b> (even when you were driving your own car), and you must not have been <b>25 mph or more over the limit</b>, at <b>95 mph or more</b>, passing a school bus, in a construction or maintenance zone with workers present, leaving the scene of a collision, or charged with a serious traffic violation. The fee is <b>$144</b> outside a school zone and <b>$169</b> inside one. Requesting online or by mail is a <b>request only</b> - the court replies by mail in <b>5-7 business days</b> and you must not start the class before you are approved. You then have <b>90 days, with no extensions</b>, and also need the 3A version of your driving record plus a notarised affidavit. National Safety Council and AARP courses are <b>not</b> approved.",
+     "<b>Deferred Disposition</b> keeps the citation off your driving record - the judge dismisses it when you complete the terms. Not available to CDL holders or for construction-zone offences with workers present. If you are <b>under 25</b> and charged with a moving violation the court <b>must</b> require a driving safety course as a term; a provisional-licence holder must be examined by DPS ($10 fee); an under-21 alcohol offence requires an alcohol-awareness course, and certain minor alcohol or tobacco offences require community service. Some cases must be approved by a judge: 25 mph or more over the limit, any juvenile case (you appear with a parent or guardian), Class C assault, theft or reckless damage, minor alcohol or tobacco charges, and public intoxication under 21. You need acceptable photo ID (a Social Security card or a selfie is not accepted) and payment in full.",
+     "<b>Already past 21 days?</b> Your options are: pay in full; set up a payment plan; pay in full for deferred disposition; plead not guilty and post a <b>cash bond equal to the citation amount</b> to get a court date; file a motion <b>by mail or in person only</b> (phone, email, fax and live chat are not accepted); walk-in Proof or Plea court; a compliance dismissal by showing a valid licence or proof of insurance; community service; or time served. A past-due request is answered by mail in <b>3-4 weeks</b>.",
+     "<b>Civil (code / ordinance) citations are a separate system</b> with an administrative hearing officer at 2014 Main St.: you must answer by the <b>31st calendar day</b> after the citation was issued, a corporation must be represented by an attorney, hearings are first-come first-served from 7:30am, and violations can carry civil penalties of up to <b>$1,000 a day</b>. The court also posts a warning about text alerts sent by its collections firm, Linebarger Goggan Blair &amp; Sampson."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "austin-tx",
+   "city": "Austin",
+   "county": "Travis County",
+   "pay_link": "https://austin-portal.ecourt.com/public-portal/?q=node/419",
+   "pay_label": "Austin Municipal Court case portal - look up a case and pay",
+   "verify": [
+    "which JP precinct is on your citation",
+    "current fine amount",
+    "driving-safety-course deadline"
+   ],
+   "court_link": "https://www.austintexas.gov/services/handle-citation",
+   "court_label": "City of Austin - handle a citation (pay, deferral, dismissal, court date)",
+   "local": {
+    "h": "Austin details, verified against the Austin Municipal Court",
+    "bullets": [
+     "<b>Austin citations</b> go to the <b>Austin Municipal Court</b>, the City of Austin's court for Class C misdemeanours - traffic, city ordinance, juvenile and disabled-parking cases. Main courthouse: <b>6800 Burleson Road, Building 310, Suite 175, Austin, TX 78744</b>; phone <b>512-974-4800</b>. Hours are Monday, Tuesday, Wednesday and Friday 8am-6pm and Thursday 8am-8pm. There is a second walk-in location, the <b>North Customer Service Center</b>, 2121 West Parmer Lane, Suite 116, Austin, TX 78727 (Mon-Fri 8am-4:30pm).",
+     "Two steps: <a href='https://austin-portal.ecourt.com/public-portal/?q=node/419' target='_blank' rel='noopener'>look up your case</a> (you need your last name and date of birth, or your driver's licence number) and then choose how to resolve it. The city's <a href='https://www.austintexas.gov/services/handle-citation' target='_blank' rel='noopener'>Handle a citation</a> page walks through every option.",
+     "<b>Paying means pleading.</b> To pay fines, fees and court costs you must first enter a plea of <b>guilty or nolo contendere (no contest)</b> - a no-contest plea means you are not admitting guilt but are not contesting the violation either. You can pay four ways: online through the case portal; on the payment line <b>512-974-4800</b> (Mon-Fri 8am-5pm, excluding holidays); <b>by mail</b> to Austin Municipal Court, P.O. Box 2135, Austin, TX 78768-2135, with the licence plate number, date of violation, citation number and your contact details, cheques payable to &lsquo;Austin Municipal Court&rsquo;; or in person at either courthouse (Western Union is also accepted). If you cannot pay, ask the court about alternative payment options.",
+     "<b>Deferral</b> is a postponement of judgment: asking for one includes a no-contest or guilty plea, and it gives you a window to remedy or offset the violation - for example by getting and keeping insurance, or by taking a driver safety course - while you pay the associated court fees and avoid committing the same type of violation. Complete the terms and the case is <b>dismissed</b>. The cost varies and shows in the online portal once your request is processed.",
+     "<b>Compliance dismissal:</b> fix the problem, then ask the court online or in person to dismiss the case. It sometimes carries a fee of <b>up to $20</b>. It covers common charges such as no driver's licence, failure to display a licence, expired licence, no motorcycle licence, no child safety seat, <b>no insurance</b>, expired registration, unregistered vehicle, unregistered out-of-state vehicle and licence plates; defective-equipment charges may also qualify. If your charge is not listed, contact the court to ask whether it is eligible.",
+     "<b>Disabled parking citations</b> have their own online form - use it to show you were not responsible for the vehicle at the time, or that you did have a placard.",
+     "<b>Want a hearing instead?</b> Email the court to ask for an appearance docket (to discuss the case with a prosecutor before trial), use the online form for a trial by judge, or email the court for a trial by jury. Note that from <b>5 October 2026</b> all attorney appearance dockets and jury trials at the Austin Municipal Court are held <b>only on Tuesdays</b>. Walk-in mitigation runs in person on Thursday evenings, 6pm-8pm, to discuss warrants, commitments and pending cases with a judge.",
+     "<b>Scam alert - &lsquo;vishing&rsquo;:</b> the court warns of fake phone calls from people posing as officers or jury officials. Court business is never conducted by cold call - hang up and call <b>512-974-4800</b> yourself. Also note that delinquent cases can be sent to a collection agency, and unpaid cases can stop a juvenile or minor from renewing a driver's licence."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fort Worth publishes a fine schedule (last version effective 1 March 2024) and adds a $15 state fee if a judgment is not paid within 30 days. Confirm the number for your violation with the court.",
+   "contest_online": true,
+   "slug": "fort-worth-tx",
+   "city": "Fort Worth",
+   "county": "Tarrant County",
+   "pay_link": "https://www.fortworthtexas.gov/departments/municipal-court/services/payments",
+   "pay_label": "Fort Worth Municipal Court - ways to pay a citation",
+   "verify": [
+    "the current fine and court costs for your specific violation (Fort Worth publishes a schedule, but the amount is set case by case)"
+   ],
+   "court_link": "https://www.fortworthtexas.gov/departments/municipal-court",
+   "court_label": "Fort Worth Municipal Court - citations, payments and court dates",
+   "local": {
+    "h": "Fort Worth details, verified against Fort Worth Municipal Court and Tarrant County JP courts",
+    "bullets": [
+     "A citation written by a Fort Worth officer is a <b>city</b> case and goes to the Fort Worth Municipal Court - that is what this page covers. If the court named on your citation is a <b>Tarrant County Justice of the Peace</b>, it was filed with the county instead: <a href='https://www.tarrantcountytx.gov/en/justice-of-the-peace-courts.html' target='_blank' rel='noopener'>Tarrant County JP court list with precinct addresses and phone numbers</a>.",
+     "<b>Ways to pay.</b> Online from the court's payment page, by phone at <b>682-999-3681</b>, by mail to 1000 Throckmorton St., Fort Worth, TX 76102-6382, or in person. Cash can also be paid at participating retail stores through the VanillaDirect network - the payment page lists the stores.",
+     "<b>Trap - the $15 late fee.</b> Since <b>1 January 2020</b>, if a fine is not paid within <b>30 days of judgment</b> the court adds a <b>$15 state fee</b>. Ask the court to confirm your judgment date before you let a payment slide.",
+     "<b>Contesting or just checking the number.</b> The court runs an online <a href='https://apps.fortworthtexas.gov/Citation_Request_2025/MobTraffic/MobTrafficRequest' target='_blank' rel='noopener'>citation request portal</a> where you can enter a plea and ask for a court date, and publishes its <a href='https://www.fortworthtexas.gov/files/assets/public/v/1/municipal-court/documents/fine-schedule-2_1.pdf' target='_blank' rel='noopener'>fine schedule as a PDF</a> so you can see the amount for your violation before you call.",
+     "<b>Counter hours changed on 5 October 2026:</b> Monday to Thursday 8:00am-5:00pm in person, <b>Fridays online only</b>. To update the address on a case, call <b>817-392-6700</b>.",
+     "<b>Driving safety course (county tickets).</b> Tarrant County publishes real numbers for its JP courts: a JP traffic ticket's driving safety course totals <b>$144</b> - a $10 DSC fee plus $134 in court costs. You must request it <b>on or before your court date</b>, sign an affidavit (notarised if you mail it), show proof of financial responsibility, finish the course within <b>90 days</b> and file the certificate; you are not eligible with a CDL, if you took a DSC for a dismissal in the last 12 months, or on violations like 25 mph or more over the limit or passing a school bus. See the county's <a href='https://www.tarrantcountytx.gov/en/justice-of-the-peace-courts/justice-5/tickets-citations.html' target='_blank' rel='noopener'>JP ticket and DSC page</a>. If your case is in the city court, the city's own dismissal options are on its citations page."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "arlington-tx",
+   "city": "Arlington",
+   "county": "Tarrant County",
+   "pay_link": "https://arlingtontx.municipalonlinepayments.com",
+   "pay_label": "Arlington Municipal Court online payments (search your case and pay)",
+   "verify": [
+    "the current fine and court costs for your specific violation"
+   ],
+   "court_link": "https://www.arlingtontx.gov/Government/Municipal-Court",
+   "court_label": "Arlington Municipal Court - official court page",
+   "local": {
+    "h": "Arlington details, verified against Arlington Municipal Court and Tarrant County JP 2",
+    "bullets": [
+     "A citation written by an Arlington officer goes to the <b>Arlington Municipal Court</b>, 101 W. Abram St., Arlington, TX 76010 (phone <b>817-459-6777</b>). By mail: P.O. Box 90403 MS 63-0100, Arlington, TX 76004-3403.",
+     "<b>Pay or look up your case</b> at the court's <a href='https://arlingtontx.municipalonlinepayments.com' target='_blank' rel='noopener'>online payment portal</a> - searching your case first also shows you what requests you are allowed to make.",
+     "<b>Deferred disposition and driving safety course</b> are both explained on the court's <a href='https://www.arlingtontx.gov/Government/Municipal-Court/Municipal-Court-Options' target='_blank' rel='noopener'>Municipal Court Options page</a>, including the application route for each.",
+     "<b>Trap.</b> The court's own options page spells out what happens if you default: the deferred disposition or DSC is revoked, a <b>conviction is reported to the Texas Department of Public Safety</b>, and an <b>arrest warrant</b> can be issued. A dismissal is only a dismissal if you finish every condition on time.",
+     "<b>If a county officer stopped you</b> - a Tarrant County deputy or constable, or a citation filed with a Justice of the Peace - it is a county case, not this court. The JP precinct covering Arlington is <b>Precinct 2</b> (Judge Mary Tom Curnutt), Southeast Subcourthouse, 700 East Abram Street, Suite 200, Arlington, TX 76010, <b>817-548-3925</b>. Full <a href='https://www.tarrantcountytx.gov/en/justice-of-the-peace-courts.html' target='_blank' rel='noopener'>Tarrant County JP precinct list</a>."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Plano publishes its actual fine schedule: speeding 1-10 mph over is $184 and 25 over is $334, with $50 added in a construction zone. See the full table on the court's Offenses and Fines page.",
+   "contest_online": true,
+   "slug": "plano-tx",
+   "city": "Plano",
+   "county": "Collin County",
+   "pay_link": "https://www.plano.gov/fine-payment-information",
+   "pay_label": "Plano Municipal Court - fine payment information (online, mail, in person)",
+   "verify": [],
+   "court_link": "https://www.plano.gov/handle-your-citations",
+   "court_label": "Plano Municipal Court - handle your citations (pay, extensions, dismissals)",
+   "local": {
+    "h": "Plano details, verified against Plano Municipal Court and Collin County JP 3",
+    "bullets": [
+     "A city citation goes to the <b>Plano Municipal Court</b> at the Raymond Robinson Justice Center, 900 E 15th St, Plano, TX 75074 - <b>972-941-2199</b>, court@plano.gov. By mail: P.O. Box 860828, Plano, TX 75086-0828. Counter hours are Monday, Tuesday, Wednesday and Friday 7:30am-4:30pm, Thursday 8:30am-4:30pm.",
+     "<b>Pay online</b> at <a href='https://planotx.municipalonlinepayments.com' target='_blank' rel='noopener'>the city's online payment system</a>. Two things the court warns about: most tickets <b>do not appear online until about three days after the offence</b>, and you are still responsible for making an appearance within <b>15 calendar days of the offence date</b> - so an offline ticket is not extra time.",
+     "<b>Plano publishes its real fine numbers</b> (rare - most Texas cities do not): speeding <b>1-10 mph over = $184</b>, 11 over = $189, 20 over = $234, 25 over = $334; a construction zone adds $50 to the same bands (1-10 over = $234). Other published fines: red light $234, stop sign $194, no insurance (first offence) $331, driving while licence invalid $281, expired or no registration $121, passing a school bus $659, handicap-zone parking $514. Full table: <a href='https://www.plano.gov/offenses-and-fines' target='_blank' rel='noopener'>Offenses and Fines</a>.",
+     "<b>Trap - asking for more time has a price.</b> The court's fine-payment page says that by requesting an extension to pay you enter a plea of <b>nolo contendere</b> and <b>waive your right to a jury trial, a driving safety course and deferred disposition</b>. If you might want this ticket dismissed, do not simply ask for an extension.",
+     "<b>Dismissal routes, each with its own rules:</b> <a href='https://www.plano.gov/dismissals' target='_blank' rel='noopener'>Dismissals</a> hub, plus <a href='https://www.plano.gov/deferred-disposition' target='_blank' rel='noopener'>Deferred Disposition</a>, <a href='https://www.plano.gov/driving-safety-course' target='_blank' rel='noopener'>Driving Safety Course</a> and <a href='https://www.plano.gov/insurance-citations' target='_blank' rel='noopener'>Insurance Citations</a> (proof of insurance can dismiss a no-insurance ticket).",
+     "<b>County citations:</b> Collin County Justice of the Peace <b>Precinct 3</b> sits in Plano - 920 E. Park Blvd, Suite 210, Plano, TX 75074, <b>972-881-3051</b> (<a href='https://www.collincountytx.gov/courts/justices-peace/justice-precinct-3' target='_blank' rel='noopener'>JP 3 page</a>). A sliver of Plano also lies in Denton County, so a citation from a county officer there would go to a Denton County JP instead."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "corpus-christi-tx",
+   "city": "Corpus Christi",
+   "county": "Nueces County",
+   "pay_link": "https://corpuschristitx.municipalonlinepayments.com/corpuschristitx/court/search",
+   "pay_label": "Corpus Christi Municipal Court - search your citation and pay online",
+   "verify": [],
+   "court_link": "https://www.corpuschristitx.gov/department-directory/municipal-court",
+   "court_label": "Corpus Christi Municipal Court - official court page",
+   "local": {
+    "h": "Corpus Christi details, verified against Corpus Christi Municipal Court",
+    "bullets": [
+     "A city citation goes to the <b>Corpus Christi Municipal Court</b>, 120 N. Chaparral Street, Corpus Christi, TX 78401 - <b>361-826-2500</b>, MCMail@CorpusChristiTX.gov. Open 8am-4pm Monday to Friday, with <b>extended hours Thursdays until 6pm</b>; the site has a free parking map.",
+     "<b>Pay online</b> at <a href='https://corpuschristitx.municipalonlinepayments.com/corpuschristitx/court/search' target='_blank' rel='noopener'>the city's payment portal</a>. Search with your citation number in the format <b>CT012345</b> (capitals) plus your date of birth as MM/DD/YYYY. The portal adds a <b>3% credit-card fee plus a $2.50 online convenience fee</b>, charged separately.",
+     "<b>Trap - paying is pleading.</b> The portal states that if you pay a new citation without a court order, a plea of <b>no contest</b> and a judgment are entered, and the <b>conviction is reported to the Texas Department of Public Safety</b> for your driving record. Only pay in full if you mean to accept the conviction.",
+     "<b>All the options in one place:</b> the court's <a href='https://www.corpuschristitx.gov/department-directory/municipal-court/citation-options' target='_blank' rel='noopener'>citation options hub</a> links pay online, <a href='https://www.corpuschristitx.gov/department-directory/municipal-court/citation-options/request-deferred-disposition' target='_blank' rel='noopener'>request deferred disposition</a>, <a href='https://www.corpuschristitx.gov/department-directory/municipal-court/citation-options/request-defensive-driving' target='_blank' rel='noopener'>request defensive driving</a>, pay by phone (<b>1-866-299-7084</b>), pay by mail or in person, payment plans (MCPaymentPlan@CorpusChristiTX.gov) and time served.",
+     "<b>Driving safety course.</b> You must elect it <b>on or before the appearance date on the citation</b> and plead no contest or guilty, sign an affidavit under penalty of perjury, and then complete everything in the DSC order within <b>90 days</b>. You are <b>not</b> eligible if you hold a CDL (or held one at the time of the offence), were charged with 25 mph or more over the limit or 95 mph or more, were charged with a city ordinance violation and you are 25 or older, were in a construction or maintenance zone with workers present, passed a school bus, or failed to give information and render aid - and you must not have taken a DSC for a dismissal in the 12 months before this citation.",
+     "<b>County citations:</b> citations filed by Nueces County deputies or constables go to a Nueces County Justice of the Peace, not this court - see the <a href='https://www.nuecesco.com/courts/justices-of-the-peace' target='_blank' rel='noopener'>Nueces County JP courts</a> (for example JP 1-1 at 901 Leopard St., Room 116, 361-888-0201).",
+     "<b>Need to move a court date?</b> The court takes motions by email (MCMotions@CorpusChristiTX.gov) and publishes a motion for continuance form."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Most municipal traffic violations in El Paso carry a maximum fine of $200, set case by case, with state-mandated court costs added on top. Parking is a separate schedule ($25-$275) with its own delinquency fees.",
+   "contest_online": true,
+   "slug": "el-paso-tx",
+   "city": "El Paso",
+   "county": "El Paso County",
+   "pay_link": "https://www.elpasotexas.gov/municipal-courts/payment-methods-and-violation-fees",
+   "pay_label": "El Paso Municipal Court - payment methods and violation fees",
+   "verify": [],
+   "court_link": "https://www.elpasotexas.gov/municipal-courts",
+   "court_label": "El Paso Municipal Court - official court page",
+   "local": {
+    "h": "El Paso details, verified against El Paso Municipal Court",
+    "bullets": [
+     "A city citation goes to the <b>El Paso Municipal Court</b>, 810 E. Overland Ave., El Paso, TX 79901 - <b>915-212-0215</b> (choose option 7 for a court representative). Court locations: Pebble Hills, Mission Valley and Northeast; the <b>Westside location is closed</b>.",
+     "<b>Ways to pay:</b> in person at any court location, by phone at <b>915-212-0232</b>, by mail (cheque, money order or cashier's cheque payable to <i>City of El Paso</i>, with your ticket number, driver's licence number and date of birth written on it - cheques are converted to electronic transfers), or online by card. Cash, personal/cashier's cheques, money orders, cards and Apple/Samsung Pay are accepted.",
+     "<b>Trap - someone else cannot pay it for you.</b> The court states a citation <b>may not be paid by another person</b> unless the case has a guilty disposition or a payment plan, and the person cited must be present with ID to pay in person. Also, <b>warrants stay active until the ticket is paid in full</b>.",
+     "<b>Fines and costs:</b> most municipal traffic violations top out at a <b>$200</b> fine, penal violations at $500, and city ordinance violations at $500-$2,000. The fine is set on the facts of the case, and state-mandated court costs are added - a jury trial adds <b>$3</b>, and if a peace officer served the warrant another <b>$50</b> is assessed.",
+     "<b>Paying over time costs more.</b> State law makes the court add a <b>reimbursement fee</b> to each violation on the <b>31st day from the date of conviction</b> if the fine is not paid in full - so pay inside the first 30 days and it does not apply.",
+     "<b>Parking is a separate system</b> handled off the same court page: $25-$275 depending on the violation, <b>$10 more for each 30 days delinquent</b> (capped at $60), plus a <b>30% collection-agency fee</b> applied on the 75th day after the ticket was issued. You can request an in-person parking hearing within <b>14 days</b> of the citation.",
+     "<b>Driving safety course by right:</b> request it at your scheduled court hearing, online, by mail to 810 E Overland, El Paso, TX 79901, or in person - then finish within <b>90 days</b> and file your <b>3A certified driving record</b> from DPS, the TDLR court-copy certificate of completion and proof of insurance. You are not eligible without a valid Texas licence (or active military / military family with a valid licence), with a CDL, if you took a DSC for a traffic offence in the last 12 months, if you were 25 mph or more over the limit, or on the listed offences such as failure to give information at an accident scene.",
+     "<b>Under 17?</b> State law requires you to appear before a judge with a parent or legal guardian <b>before</b> paying - fines mailed in before that appearance are not accepted.",
+     "<b>City or county?</b> If a city officer wrote the ticket it is a city case. El Paso County's seven Justice of the Peace precincts handle county-filed cases - the <a href='https://www.epcounty.com/Directory.aspx?did=100' target='_blank' rel='noopener'>county JP directory</a> lists every precinct's address, phone and hours (Precinct 1, for example, is at 424 Executive Center, Suite 100, 915-273-3052)."
+    ]
+   }
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Confirm the amount with the Justice of the Peace court named on your citation.",
+   "contest_online": true,
+   "slug": "denton-tx",
+   "city": "Denton",
+   "county": "Denton County",
+   "pay_link": "https://www.cityofdenton.com/358/Municipal-Court",
+   "pay_label": "Denton Municipal Court - online resolution system, phone, mail and in-person payments",
+   "verify": [],
+   "court_link": "https://www.cityofdenton.com/358/Municipal-Court",
+   "court_label": "Denton Municipal Court - ticket resolution options",
+   "local": {
+    "h": "Denton details, verified against Denton Municipal Court",
+    "bullets": [
+     "A citation issued by a <b>Denton, UNT or TWU officer</b> is filed with the <b>Denton Municipal Court</b> - City Hall East, 601 E. Hickory St., Suite D, Denton, TX 76205, <b>940-349-8331</b>. Open Monday to Thursday 8am-5pm, Friday 8am-noon.",
+     "A citation from a sheriff's deputy or state trooper, or from another city, is filed somewhere else - and the court warns its clerks <b>cannot see county or other cities' records</b> to help you with it.",
+     "<b>Resolve it online</b> with the court's <b>Online Resolution System</b> (linked from <a href='https://www.cityofdenton.com/court' target='_blank' rel='noopener'>cityofdenton.com/court</a>): depending on the charge you can view your case, see the options you are allowed, submit a plea and request, and finish the case without coming in. You can also use the automated phone line at <b>940-349-7244</b> or <b>940-240-3070</b> - but note the court says <b>clerks cannot take payments over the phone</b>, so calling a clerk only gets you information.",
+     "<b>Trap.</b> The court states plainly that <b>paying the citation in full results in a conviction</b> that may appear on your driving or criminal record. Look at the resolution options the portal offers before you pay.",
+     "<b>Court dates are on you.</b> All non-jury hearings are held remotely in virtual court over Zoom, and the court says you are <b>responsible for confirming your own appearance date and time</b> - clerks will tell you if you call, but no reminder is guaranteed.",
+     "<b>County citations:</b> a case filed with Denton County goes to a county Justice of the Peace - JP 1 is at 1 Courthouse Drive, Suite 1100, Denton, TX 76208, <b>940-349-3170</b> (<a href='https://www.dentoncounty.gov/481/Justice-of-the-Peace-Precinct-1' target='_blank' rel='noopener'>JP 1 page</a>), and the county JPs run their own online payment sites."
+    ]
+   }
+  },
+  {
+   "state": "AZ",
+   "state_name": "Arizona",
+   "slug": "phoenix-az",
+   "city": "Phoenix",
+   "county": "Maricopa County",
+   "pay_link": "https://phoenixcourt.gov/Payments/Search",
+   "pay_label": "Phoenix Municipal Court - financial obligation search and online payment",
+   "court_link": "https://www.phoenix.gov/administration/departments/court",
+   "court_label": "Phoenix Municipal Court - official court information",
+   "fine_note": "Phoenix sets the fine on the facts of the case and adds state surcharges and fees. The financial obligation search on the court's own site shows what you actually owe today.",
+   "school_eligible": "Arizona's defensive driving program can get an eligible civil traffic violation dismissed: if you complete a class at an Arizona Supreme Court certified school, the school notifies the court and the charge is dismissed from your record. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+   "school_link": "https://www.azcourts.gov/drive",
+   "points_note": "Arizona tracks points on your MVD record and an accumulation can lead to a licence suspension and/or a mandatory class.",
+   "lawyer_cost": "$250-$500 typical for a simple civil traffic violation",
+   "contest_online": false,
+   "tool_note": "In Arizona the record-protection route is the defensive driving program (a course that dismisses the charge), not a points-reduction class.",
+   "local": {
+    "h": "Phoenix details, verified against Phoenix Municipal Court",
+    "bullets": [
+     "A citation from a Phoenix police officer or city code enforcement goes to the <b>Phoenix Municipal Court</b>, 300 W. Washington Street, Phoenix, AZ 85003 - <b>602-262-6421</b>, open 8:00am-5:00pm Monday to Friday. If the ticket was written on a state highway outside the city, it is a Maricopa County Justice Court case instead - check the court named at the top of the citation.",
+     "<b>Ways to pay:</b> online through the court's financial obligation search, by mail (cheque or money order only, never cash) to Phoenix Municipal Court, PO Box 25650, Phoenix, AZ 85002-5650, or in person at 300 W. Washington. To clear a <b>warrant</b> you can pay the full warrant amount by phone at 602-262-6421 (partial payments are not accepted), and payment in full is also available 24 hours a day at the Maricopa County Sheriff's Office, 201 S. 4th Ave.",
+     "<b>Defensive driving instead of paying:</b> if your violation is a civil traffic violation you can elect a defensive driving class at an <a href='https://www.azcourts.gov/drive' target='_blank' rel='noopener'>Arizona Supreme Court certified school</a>. The school reports your completion and the charge is <b>dismissed from your record</b>. If you live out of state you must take an online course or come back to Arizona for a classroom course. Need the date moved? The court requires a written continuance request within <b>7 days</b> of your court date.",
+     "<b>Do not rely on same-day updates.</b> The court sends MVD updates daily, but MVD records can take up to <b>72 hours</b> to catch up - so a warrant you just cleared can still show up on a police check for a few days.",
+     "<b>To contest it,</b> you enter a not-guilty plea and the court sets a hearing; the court's own self-service site is the place to check your case status and what you owe before you decide."
+    ]
+   },
+   "verify": [
+    "the current fine and surcharge for your specific violation"
+   ]
+  },
+  {
+   "state": "NV",
+   "state_name": "Nevada",
+   "slug": "las-vegas-nv",
+   "city": "Las Vegas",
+   "county": "Clark County",
+   "pay_link": "https://lasvegasjusticecourt.us/",
+   "pay_label": "Las Vegas Justice Court - look up and pay a traffic citation",
+   "court_link": "https://lasvegasjusticecourt.us/",
+   "court_label": "Las Vegas Justice Court (Clark County) official site",
+   "fine_note": "Nevada now splits traffic citations into civil infractions and criminal traffic violations. The fine depends on the violation and is set by the court - the citation shows your response date.",
+   "school_eligible": "Nevada does not dismiss a ticket with a course, but the DMV gives a <b>3-point demerit reduction</b> for a DMV-approved traffic safety course when you have 3-11 active points, generally once every 12 months. A course you take under a court plea agreement does not earn that reduction.",
+   "school_link": "https://dmv.nv.gov/dlpoints.htm",
+   "points_note": "Nevada counts demerit points: 12 or more in a 12-month period can suspend your licence.",
+   "lawyer_cost": "$250-$500 typical",
+   "contest_online": false,
+   "tool_note": "Nevada has no ticket-dismissal course. The DMV course only knocks 3 points off an existing record once a year, and a court-ordered course does not count for it.",
+   "local": {
+    "h": "Las Vegas details, verified against Las Vegas Justice Court",
+    "bullets": [
+     "Most traffic citations in the Las Vegas valley are filed with the <b>Las Vegas Justice Court</b> (Clark County), 1st floor, Regional Justice Center, 200 Lewis Ave. The court's own site is where you check whether your citation has been loaded yet - it is common for a citation not to appear for days after the stop, and the court's advice is to check back weekly rather than assume it is missing.",
+     "<b>Two different lanes since Nevada's 2023 changes</b> (Assembly Bill 116 of the 81st session): a <b>civil infraction</b> and a <b>criminal traffic violation</b>. A civil infraction gets a window measured from the date the citation is made available online. If there is a <b>court date printed on your citation</b>, it is a criminal traffic case and you must appear.",
+     "<b>Paying:</b> uncontested civil infractions can be paid online on the court's site. <b>Contesting a civil infraction is in person only</b> - you must go to the court's Customer Service Division on the 1st floor of the Regional Justice Center; there is no online contest for a civil infraction.",
+     "<b>Regulatory criminal citations</b> - licence, registration, insurance and handicap placard violations - can be handled online on the same court site.",
+     "<b>Points:</b> Nevada's DMV removes 3 demerit points for a DMV-approved traffic safety course if you have between 3 and 11 active points, generally once every 12 months (<a href='https://dmv.nv.gov/dlpoints.htm' target='_blank' rel='noopener'>Nevada DMV points page</a>). Twelve points in 12 months can suspend your licence, and at that level the voluntary reduction no longer helps.",
+     "<b>Check the court name.</b> Henderson and North Las Vegas have their own justice courts. If your citation names Henderson Justice Court, that court handles it - and it does <b>not</b> take payment by phone. Juveniles under 18 are not eligible for online payment anywhere and must appear with a parent or guardian."
+    ]
+   },
+   "verify": [
+    "the fine for your specific violation (Nevada courts set it case by case)"
+   ]
+  },
+  {
+   "state": "CO",
+   "state_name": "Colorado",
+   "slug": "denver-co",
+   "city": "Denver",
+   "county": "Denver County",
+   "pay_link": "https://public.denvercountycourt.org/Payment",
+   "pay_label": "Denver County Court - pay a ticket or fine online",
+   "court_link": "https://www.denvercountycourt.org/",
+   "court_label": "Denver County Court - official site",
+   "fine_note": "Denver County Court sets the fine on the facts of the case and adds costs. A photo radar or photo red-light notice carries a set penalty printed on the notice.",
+   "school_eligible": "Colorado does not remove points after a conviction, so there is no course that cleans the record. What exists is a deferral or plea agreement in the case itself, and at the DMV a point-suspension hearing where you can raise mitigating circumstances or ask for a probationary licence.",
+   "school_link": "https://dmv.colorado.gov/",
+   "points_note": "Colorado suspends an adult driver at 12 points in 12 months; points stay on your record for two years from the offence.",
+   "lawyer_cost": "$300-$500 typical",
+   "contest_online": true,
+   "tool_note": "Colorado cannot erase points after the fact. In Denver the realistic routes are posting bond and contesting the case, or dealing with the points at a DMV hearing later.",
+   "local": {
+    "h": "Denver details, verified against Denver County Court",
+    "bullets": [
+     "Denver is a consolidated city and county, so city traffic tickets go to the <b>Denver County Court</b>, Traffic Division, 1437 Bannock Street, Room 140. Pay online through the court's public portal - but note the portal will not let you pay fines and costs while there is an outstanding warrant or bond on the case; you must post bond or address the warrant first.",
+     "<b>Photo radar and photo red light</b> notices are issued by the police department rather than at a traffic stop. You will need the <b>notice number and city code</b>. Pay online, or by mail - cheques, cashier's cheques or money orders payable to <i>Manager of Finance</i> - to Denver Photo Enforcement Program, Payment Center, PO Box 17909, Denver, CO 80217. There is also a drop box at the Traffic Division, 1437 Bannock St., Room 140: it is a <b>payment drop box only</b>, so a clerk there cannot take a payment from you.",
+     "<b>The respond-by date is an arraignment date.</b> On a penalty assessment notice, the respond-by/arraignment date is when you must act; missing it can add costs and eventually a warrant.",
+     "<b>Points:</b> Colorado suspends an adult driver at <b>12 points in 12 months</b>, and points stay on your record two years. You can request a <b>non-alcohol (points) hearing</b> through myDMV to check that the points were calculated correctly, raise mitigating circumstances, or ask for a <b>probationary licence</b> that keeps you driving to work. A points hearing cannot revisit whether you were guilty - that happened in traffic court.",
+     "<b>Check the court name.</b> A ticket written by a state trooper outside Denver city limits belongs to a county court (Arapahoe, Jefferson, Adams and so on), not to Denver County Court."
+    ]
+   },
+   "verify": [
+    "the current fine and costs for your specific violation"
+   ]
+  },
+  {
+   "state": "WA",
+   "state_name": "Washington",
+   "slug": "seattle-wa",
+   "city": "Seattle",
+   "county": "King County",
+   "pay_link": "https://www.seattle.gov/courts/tickets-and-payments/pay-my-ticket",
+   "pay_label": "Seattle Municipal Court - pay my ticket",
+   "court_link": "https://www.seattle.gov/courts/tickets-and-payments/dispute-my-ticket",
+   "court_label": "Seattle Municipal Court - dispute my ticket (hearings, deadlines, evidence)",
+   "fine_note": "Washington sets a statewide penalty schedule for civil traffic infractions, so the base fine for a given infraction is the same across the state; the amount is printed on the notice along with any local assessments.",
+   "school_eligible": "Washington has no traffic-school dismissal. The equivalent is a <b>deferred finding</b>: the court defers the ticket for up to a year and, if you stay violation-free through the deferral, it never goes on your record. Most drivers get one deferral for a moving and one for a non-moving infraction every seven years.",
+   "school_link": "https://app.leg.wa.gov/RCW/default.aspx?cite=46.63.070",
+   "points_note": "Washington does not use points. A civil infraction still shows on your DOL record for three years and can affect your insurance - a deferred finding keeps it off, which is the real prize.",
+   "lawyer_cost": "$300-$500 typical",
+   "contest_online": true,
+   "tool_note": "Washington's version of traffic school is a deferred finding (RCW 46.63.070) - ask the court to defer and stay clean for the deferral period.",
+   "local": {
+    "h": "Seattle details, verified against Seattle Municipal Court",
+    "bullets": [
+     "A ticket from Seattle police goes to the <b>Seattle Municipal Court</b>. A Washington State Patrol ticket written on a highway is a King County District Court case instead - the court named on the notice is the one that matters.",
+     "<b>Four ways to respond:</b> pay the full amount, ask the court about a payment plan, ask for a <b>mitigation hearing</b> (you accept that you broke the rule but want to explain the circumstances), or ask for a <b>contested hearing</b> (you say you did not break the rule).",
+     "<b>The deadline is the whole game:</b> you must ask for a hearing within <b>30 days</b> if the ticket was handed to you or placed on your car, or <b>33 days</b> if it was mailed to you. Miss it and you lose the hearing.",
+     "<b>How to ask:</b> the online hearing request form is the easiest route; you can also check the box on the back of the ticket and bring or mail it to Seattle Municipal Court, PO Box 34987, Seattle, WA 98124-4987, or call <b>(206) 684-5600</b>. The court mails or emails your hearing date and time.",
+     "<b>What happens at the hearing:</b> a contested hearing starts with a <b>pre-hearing settlement conference</b>, a chance to resolve it without a full hearing - you can skip that and go straight to trial by returning the waiver form sent with your notice. Two traps: if you contest <b>in writing</b> you cannot appeal, and a <b>mitigation decision is final too</b> - so send your photos and documents in first (upload to the Public Portal or email CourtCalendar.SMC@seattle.gov).",
+     "<b>The deferred finding</b> is Washington's real record-protection tool: the court can defer the finding for up to a year and impose conditions; complete them and the infraction does not go on your record. Most drivers can use it once for a moving and once for a non-moving infraction every seven years."
+    ]
+   },
+   "verify": []
+  },
+  {
+   "state": "GA",
+   "state_name": "Georgia",
+   "slug": "atlanta-ga",
+   "city": "Atlanta",
+   "county": "Fulton County",
+   "pay_link": "https://ptit.atlantaga.gov",
+   "pay_label": "Municipal Court of Atlanta - pay a ticket / look up your case (PTIT)",
+   "court_link": "https://court.atlantaga.gov",
+   "court_label": "Municipal Court of Atlanta - official court site",
+   "fine_note": "If your citation is eligible for online payment, the fine appears when you look your case up in the court's Find My Case tool. If it is not, only a judge sets the fine and you have to appear.",
+   "school_eligible": "Georgia has no course that dismisses a ticket. The record-protection tool is a <b>nolo contendere</b> plea: it is reported to DDS and shows on your record, but no points are assessed. You may only use it <b>once every five years</b>, and the judge decides whether to accept it.",
+   "school_link": "https://dds.georgia.gov/points-schedule",
+   "points_note": "Georgia assesses 2-6 points per violation, and 15 points in 24 months suspends your licence - DDS publishes the exact point value for every offence code.",
+   "lawyer_cost": "$300-$600 typical",
+   "contest_online": true,
+   "tool_note": "In Georgia the record-protection move is a nolo contendere plea - once every five years, at the judge's discretion - not a course.",
+   "local": {
+    "h": "Atlanta details, verified against the Municipal Court of Atlanta",
+    "bullets": [
+     "A citation from an Atlanta police officer goes to the <b>Municipal Court of Atlanta</b> - the largest municipal court in Georgia, with jurisdiction over traffic offences inside the city limits, including DUI and city ordinance violations. It also handles the city's camera enforcement: photo school-bus violations, false alarms, parking and code enforcement. A ticket written in the county rather than the city goes to a Fulton County court.",
+     "<b>Paying:</b> if your citation is eligible for online payment, a <b>green payment button</b> appears when you view the case in the court's Find My Case tool, and you pay on the court's payment portal with a credit or debit card (American Express, Discover, Visa, Mastercard). The fine must be paid in full.",
+     "<b>Timing tip:</b> if you pay in full by the <b>business day before your scheduled court date</b>, you do not need to attend court. If your citation is <b>not</b> eligible for online payment, a judge determines the final fine at your appearance - some offences require a mandatory appearance.",
+     "<b>Other payment routes:</b> money orders by mail or in person; cash in person; Apple Pay and Tap-to-Pay in person, with a <b>3% convenience fee</b> added to the fine.",
+     "<b>A guilty plea is reported to the Georgia Department of Driver Services</b> and points can be assessed against your licence. If you hold a commercial driver's licence, the court's own guidance is to contact DDS <b>before</b> paying online, because the consequences are different for CDL holders.",
+     "<b>Cannot pay in full?</b> You must appear before a judge to be considered for payment options and alternatives - there is no instalment button online."
+    ]
+   },
+   "verify": [
+    "the current fine and costs for your specific violation"
+   ]
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "slug": "orlando-fl",
+   "city": "Orlando",
+   "county": "Orange County",
+   "pay_link": "https://www.myorangeclerk.com/Divisions/Traffic",
+   "pay_label": "Orange County Clerk of Courts - traffic tickets (pay, elect school, request a hearing)",
+   "court_link": "https://www.myorangeclerk.com/Divisions/Traffic",
+   "court_label": "Orange County Clerk of Courts - traffic division",
+   "fine_note": "In Florida the fine for a traffic infraction comes from a statewide penalty schedule plus county surcharges, and the amount is printed on the citation. The county Clerk of Courts collects it - not a city court.",
+   "school_eligible": "Florida lets you elect a 4-hour Basic Driver Improvement course instead of paying points: the adjudication is withheld and no points are assessed. You generally have <b>30 days</b> from the citation to make the election, and you can only do it once in a 12-month period.",
+   "school_link": "https://www.flhsmv.gov/driver-licenses-id-cards/driver-improvement-schools/",
+   "points_note": "Florida adds 3, 4 or 6 points per moving violation and suspends at 12 points in 12 months, 18 in 18 months or 24 in 36 months. Points stay on your record three years.",
+   "lawyer_cost": "$250-$500 typical",
+   "contest_online": true,
+   "tool_note": "In Florida the record-protection route is electing Basic Driver Improvement within about 30 days - do that before you simply pay, because paying closes the door.",
+   "local": {
+    "h": "Orlando details, verified against the Orange County Clerk of Courts",
+    "bullets": [
+     "<b>Florida has no city traffic court for this.</b> The county <b>Clerk of Courts</b> collects traffic fines: for Orlando that is the Orange County Clerk of Courts, 425 N. Orange Ave., Orlando, FL 32801 - <b>407-836-2000</b> (Monday to Friday, 7:30am-4:00pm).",
+     "<b>Ways to pay:</b> online at MyOrangeClerk.com with your case or citation number; by mail (cheque or money order only, payable to <i>Orange County Clerk of Courts</i>, 425 N. Orange Ave., Orlando, FL 32801); by phone at 407-836-2000; in person; or in cash at <b>Amscot and Western Union</b> locations. Payments are <b>not</b> accepted at county Public Works offices.",
+     "<b>Your four responses</b> are all explained on the clerk's own notice: pay, elect a Basic Driver Improvement course, file an affidavit accepting or denying responsibility (downloadable from ViolationInfo.com - it must reach the clerk <b>on or before the due date</b>), or request a hearing by signing and mailing the original citation to the clerk. Failure to respond by the due date starts the penalty ladder.",
+     "<b>Need more time?</b> Request an extension online. Orange County charges <b>$4 per 30-day extension</b> and allows a maximum of <b>two</b>.",
+     "<b>Electing the course is the record-protection move:</b> a Basic Driver Improvement course is the difference between a withheld adjudication and a conviction with points. Do the election inside the window the citation gives you - and remember the clock runs from the citation date, not from when you got round to it.",
+     "<b>Points:</b> Florida's thresholds are 12 points in 12 months (30-day suspension), 18 in 18 months (three months) and 24 in 36 months (one year); points stay three years, and they are counted from the violation date, not the payment date."
+    ]
+   },
+   "verify": []
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "slug": "miami-fl",
+   "city": "Miami",
+   "county": "Miami-Dade County",
+   "pay_link": "https://www2.miamidadeclerk.gov/trafficapp",
+   "pay_label": "Miami-Dade Clerk of Courts - traffic ticket payment app",
+   "court_link": "https://www2.miamidadeclerk.gov/trafficapp",
+   "court_label": "Miami-Dade Clerk of Courts - traffic/misdemeanor division",
+   "fine_note": "Florida's fine comes from the statewide penalty schedule plus county surcharges, printed on your citation. The Clerk of Courts collects it, not a city court.",
+   "school_eligible": "Florida lets you elect a 4-hour Basic Driver Improvement course to keep points off your record, generally within 30 days of the citation and once in a 12-month period. That election is the single biggest decision on a Miami moving violation.",
+   "school_link": "https://www.flhsmv.gov/driver-licenses-id-cards/driver-improvement-schools/",
+   "points_note": "Florida adds 3, 4 or 6 points per moving violation and suspends at 12 points in 12 months, 18 in 18, or 24 in 36. Points stay on your record three years.",
+   "lawyer_cost": "$250-$500 typical",
+   "contest_online": true,
+   "tool_note": "In Florida the record-protection route is electing Basic Driver Improvement inside the 30-day window - and check for an Operation Green Light amnesty event before paying off older tickets.",
+   "local": {
+    "h": "Miami details, verified against the Miami-Dade Clerk of Courts",
+    "bullets": [
+     "Miami-Dade handles its own traffic citations: the <b>Clerk of the Courts</b>, Traffic/Misdemeanor Division. This covers citations on I-95, the Palmetto and local streets across Miami, Hialeah, Miami Gardens and the rest of the county.",
+     "<b>Ways to pay:</b> online through the clerk's traffic app; by mail - cheque or money order to <i>Clerk of Courts, Traffic/Misdemeanor Division, P.O. Box 19321, Miami, FL 33101-9321</i>; by the <b>24-hour automated phone system at (305) 275-1111</b>; or in person at a district court office (Joseph Caleb Center, 5400 NW 22nd Ave., Suite 103; Coral Gables, 3100 Ponce de Leon Blvd; Hialeah, 11 E. 6th Street; and others).",
+     "<b>Same Florida election rules as the rest of the state:</b> pay, elect Basic Driver Improvement to avoid points, file an affidavit accepting or denying responsibility, or request a hearing. The deadline on the citation is real - miss it and penalty fees are added.",
+     "<b>Check for amnesty before paying old tickets.</b> The clerk runs <b>Operation Green Light</b> events where drivers with older unpaid tickets can pay the original fine and get collection fees waived and licence holds lifted. If you have a pile of old Miami tickets, look for the next event before you pay them off one by one.",
+     "<b>Points and suspension</b> follow Florida's statewide thresholds: 12 points in 12 months is a 30-day suspension, 18 in 18 months is three months, 24 in 36 months is a year."
+    ]
+   },
+   "verify": []
+  },
+  {
+   "state": "IL",
+   "state_name": "Illinois",
+   "slug": "chicago-il",
+   "city": "Chicago",
+   "county": "Cook County",
+   "pay_link": "https://www.cookcountyclerkofcourt.org/",
+   "pay_label": "Clerk of the Circuit Court of Cook County - pay traffic tickets online",
+   "court_link": "https://www.cookcountycourtil.gov/division/traffic-section",
+   "court_label": "Circuit Court of Cook County - Traffic Section",
+   "fine_note": "Illinois sets fines by statute. For the violations that can be settled without a court appearance, the fine plus costs is listed on the back of the ticket. Chicago camera and parking tickets are <b>city administrative</b> tickets, not court tickets.",
+   "school_eligible": "Illinois uses <b>court supervision</b> rather than traffic school: if you are eligible, the case is diverted on conditions and, if you complete them, is dismissed without a conviction. A Traffic Safety School course is often one of the conditions - Cook County's school runs in class and online, in English, Spanish and Polish.",
+   "school_link": "https://www.cookcountycourtil.gov/division/traffic-section/traffic-safety-school-and-payments",
+   "points_note": "Illinois reports convictions to the Secretary of State and adds points to your record; supervision means no conviction - which is the whole point of asking for it.",
+   "lawyer_cost": "$300-$600 typical",
+   "contest_online": false,
+   "tool_note": "In Illinois the record-protection route is court supervision (often with Cook County's Traffic Safety School attached) - not simply paying.",
+   "local": {
+    "h": "Chicago details, verified against the Circuit Court of Cook County",
+    "bullets": [
+     "<b>All traffic offences in Chicago (other than parking) are heard in the Traffic Section</b> of the Circuit Court of Cook County, part of the First Municipal District at the Richard J. Daley Center, 50 W. Washington St., Chicago, IL 60602 - Traffic Section phone <b>(312) 603-2600</b>, Clerk of the Circuit Court <b>(312) 603-2000</b>. Traffic offences written outside Chicago are heard in the municipal district where the violation happened.",
+     "<b>Parking, red-light cameras and speed cameras are not court tickets.</b> Those are city administrative tickets: you pay or contest them through the City of Chicago, not the court. Mixing these two systems up is the most common mistake drivers make here.",
+     "<b>Mail-in settlement:</b> for the violations Illinois classifies as fine-only, the back of the ticket gives you the options. Sign the guilty plea form, mark the <b>PAYMENT ENCLOSED</b> box, and mail a cheque or money order payable to <i>Clerk of the Circuit Court</i> with your ticket numbers written on it, <b>within seven days</b>. Do not send cash, and note Illinois law does <b>not</b> allow payment by credit card by mail. Your licence or bond card and a signed receipt come back - keep the receipt for two years.",
+     "<b>Court supervision is the record-protection route.</b> If you are eligible, asking for supervision (and completing any conditions, including Traffic Safety School where ordered) means no conviction on your record instead of a guilty plea. Cook County's <a href='https://www.cookcountycourtil.gov/division/traffic-section/traffic-safety-school-and-payments' target='_blank' rel='noopener'>Traffic Safety School</a> offers classroom and online courses in English, Spanish and Polish.",
+     "<b>Some offences can never be settled by mail or supervision</b> - passing a school bus and illegally transporting alcohol are the ones the court names. Those need a court date.",
+     "<b>The Illinois Supreme Court divides traffic offences into two categories:</b> the ones that can be settled without appearing, and the ones that require an appearance. Reading the back of your ticket tells you which one you have before you do anything else."
+    ]
+   },
+   "verify": []
+  },
+  {
+   "state": "MA",
+   "state_name": "Massachusetts",
+   "slug": "boston-ma",
+   "city": "Boston",
+   "county": "Suffolk County",
+   "pay_link": "https://www.mass.gov/how-to/pay-your-traffic-ticket",
+   "pay_label": "MassDOT / RMV - pay your traffic ticket",
+   "court_link": "https://www.mass.gov/how-to/request-a-hearing-on-a-traffic-ticket",
+   "court_label": "MassDOT / RMV - request a hearing on a traffic ticket",
+   "fine_note": "Massachusetts fines are set by statute and printed on the citation. Miss the 20-day window and the RMV adds late and release fees on top of the fine, then suspends your licence if you do not pay within 30 days of the default letter.",
+   "school_eligible": "Massachusetts has no course that dismisses a ticket. What protects you is <b>winning or amending the citation at a hearing</b> - insurance surcharges follow 'responsible' findings, not course credits. Only drivers with three surchargeable events in two years are required to complete the RMV's Driver Retraining Program.",
+   "school_link": "https://www.mass.gov/how-to/request-a-hearing-on-a-traffic-ticket",
+   "points_note": "Massachusetts does not use points. Insurers assign <b>SDIP surcharge points</b> after a 'responsible' finding, which raises your premium for years - which is why the hearing matters more than the fine.",
+   "lawyer_cost": "$300-$600 typical",
+   "contest_online": false,
+   "tool_note": "Massachusetts is not a traffic-school state: the RMV is the decision maker, you have 20 days to request a hearing, and the thing worth protecting is your insurance (SDIP), not points.",
+   "local": {
+    "h": "Boston details, verified against the MassDOT Registry of Motor Vehicles",
+    "bullets": [
+     "<b>Massachusetts civil motor vehicle citations are not heard by a city court.</b> The Registry of Motor Vehicles (RMV) adjudicates them: you have <b>20 days</b> from the citation to respond, either by paying the fine in full or by appealing and requesting a hearing.",
+     "<b>Miss the 20 days and you lose the hearing plus pay late and release fees</b> on top of the fine. If you do not then pay within <b>30 days</b> of the RMV's default letter, your driver's licence or right to operate is suspended - this is the mechanism that catches most people out.",
+     "<b>Ways to pay:</b> online - but wait <b>10 days after you receive the citation</b> before paying online, because the RMV needs time to receive and process it; by mail with a cheque or money order payable to <i>MassDOT</i>, citation and licence numbers written on it, to Citation Processing Center, P.O. Box 55890, Boston, MA 02205-5890 (never cash); or by phone at <b>(857) 368-8000</b>.",
+     "<b>The hearing is where a ticket actually gets beaten or amended.</b> You request a hearing on the ticket and it is heard by a clerk-magistrate, with a filing fee. If you are unhappy with the outcome you can appeal to the District Court, where a judge hears it fresh.",
+     "<b>Watch the difference:</b> a <b>criminal</b> traffic case - DUI, driving to endanger, leaving the scene - goes to the Boston Municipal Court or another District Court, not to the RMV. The civil citation process above does not apply to those.",
+     "<b>Insurance is the real bill.</b> A 'responsible' finding creates SDIP surcharge points that follow you for years, so the hearing is worth taking even when the fine itself is small."
+    ]
+   },
+   "verify": [
+    "the filing fee for a hearing (the RMV sets it and it changes)"
+   ]
+  },
+  {
+   "state": "NY",
+   "state_name": "New York",
+   "slug": "new-york-ny",
+   "city": "New York",
+   "county": "New York City (all five boroughs)",
+   "pay_link": "https://dmv.ny.gov/tickets/plead-or-pay-a-tvb-ticket",
+   "pay_label": "NY DMV - plead to or pay a TVB ticket",
+   "court_link": "https://dmv.ny.gov/tickets/traffic-tickets-in-new-york-state",
+   "court_label": "NY DMV - traffic tickets in New York State (TVB, hearings, payment plans)",
+   "fine_note": "TVB fines come from a statutory schedule for each violation, and a mandatory state surcharge is added on top of every fine. The amount you will owe for a guilty plea is shown before you submit it - the fine schedule and surcharge are what make a New York ticket more expensive than the posted number suggests.",
+   "school_eligible": "New York has no ticket-dismissal course. It does have the <b>Point &amp; Insurance Reduction Program (PIRP)</b>: completing an approved course reduces by <b>4</b> the number of points used to decide whether to suspend your licence, once in any 18-month period, and gives a <b>10% insurance discount for three years</b> on the liability and collision parts of your premium. It does not remove the violation or conviction from your record.",
+   "school_link": "https://dmv.ny.gov/points-and-penalties/point-and-insurance-reduction-program",
+   "points_note": "New York adds points per conviction and can suspend your licence at <b>11 points in 18 months</b>. The DMV's point-reduction course shaves up to 4 points off that calculation but never removes the conviction itself.",
+   "lawyer_cost": "$300-$600 typical for a NYC TVB ticket (often a flat fee)",
+   "contest_online": true,
+   "tool_note": "New York City tickets go to the DMV's TVB, not a local court. The record-protection tools are pleading not guilty and, later, the PIRP course (4 points off the suspension calculation).",
+   "local": {
+    "h": "New York City details, verified against the NY DMV Traffic Violations Bureau",
+    "bullets": [
+     "<b>If your ticket was issued in any of the five boroughs, it goes to the DMV's Traffic Violations Bureau (TVB)</b> - not to a local court. Everywhere else in New York State it goes to a town, village or county court, which is a completely different process. The TVB handles all non-criminal traffic violation tickets in the city.",
+     "<b>Two choices:</b> plead guilty and pay the fine plus the mandatory surcharge (which puts points on your record), or plead <b>not guilty</b> and get a hearing. You can look up a full fine schedule before you decide what a guilty plea would actually cost you.",
+     "<b>Hearings are now virtual</b>, and if you are appearing without a lawyer you can file a <b>Statement in Place of Personal Appearance (SIPOPA)</b> instead of showing up. This is why so many New York tickets are resolved without anyone going to a building.",
+     "<b>Lost the ticket?</b> The DMV will let you print a substitute for any open TVB ticket online - you verify one ticket and can then print all of your open ones.",
+     "<b>Points:</b> <b>11 points in 18 months</b> can suspend your licence. The <a href='https://dmv.ny.gov/points-and-penalties/point-and-insurance-reduction-program' target='_blank' rel='noopener'>Point &amp; Insurance Reduction Program</a> reduces the points used for that calculation by 4, once in any 18-month period, and earns a 10% insurance discount for three years - but it does not erase the violation from your record.",
+     "<b>Paying it off:</b> after your case is decided you may be eligible for a payment plan; the DMV's traffic ticket page explains how to apply and how to keep paying an existing plan."
+    ]
+   },
+   "verify": []
+  },
+  {
+   "state": "PA",
+   "state_name": "Pennsylvania",
+   "slug": "philadelphia-pa",
+   "city": "Philadelphia",
+   "county": "Philadelphia County",
+   "pay_link": "https://www.phila.gov/services/cars-parking-transportation/pay-or-dispute-a-ticket/pay-a-traffic-ticket",
+   "pay_label": "City of Philadelphia - pay a traffic ticket (Municipal Court, Traffic Division)",
+   "court_link": "https://ujsportal.pacourts.us/",
+   "court_label": "Pennsylvania UJS portal - case lookup and PAePay",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "school_eligible": "Pennsylvania has no voluntary course that erases a ticket on your own initiative. The record-saving conversations happen at the Magisterial District Court printed on your citation (or, in Philadelphia, the Municipal Court Traffic Division): ask about a plea to a lesser charge that carries no points, and about PennDOT's Driver Improvement School, which you must attend at 6 points and which removes 2 points on completion.",
+   "school_link": "https://www.pa.gov/agencies/penndot/driver-and-vehicle-services.html",
+   "points_note": "Paying a Pennsylvania ticket counts as a guilty plea, so the points go on your PennDOT record. PennDOT takes action at 6 points and can suspend your licence at 11, and 3 points come off for every 12 months you drive without a new violation.",
+   "lawyer_cost": "$300-$600 typical for a Philadelphia traffic citation",
+   "contest_online": false,
+   "tool_note": "Philadelphia is unusual: you have to enter a plea - guilty or not guilty - within 10 days of the ticket. And the Traffic Division handles traffic only. Parking, red-light and speed-camera tickets belong to the Philadelphia Parking Authority, not the court.",
+   "verify": [
+    "the current Traffic Division payment link (the city changed vendors in January 2025)",
+    "the exact costs and fees added to your violation",
+    "whether your violation can be resolved without an appearance"
+   ],
+   "local": {
+    "h": "Philadelphia details, checked against the City and the courts",
+    "bullets": [
+     "Your ticket goes to the <b>Traffic Division of the Philadelphia Municipal Court</b>. The city's own page is blunt about the deadline: you must <b>plead guilty or not guilty within 10 days</b> of getting the ticket.",
+     "The Traffic Division <b>does not handle parking, red-light or speed-camera tickets</b>. Those belong to the <b>Philadelphia Parking Authority</b>, so do not try to pay a parking ticket through the court.",
+     "Pay, plead and ask for a hearing from the city's official page. Be careful with bookmarked links: Philadelphia changed payment vendors in <b>January 2025</b>, and the older portal no longer takes payments.",
+     "This is not an online-contest court. If you want to fight the ticket, plan on appearing.",
+     "At <b>6 points</b> PennDOT requires you to attend its <b>Driver Improvement School</b>, and completing it removes <b>2 points</b>. Three points also come off automatically for every 12 months you drive without a new violation.",
+     "Parking escalates fast: unpaid Philadelphia Parking Authority tickets lead to booting and towing, and you have to settle the balance in person to get the vehicle back."
+    ]
+   }
+  },
+  {
+   "state": "PA",
+   "state_name": "Pennsylvania",
+   "slug": "pittsburgh-pa",
+   "city": "Pittsburgh",
+   "county": "Allegheny County",
+   "pay_link": "https://ujsportal.pacourts.us/",
+   "pay_label": "Pennsylvania UJS portal (PAePay) - pay a citation by number",
+   "court_link": "https://www.alleghenycourts.us/",
+   "court_label": "Allegheny County courts - find your district court",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "school_eligible": "Pennsylvania has no voluntary course that erases a ticket on your own initiative. The record-saving conversations happen at the Magisterial District Court printed on your citation (or, in Philadelphia, the Municipal Court Traffic Division): ask about a plea to a lesser charge that carries no points, and about PennDOT's Driver Improvement School, which you must attend at 6 points and which removes 2 points on completion.",
+   "school_link": "https://www.pa.gov/agencies/penndot/driver-and-vehicle-services.html",
+   "points_note": "Paying a Pennsylvania ticket counts as a guilty plea, so the points go on your PennDOT record. PennDOT takes action at 6 points and can suspend your licence at 11, and 3 points come off for every 12 months you drive without a new violation.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": false,
+   "tool_note": "On a Pennsylvania citation, box 1 is the Magisterial District Court number and box 2 is its address. That court - not the city - is where you pay, plead or ask for a hearing.",
+   "verify": [
+    "whether your Magisterial District Court accepts PAePay for that violation",
+    "the current fine and costs for your violation",
+    "which parking authority issued your parking ticket"
+   ],
+   "local": {
+    "h": "Pittsburgh details, checked against the Pennsylvania courts",
+    "bullets": [
+     "Pittsburgh traffic citations are filed in the <b>Magisterial District Court printed on the ticket</b> - box 1 on a Pennsylvania citation is the district court number, box 2 is its address. That is where you pay, plead, or request a hearing.",
+     "Nearly everything can be done on the <b>Pennsylvania UJS portal</b> (<a href='https://ujsportal.pacourts.us/' target='_blank' rel='noopener'>ujsportal.pacourts.us</a>), which is where <b>PAePay</b> lives. Search by citation number, docket number or payment-plan number.",
+     "Read the portal result carefully: <b>not every case is payable online</b>, and certain violations require an appearance. If the portal will not let you pay, that is the reason - it is not a broken website.",
+     "Parking tickets are <b>not</b> court cases. They come from the Pittsburgh Parking Authority, and you pay or contest those through the authority that issued the ticket.",
+     "Points run through <b>PennDOT</b>, not the county: action starts at 6 points, suspension can follow at 11, and 3 points come off for every 12 months without a new violation."
+    ]
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "columbus-oh",
+   "city": "Columbus",
+   "county": "Franklin County",
+   "pay_link": "https://www.fcmcclerk.com/case/payment/options",
+   "pay_label": "Franklin County Municipal Court Clerk - payment options",
+   "court_link": "https://www.fcmcclerk.com/clerk/traffic-violations",
+   "court_label": "Franklin County Municipal Court - Traffic Violations Bureau",
+   "fine_note": "Franklin County publishes the amount due on the case record. Look the case up first - the court only shows an online payment button when the case is marked payable.",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": true,
+   "tool_note": "Columbus tickets go to the Franklin County Municipal Court, and payable tickets are stored by the Traffic Violations Bureau for 30 days after the court date. If your case is not marked payable, you cannot fix it online - you have to deal with the court.",
+   "verify": [
+    "whether your case is marked payable online",
+    "the exact fine and court costs for your violation",
+    "the current walk-in payment hours"
+   ],
+   "local": {
+    "h": "Columbus details, checked against the Franklin County Clerk",
+    "bullets": [
+     "Columbus citations go to the <b>Franklin County Municipal Court</b>. The <b>Traffic Violations Bureau</b> is on the first floor of the court building at 375 South High Street, and it manages tickets from Columbus Police, the Ohio State Highway Patrol, the Sheriff and the campus police.",
+     "<b>Online:</b> search the case first on the Clerk's records search. If the case is marked payable, a <b>MAKE ONLINE PAYMENT</b> button appears at the top. If it is not payable, online payment is simply not available for that case.",
+     "<b>By mail:</b> a money order or check payable to <i>Franklin County Municipal Court</i>. The court states plainly that <b>no cash and no credit card</b> are accepted by mail, and you must send a <b>copy</b> of your insurance card (not the original) if the proof-of-insurance box on the ticket is unchecked.",
+     "<b>In person:</b> the second floor is open from <b>7:30 a.m. to 11:30 p.m. every day</b> to take payments.",
+     "Payable traffic minor misdemeanour tickets are held by the Bureau for <b>30 days after the court date</b>. Miss that window and the case moves on without you.",
+     "Clerk's office for questions: <b>(614) 645-8186</b>. Bring your proof of insurance when you pay."
+    ]
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "cleveland-oh",
+   "city": "Cleveland",
+   "county": "Cuyahoga County",
+   "pay_link": "https://clevelandmunicipalcourt.org/clerk-of-courts/public-information-office/in-the-neighborhood/in-the-neighborhood---how-to-pay-a-traffic-ticket",
+   "pay_label": "Cleveland Municipal Court - how to pay a traffic ticket",
+   "court_link": "https://clevelandmunicipalcourt.org/",
+   "court_label": "Cleveland Municipal Court - Clerk of Courts",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": false,
+   "tool_note": "Cleveland splits traffic from parking. Moving violations go to the Municipal Court; parking citations go to the Clerk's Parking Violations Bureau on a different website and phone line.",
+   "verify": [
+    "whether your offence can be paid online or requires an appearance",
+    "the current waiver amount for your violation",
+    "the current mailing address for the Waiver Bureau"
+   ],
+   "local": {
+    "h": "Cleveland details, checked against the Clerk of Courts",
+    "bullets": [
+     "Cleveland moving violations are handled by the <b>Cleveland Municipal Court</b> and its <b>Waiver Bureau</b>. The Clerk of Courts sits at 1200 Ontario Street, Cleveland, Ohio 44113.",
+     "<b>Online:</b> the Clerk's page links straight to the payment system - click through from the court's own site rather than searching, because third-party 'pay your ticket' sites charge extra and are not the court.",
+     "<b>By mail:</b> send a check or money order to <i>Cleveland Municipal Court / Waiver Bureau / P.O. Box 99639 / Cleveland, Ohio 44199-0639</i>.",
+     "<b>In person:</b> some offences require a court appearance. If you cannot complete the payment online, the court says to call <b>216-664-4790</b> or email <b>clerkofcourts@cmcoh.org</b>.",
+     "<b>Parking is separate.</b> Cleveland parking citations go through the <b>Parking Violations Bureau</b> (216-664-4744), which has its own payment site and its own contest process.",
+     "Ohio points land on your BMV record, and 12 points in two years triggers a 12-point suspension - typically six months. A BMV-approved remedial course earns a 2-point credit."
+    ]
+   }
+  },
+  {
+   "state": "MI",
+   "state_name": "Michigan",
+   "slug": "detroit-mi",
+   "city": "Detroit",
+   "county": "Wayne County",
+   "pay_link": "https://www.36thdistrictcourtmi.gov/divisions-departments/traffic/payment-methods",
+   "pay_label": "36th District Court - payment methods",
+   "court_link": "https://www.36thdistrictcourtmi.gov/",
+   "court_label": "36th District Court, Detroit - court home page",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "school_eligible": "Michigan's real record saver is the Basic Driver Improvement Course (BDIC), run by the Secretary of State: an eligible driver who completes it avoids the points, and the ticket is not reported to insurance. You may only use it once, the State mails you a notice with a 60-day deadline to enrol, and you are not eligible if you already had more than 2 points when the ticket was issued, if the offence was criminal, if it happened in a commercial vehicle, if the ticket was issued outside Michigan, or if you hold a CDL.",
+   "school_link": "https://www.michigan.gov/sos/license-id/bdic",
+   "points_note": "Michigan assesses points on conviction and keeps them for two years from the conviction date. 12 points in two years triggers a Secretary of State driver reexamination, which can end in a restriction, a suspension or a revocation.",
+   "lawyer_cost": "$300-$600 typical for a Detroit traffic citation",
+   "contest_online": false,
+   "tool_note": "Michigan mails you the chance to avoid the points: if your ticket qualifies, the Secretary of State sends a letter and you have 60 days to enrol in the Basic Driver Improvement Course. Miss the letter and the points and the violation go to your insurer.",
+   "verify": [
+    "whether your citation qualifies for the Basic Driver Improvement Course",
+    "the current fine, costs and late fees",
+    "whether your offence requires an appearance"
+   ],
+   "local": {
+    "h": "Detroit details, checked against the 36th District Court",
+    "bullets": [
+     "Detroit traffic cases go to the <b>36th District Court</b> at 421 Madison Street, Detroit, MI 48226 - one of the busiest courts in the country.",
+     "<b>Online:</b> the court runs its own online payment form. <b>By phone:</b> payments are taken 24 hours a day, in English or Spanish, on <b>1-855-798-1547</b>.",
+     "<b>Kiosks:</b> the court operates payment kiosks across Metro Detroit, plus one right outside the building on Brush Street. <b>Cashier's window:</b> 8:00 a.m. to 4:30 p.m., Monday to Friday.",
+     "<b>By mail or drop box:</b> put the citation number on a check or money order payable to <i>36th District Court</i>. <b>Never mail or deposit cash.</b>",
+     "Cannot pay in full? The court runs an <b>Online Collections Application</b> for monthly payment plans over traffic tickets.",
+     "The record saver in Michigan is the <b>Basic Driver Improvement Course (BDIC)</b>. Complete it and the ticket is not reported to your insurer, but you can only use it <b>once</b>, you must act inside the State's <b>60-day</b> deadline, and you are out of luck if you already had more than 2 points, the offence was criminal, it happened in a commercial vehicle, the ticket came from outside Michigan, or you hold a CDL."
+    ]
+   }
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "nashville-tn",
+   "city": "Nashville",
+   "county": "Davidson County",
+   "pay_link": "https://paytraffic.nashville.gov/",
+   "pay_label": "Davidson County - pay a traffic ticket online",
+   "court_link": "https://circuitclerk.nashville.gov/traffic-violation-bureau/",
+   "court_label": "Davidson County Circuit Court Clerk - Traffic Violation Bureau",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "school_eligible": "Tennessee does let a course help, in two different ways. A court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "school_link": "https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and it is the insurance effect that usually costs the most.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": false,
+   "tool_note": "Davidson County's own office warns about ticket scams, so check the address bar: the only official payment site is the Clerk's paytraffic.nashville.gov, and the Traffic Violation Bureau is inside the county courthouse.",
+   "verify": [
+    "the exact amount owed and the deadline printed on your citation",
+    "whether your violation is a payable one",
+    "which traffic schools your court will accept"
+   ],
+   "local": {
+    "h": "Nashville details, checked against the Clerk's own site",
+    "bullets": [
+     "Nashville and Davidson County citations are handled by the <b>Traffic Violation Bureau</b>, part of the <b>Davidson County Circuit Court Clerk's Office</b>, at 408 2nd Avenue North, Suite 1160.",
+     "<b>Pay online</b> through <a href='https://paytraffic.nashville.gov/' target='_blank' rel='noopener'>paytraffic.nashville.gov</a> - that is the Clerk's own payment site.",
+     "The Clerk's office publishes a public alert about <b>outstanding-ticket scams</b>. Genuine court business will not arrive as a text demanding immediate payment; if you get one, call the Bureau instead of clicking.",
+     "Court dockets for traffic and Metro citations are published by the Bureau, so you can check your own court date and outcome without going through a paid lookup service.",
+     "The Bureau also handles <b>installment payment</b> requests with a motion form - useful if the fine will not fit in one month.",
+     "Tennessee will remove up to <b>5 points</b> from a speeding conviction if you complete an approved <b>4-hour driver education course</b>, and a court-ordered traffic school can get the citation dismissed outright if the judge agrees. Course providers must file your certificate within <b>30 days</b>."
+    ]
+   }
+  },
+  {
+   "state": "NC",
+   "state_name": "North Carolina",
+   "slug": "charlotte-nc",
+   "city": "Charlotte",
+   "county": "Mecklenburg County",
+   "pay_link": "https://www.nccourts.gov/locations/mecklenburg-county/mecklenburg-county-payment-information",
+   "pay_label": "Mecklenburg County payment information (NC Judicial Branch)",
+   "court_link": "https://portal-nc.tylertech.cloud/Portal/",
+   "court_label": "NC eCourts Portal - look up and pay a citation",
+   "fine_note": "North Carolina fines plus court costs, and the costs are often larger than the fine. The court's own notice is the amount that counts.",
+   "school_eligible": "North Carolina does not use traffic school. The three standard moves are a plea to a lesser speed (generally 9 mph over or less, which avoids insurance points), a plea to Improper Equipment, and a Prayer for Judgment Continued (a PJC, where the court withholds judgment so no points post). The limits and the insurance treatment differ, so confirm what your court will accept.",
+   "school_link": "https://www.nccourts.gov/locations/mecklenburg-county/mecklenburg-county-payment-information",
+   "points_note": "North Carolina runs two point systems at once, and the insurance one costs far more. Convictions add DMV points (12 points in three years can suspend your licence), while insurers use a separate scale where a single insurance point commonly raises premiums by around 30%.",
+   "lawyer_cost": "$200-$400 typical for a Charlotte speeding ticket",
+   "contest_online": true,
+   "tool_note": "North Carolina is the one state where the insurance system punishes harder than the licence system. One insurance point is commonly a 30% premium increase, which is why a plea to 9 mph over or to Improper Equipment is worth asking about.",
+   "verify": [
+    "whether your citation is payable by mail or online",
+    "the current DMV and insurance point treatment for your exact speed",
+    "how many Prayers for Judgment Continued your court will allow"
+   ],
+   "local": {
+    "h": "Charlotte details, checked against the NC Judicial Branch",
+    "bullets": [
+     "Mecklenburg County citations are processed by the <b>Clerk of Superior Court</b> at the Mecklenburg County Courthouse. The mailing address for payments is <b>PO Box 37971, Charlotte, NC 28237-7971</b>.",
+     "<b>By mail</b> the Clerk takes a <b>money order or certified check only</b> - no cash and <b>no personal cheques</b> - payable to <i>Mecklenburg County Clerk of Superior Court</i>, and you should include a <b>copy of the citation</b>. Only pay by mail if your citation is marked as eligible.",
+     "<b>In person</b> at the Cashier's Office you can use cash, card, money order or certified check; card payments add a processing fee, and there is an ATM on Level 2.",
+     "<b>Online</b>, North Carolina moved to the statewide <b>eCourts Portal</b>. That is where you find the case, see whether it is payable, and pay it if it is.",
+     "The interesting move in North Carolina is not a course, it is the <b>plea</b>: 9 mph over or less avoids insurance points, <b>Improper Equipment</b> avoids them too, and a <b>PJC</b> (Prayer for Judgment Continued) has the court withhold judgment. Ask the clerk or a local attorney what your court will accept, because the limits are enforced.",
+     "<b>DMV points and insurance points are different scales.</b> 12 DMV points in three years can suspend your licence; a single insurance point can raise your premium by roughly 30%."
+    ]
+   }
+  },
+  {
+   "state": "OR",
+   "state_name": "Oregon",
+   "slug": "portland-or",
+   "city": "Portland",
+   "county": "Multnomah County",
+   "pay_link": "https://www.courts.oregon.gov/courts/multnomah/Pages/default.aspx",
+   "pay_label": "Multnomah County Circuit Court (Oregon Judicial Department)",
+   "court_link": "https://www.portland.gov/transportation/parking/pay-and-or-contest-parking-ticket",
+   "court_label": "City of Portland - pay or contest a parking ticket",
+   "fine_note": "Oregon sets fines by statute and the court adds costs. The amount on your citation is the amount you are arguing about.",
+   "school_eligible": "Oregon has no statewide ticket-dismissal course. Individual courts do offer deferred sentencing or accept a course in exchange for dismissal, so the only reliable answer is the one your court gives you.",
+   "school_link": "https://www.courts.oregon.gov/courts/multnomah/Pages/default.aspx",
+   "points_note": "Oregon does not use a point system. The DMV keeps your convictions on a driving record, and too many of them can put you into the Driver Improvement Program and cost you your licence, so the record still matters even though there are no points to count.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": false,
+   "tool_note": "Oregon has no points to protect, but it does have a written-explanation trap on parking citations: sending in your explanation is a waiver of your right to a hearing.",
+   "verify": [
+    "whether your citation is handled by the court or the city",
+    "the current fine and costs for your violation",
+    "whether your court offers deferred sentencing"
+   ],
+   "local": {
+    "h": "Portland details, checked against the court and the city",
+    "bullets": [
+     "Traffic citations in Portland go to the <b>Multnomah County Circuit Court</b>, part of the <b>Oregon Judicial Department</b>. Parking citations issued by the city are dealt with through the City of Portland's parking process and the same circuit court's parking office.",
+     "<b>Parking, by mail:</b> use the yellow envelope, a cheque or money order payable to <i>State of Oregon</i> (never cash), and include the citation or case number plus the licence plate. The address is <b>Multnomah County Circuit Court, Parking Citation Office, P.O. Box 78, Portland, OR 97207</b>.",
+     "<b>Parking, by phone:</b> Visa or Mastercard, on <b>971-274-0590</b>, pressing option 5. <b>Online:</b> the Oregon Judicial Department's ePay portal, which needs your county and citation details.",
+     "<b>The trap:</b> sending a written explanation instead of paying is treated as a <b>waiver of your right to a court hearing</b> and as consent to whatever judgment the judge makes on the papers. If you want to be heard, schedule the hearing instead.",
+     "You can usually view the violation photos online before deciding - you need the citation number (near the top, starting with HA), the citation date and the plate. Photos can take up to three days to appear.",
+     "If your car was towed or booted for unpaid parking citations you must pay the <b>full balance in guaranteed funds</b> at the Circuit Court Customer Service Area on the second floor - and the tow company adds its own fee before releasing the car."
+    ]
+   }
+  },
+  {
+   "state": "UT",
+   "state_name": "Utah",
+   "slug": "salt-lake-city-ut",
+   "city": "Salt Lake City",
+   "county": "Salt Lake County",
+   "pay_link": "https://dotnet.slcgov.com/court/courtonlinepayment/default.aspx",
+   "pay_label": "Salt Lake City Justice Court - online payment centre",
+   "court_link": "https://www.slc.gov/courts/",
+   "court_label": "Salt Lake City Justice Court - official page",
+   "fine_note": "Utah publishes a uniform fine schedule, and the Justice Court posts it. That schedule - not a third-party estimate - is what your violation costs.",
+   "school_eligible": "Utah courts usually offer two record-saving routes instead of a plain fine: Deferred Traffic Prosecution (you pay, stay clean for the deferral period, and the charge is dismissed) and traffic school. Both are court-by-court, so ask your justice court which it runs and whether you qualify.",
+   "school_link": "https://www.utcourts.gov/en/self-help/case-categories/criminal-justice/traffic.html",
+   "points_note": "Utah's Driver License Division assigns points by violation - a red light is 50, following too closely is 60, reckless driving is 80, and speeding runs 35 to 75 - and more than 200 points in three years can suspend your privileges (the threshold is 70 for a driver under 21).",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": true,
+   "tool_note": "Salt Lake City's Justice Court gives you three doors on the same page: pay the citation, request Deferred Traffic Prosecution, or request traffic school. Taking the right one is worth more than arguing about the fine.",
+   "verify": [
+    "whether your violation qualifies for Deferred Traffic Prosecution",
+    "the current uniform fine for your violation",
+    "whether the court requires an appearance for your offence"
+   ],
+   "local": {
+    "h": "Salt Lake City details, checked against the Justice Court",
+    "bullets": [
+     "Salt Lake City citations go to the <b>Salt Lake City Justice Court</b> at the John L. Baxter Courthouse, 333 S 200 E, Salt Lake City, UT 84111.",
+     "<b>Online:</b> the court's own payment centre accepts a <b>court case number, citation number or driver's licence number</b>. Check the name on the case before you pay - the court warns about payments posted to the wrong case.",
+     "<b>By phone:</b> <b>801-535-6300</b>, with phone hours 8:30 a.m. to 4:00 p.m. Monday to Friday; the counter is open 8:00 a.m. to 5:00 p.m.",
+     "You can also <b>schedule your arraignment</b> and use <b>MyCase</b> to read your case before deciding anything - which is useful, because the court's options are not identical for every violation.",
+     "Utah's two record-saving routes are <b>Deferred Traffic Prosecution</b> (pay, stay clean for the deferral period, and the charge is dismissed) and <b>traffic school</b>. Both are offered case by case.",
+     "Points are computed by the <b>Driver License Division</b>: a red light is 50 points, following too closely 60, reckless driving 80, speeding 35 to 75, while more than <b>200 points in three years</b> - or <b>70 for a driver under 21</b> - is what triggers a suspension."
+    ]
+   }
+  },
+  {
+   "state": "MO",
+   "state_name": "Missouri",
+   "slug": "kansas-city-mo",
+   "city": "Kansas City",
+   "county": "Jackson County",
+   "pay_link": "https://www.kcmo.gov/city-hall/departments/municipal-court/fines-payments-and-sentences",
+   "pay_label": "Kansas City Municipal Court - fines, payments and sentences",
+   "court_link": "https://www.courts.mo.gov/casenet/base/welcome.do",
+   "court_label": "Missouri Case.net - look up your case",
+   "fine_note": "Kansas City publishes a payable-violations fine schedule and a separate court-costs table. Check your violation against the schedule before you pay, because payable and non-payable cases are treated completely differently.",
+   "school_eligible": "Missouri's route is the Driver Improvement Program, a state course aimed at stopping points from reaching your record and at reducing what is already there. Eligibility and the court's willingness vary, so confirm with the court or the Department of Revenue before you pay for it.",
+   "school_link": "https://dor.mo.gov/faq/driver-license/tickets-points.html",
+   "points_note": "Missouri's Department of Revenue sends you an advisory letter at 4 points in 12 months and suspends your driving privilege at 8 or more points in 18 months (30 days the first time, 60 the second, 90 after that). 12 points in 12 months means a one-year revocation. Points fall by a third for each clean year and reach zero after three.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": true,
+   "tool_note": "In Kansas City the first question is whether your case is payable at all. If the violation is on the court's payable fine schedule and you pay before the court date, you never go to court - if it is not, the judge decides the penalty.",
+   "verify": [
+    "whether your violation is on the payable fine schedule",
+    "the exact court costs added to your fine",
+    "whether your case is in the current system or the pre-November-2023 legacy system"
+   ],
+   "local": {
+    "h": "Kansas City details, checked against the Municipal Court",
+    "bullets": [
+     "Kansas City citations go to the <b>Kansas City Municipal Court</b>, 511 E. 11th Street, Kansas City, MO 64106.",
+     "<b>Online</b>, payment runs through <b>Missouri Case.net</b>. Search by case number, or by name using <i>Jackson County - 16th Judicial Circuit</i> and then <i>Kansas City Municipal</i> in the court dropdown.",
+     "<b>The rule that matters:</b> if the case is <b>before</b> the court date printed on your ticket <b>and</b> the violation is on the court's payable fine schedule, you can pay without appearing. On non-payable cases the judge sets the penalty if you plead guilty or are found guilty.",
+     "<b>By mail:</b> cheque or money order payable to <i>Municipal Court</i>, with your name and the ticket or payment-plan number. <b>No cash by mail.</b>",
+     "<b>In person:</b> the Violations Bureau takes card, cash, cheque or money order. The lobby <b>kiosk</b> takes debit or credit cards, and the <b>drop box</b> takes cheque or money order only.",
+     "Older tickets may live in a different system: cases from before <b>6 November 2023</b> are in the legacy system, which is why a search can come back empty. Court help: <b>816-513-2700</b> or <b>court@kcmo.org</b>.",
+     "Missouri points come from the <b>Department of Revenue</b>: a warning at 4 points in 12 months, suspension at 8 or more points in 18 months, and revocation at 12 points in 12 months."
+    ]
+   }
+  },
+  {
+   "state": "MN",
+   "state_name": "Minnesota",
+   "slug": "minneapolis-mn",
+   "city": "Minneapolis",
+   "county": "Hennepin County",
+   "pay_link": "https://mncourts.gov/Help-Topics/Pay-a-Ticket.aspx",
+   "pay_label": "Minnesota Judicial Branch - pay a ticket",
+   "court_link": "https://mncourts.gov/find-courts/hennepin/hennepinviolationsbureauandhearingoffice",
+   "court_label": "Hennepin County Violations Bureau & Hearing Office",
+   "fine_note": "Minnesota publishes the fine for each violation, and the court adds a surcharge. The notice from the court is the amount that counts.",
+   "school_eligible": "Minnesota has no statewide course that removes a ticket. Many district courts do run a violations bureau hearing-officer route where you can ask for a reduction without a trial, and that is usually the cheapest thing to try.",
+   "school_link": "https://mncourts.gov/find-courts/hennepin/hennepinviolationsbureauandhearingoffice",
+   "points_note": "Minnesota has no point system at all. What does bite is insurance, plus the habitual-violator law: four traffic convictions in one year, or five in two years, brings a 30-day suspension (90 days for another conviction inside those windows). Minor speeding - no more than 10 over in a 55, or 5 over in a 60 - is not even recorded on your DPS driving record.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": true,
+   "tool_note": "Minnesota has no points, so the argument for hiring anyone is weaker than in most states. The violations bureau hearing-officer route is the cheap first move.",
+   "verify": [
+    "the current fine and surcharge for your violation",
+    "whether your case is eligible for a hearing officer",
+    "the payment address and hours for your county"
+   ],
+   "local": {
+    "h": "Minneapolis details, checked against the Minnesota Judicial Branch",
+    "bullets": [
+     "Minneapolis citations are handled by the <b>Hennepin County District Court</b> and its <b>Violations Bureau & Hearing Office</b>. The Records Center is at 300 South 6th Street, #SK-0260, Minneapolis, MN 55487-0332.",
+     "<b>Pay online</b> through the Minnesota Judicial Branch's pay-a-ticket service, <b>in person</b> with cash, card or money order, or <b>by mail</b> with a cheque or money order payable to <i>Hennepin County District Court</i>.",
+     "<b>Minnesota has no point system.</b> That is worth knowing before you spend money to 'keep points off' - there are none to keep off.",
+     "What does exist is the <b>habitual violator</b> law: <b>four convictions in one year</b>, or <b>five in two years</b>, brings a <b>30-day suspension</b> - and 90 days for another conviction inside either window.",
+     "Minor speeding is not even recorded: no more than <b>10 mph over in a 55</b>, or <b>5 over in a 60</b>, is left off your DPS driving record.",
+     "The practical lever is the <b>hearing officer</b>, not a course. Ask the Violations Bureau whether your case can be heard that way - it is faster and cheaper than a trial."
+    ]
+   }
+  },
+  {
+   "state": "IN",
+   "state_name": "Indiana",
+   "slug": "indianapolis-in",
+   "city": "Indianapolis",
+   "county": "Marion County",
+   "pay_link": "https://www.indy.gov/agency/marion-county-traffic-court",
+   "pay_label": "Marion County Traffic Division (City of Indianapolis)",
+   "court_link": "https://mycase.in.gov/",
+   "court_label": "Indiana MyCase - look up and manage your case",
+   "fine_note": "Indiana fines come with court costs, and the traffic division collects both. Check the amount on the citation or in MyCase before you pay.",
+   "school_eligible": "Indiana's BMV-approved defensive driving / driver safety programmes can reduce points and are often accepted by courts in place of a conviction. Which course and whether it helps is decided by the court and the BMV, so ask before you enrol.",
+   "school_link": "https://www.in.gov/bmv/licenses-permits-ids/",
+   "points_note": "Indiana assesses points through the BMV: 14 to 18 points brings a warning letter, 20 points a one-month suspension, and it escalates from there (Indiana Administrative Code, 140 IAC 1). Reckless driving and major offences carry their own penalties.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "contest_online": true,
+   "tool_note": "Indianapolis traffic cases run through the Marion County Traffic Division, and you can read the whole case in MyCase before you decide anything. The due date on an Indiana ticket is short - treat the date printed on the citation as the deadline, not the date you got around to reading it.",
+   "verify": [
+    "the exact due date printed on your citation",
+    "whether your offence is payable without an appearance",
+    "whether your court accepts a defensive driving course in place of a conviction"
+   ],
+   "local": {
+    "h": "Indianapolis details, checked against the city and the state courts",
+    "bullets": [
+     "Indianapolis citations are handled by the <b>Marion County Traffic Division</b>, which processes infractions, moving violations and traffic misdemeanours for the city.",
+     "<b>In person:</b> the main location is the <b>Community Justice Campus, 675 Justice Way</b>. There is also a counter in <b>Room W122, City-County Building, 200 E. Washington Street</b>. Both are open Monday to Friday, 8 a.m. to 4 p.m., and both take cash and cards.",
+     "<b>By mail:</b> a money order or cashier's cheque to <i>Marion County Traffic Division, 200 E. Washington Street, Indianapolis, IN 46204</i>, with a copy of the ticket. Do not mail cash, and do not assume a personal cheque will be accepted for every ticket type.",
+     "<b>Look the case up in MyCase first.</b> Indiana's state case system shows the charges, the hearing dates and the amount owed, and it is free.",
+     "The due date on an Indiana citation is <b>60 days</b> from the day you received it. Miss it and the case can be escalated to a failure to appear, which adds costs and can affect your licence.",
+     "Indiana assesses points through the <b>BMV</b>: 14 to 18 points brings a warning letter and <b>20 points</b> a one-month suspension, escalating from there. A BMV-approved defensive-driving course can reduce points, and courts often accept one instead of a conviction - ask before you enrol."
+    ]
+   }
+  }
+ ]
+}
