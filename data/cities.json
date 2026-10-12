@@ -1538,6 +1538,247 @@
      "Criminal misdemeanour tickets (DUI, driving while suspended) are different: an officer usually writes an arraignment date on the face of the ticket and you <b>must appear</b>, or a warrant will issue. Those cases belong with the criminal calendar, not the infraction process."
     ]
    }
+  },
+  {
+   "state": "CA",
+   "state_name": "California",
+   "slug": "bakersfield-ca",
+   "city": "Bakersfield",
+   "county": "Kern County",
+   "contest_online": false,
+   "pay_link": "https://www.kern.courts.ca.gov/online-services/make-payment",
+   "pay_label": "Kern County Superior Court - make a payment online",
+   "court_link": "https://www.kern.courts.ca.gov/divisions/traffic-court",
+   "court_label": "Kern County Superior Court - Traffic Court (process, school, red light, failure to appear)",
+   "school_eligible": "Kern County runs California's Traffic Violator School (TVS). If your violation is eligible, completing an approved school keeps a point off your DMV record - and since AB 2499 the court can no longer dismiss the ticket, so only your first conviction in an 18-month period is kept confidential. A CDL holder cited in a non-commercial vehicle may still attend, but the conviction is not masked.",
+   "school_link": "https://www.kern.courts.ca.gov/divisions/traffic-court/traffic-school",
+   "points_note": "A moving violation adds a point to your DMV record and can raise your insurance for up to three years, so the school election is usually worth more than the fine.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines vary by violation and county. Kern publishes its own fee and fine payment options - the amount on your Courtesy Notice is the real number.",
+   "verify": [
+    "the fine amount or mandatory-appearance date on your Courtesy Notice (it should arrive at least 10 days before the appearance date)",
+    "whether your violation is eligible for Traffic Violator School",
+    "whether a payment plan or an Ability-to-Pay reduction applies to you"
+   ],
+   "local": {
+    "h": "Bakersfield / Kern County details, verified against Kern County Superior Court",
+    "bullets": [
+     "Kern County traffic goes to the <b>Superior Court of California, County of Kern</b> - start from the court's own <a href='https://www.kern.courts.ca.gov/divisions/traffic-court' target='_blank' rel='noopener'>Traffic Court page</a>. There is no separate city traffic court; a Bakersfield police or CHP ticket lands here.",
+     "<b>Watch for the Courtesy Notice.</b> Within a few weeks of the citation the court mails a Courtesy Notice showing your fine amount, or a mandatory-appearance date and time. It should arrive at least 10 days before the appearance date - if it never shows up, <b>appear on or before the date printed on your citation anyway</b>.",
+     "<b>Paying is a guilty plea.</b> Pay online through the court's <a href='https://www.kern.courts.ca.gov/online-services/make-payment' target='_blank' rel='noopener'>payment page</a> or follow the options on the notice. If your citation requires a mandatory court appearance, a fine payment alone will not close the case.",
+     "<b>Traffic Violator School is the record fix</b>, once every 18 months on an eligible violation. See the court's <a href='https://www.kern.courts.ca.gov/divisions/traffic-court/traffic-school' target='_blank' rel='noopener'>Traffic School page</a>; since AB 2499 the ticket is still recorded, but your first conviction in 18 months is kept confidential and no point is assessed.",
+     "If money is the problem, Kern points you to the statewide <a href='https://mycitations.courts.ca.gov/' target='_blank' rel='noopener'>MyCitations</a> tool and its <a href='https://www.kern.courts.ca.gov/divisions/traffic-court/cant-afford-pay' target='_blank' rel='noopener'>Can&rsquo;t Afford to Pay</a> page - both can reduce or spread the fine rather than force a default.",
+     "<b>Do not simply ignore it.</b> The court has a dedicated <a href='https://www.kern.courts.ca.gov/divisions/traffic-court/failure-appear-or-pay' target='_blank' rel='noopener'>Failure to Appear or Pay</a> page: a missed date adds a civil assessment and can suspend your licence, and it escalates fast.",
+     "<b>Parking is not the Traffic Division's.</b> Kern says to contact the law-enforcement agency printed on the parking ticket, and traffic-court lawyers are separate: DUI goes to the Criminal Department."
+    ]
+   }
+  },
+  {
+   "state": "FL",
+   "state_name": "Florida",
+   "slug": "fort-lauderdale-fl",
+   "city": "Fort Lauderdale",
+   "county": "Broward County",
+   "contest_online": false,
+   "pay_link": "https://www.browardclerk.org/Web2",
+   "pay_label": "Broward County Clerk of Courts - pay a traffic citation (eServices / online payment)",
+   "court_link": "https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor",
+   "court_label": "Broward County Clerk of Courts - Traffic & Misdemeanor division",
+   "school_eligible": "Florida lets you elect a 4-hour Basic Driver Improvement course. Complete it and adjudication is withheld, no points reach the DMV, and your insurer cannot raise or cancel your policy. Florida allows the election once in a 12-month period and no more than five times in your lifetime, and a CDL or commercial-vehicle ticket cannot use it.",
+   "school_link": "https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor",
+   "points_note": "Florida adds 3, 4 or 6 points per moving violation and suspends at 12 points in 12 months, 18 in 18, or 24 in 36. Points stay on your record three years, so the school election matters more than the fine.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "The fine comes from Florida's statewide penalty schedule plus Broward County surcharges, printed on your citation. The Clerk collects it; paying is a conviction and points are assessed for a moving violation.",
+   "verify": [
+    "the response and payment deadlines printed on your citation",
+    "whether your violation is eligible for the Basic Driver Improvement election",
+    "the exact payable amount, including Broward County surcharges"
+   ],
+   "local": {
+    "h": "Fort Lauderdale / Broward County details, verified against the Clerk of Courts",
+    "bullets": [
+     "Broward County citations are handled by the <b>Broward County Clerk of Courts</b> for the 17th Judicial Circuit - see the <a href='https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor' target='_blank' rel='noopener'>Traffic &amp; Misdemeanor division</a>. A Fort Lauderdale police or Broward Sheriff's deputy writes the ticket; the Clerk collects it.",
+     "<b>Florida's two clocks:</b> you have roughly <b>30 calendar days</b> to tell the Clerk how you want to resolve the ticket (pay, elect school, or request a hearing), and <b>60 calendar days</b> to actually pay and finish the requirements. Blowing either one raises the penalty and can suspend your licence.",
+     "<b>Paying is a conviction.</b> If you pay the civil penalty, points go on your record for a moving violation - and under Florida law you cannot switch to the school option later. Decide which way you are going before you pay.",
+     "Look up and pay on the Clerk's site: <a href='https://www.browardclerk.org/Web2' target='_blank' rel='noopener'>Pay a Traffic Citation</a> or read the <b>Pay Fines and Fees</b> and <b>Elect Driving School</b> sections of the <a href='https://www.browardclerk.org/Divisions/TrafficAndMisdemeanor' target='_blank' rel='noopener'>Traffic &amp; Misdemeanor page</a>. The Clerk also runs a <b>Driver License Check</b> so you can see what is on your record.",
+     "<b>The Basic Driver Improvement election</b> is the record fix: pay in full, complete the 4-hour course, and adjudication is withheld with no points. Once per 12 months, max five times in a lifetime, never for a CDL holder.",
+     "To fight it, request a <b>court hearing</b> within the response window instead of paying - a paid ticket cannot be reopened later.",
+     "<b>Parking is separate.</b> Broward parking citations run through the Clerk's <a href='https://www.browardclerk.org/Divisions/Parking' target='_blank' rel='noopener'>Parking</a> division and the agency that issued them, not the traffic division.",
+     "Scam warning: the Clerk posts an <b>FLHSMV payment scam alert</b> - phony sites and texts impersonate Florida traffic portals. Always reach the payment page by typing the Clerk's own domain, not a link from a text message."
+    ]
+   }
+  },
+  {
+   "state": "NV",
+   "state_name": "Nevada",
+   "slug": "reno-nv",
+   "city": "Reno",
+   "county": "Washoe County",
+   "contest_online": true,
+   "pay_link": "https://renomunicipalcourt.com/court-services/payments.php",
+   "pay_label": "Reno Municipal Court - payments (post and forfeit, payment plans)",
+   "court_link": "https://renomunicipalcourt.com/court-services/traffic-citations.php",
+   "court_label": "Reno Municipal Court - traffic citations (civil infractions vs criminal violations)",
+   "school_eligible": "Nevada does not dismiss a ticket with a course, but the DMV gives a <b>3-point demerit reduction</b> for a DMV-approved traffic safety course when you have 3-11 active points, generally once every 12 months. A course taken under a court plea agreement does not earn that reduction, so ask the clerk exactly which route your citation allows.",
+   "school_link": "https://renomunicipalcourt.com/court-services/traffic-citations.php",
+   "points_note": "Nevada counts demerit points: 12 or more in a 12-month period can suspend your licence. A civil infraction conviction still reports to the DMV, so paying is not a way to keep the record clean.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Nevada splits citations into civil infractions and criminal traffic offences, and the fine depends on the violation and the court. The citation shows your response date - Reno gives civil infractions 90 days to respond.",
+   "verify": [
+    "whether your citation is a civil infraction or a criminal traffic offence, and whether it is a mandatory-appearance violation",
+    "the fine, fees and assessments on your case (the court's chat line can quote them)",
+    "the 90-day response date for a civil infraction before a default judgment is entered"
+   ],
+   "local": {
+    "h": "Reno / Washoe County details, verified against Reno Municipal Court",
+    "bullets": [
+     "Reno citations go to the <b>Reno Municipal Court</b>, not a county court - start from the court's <a href='https://renomunicipalcourt.com/court-services/traffic-citations.php' target='_blank' rel='noopener'>Traffic Citations</a> page. Read the citation first: Nevada now separates <b>civil infractions</b> from <b>criminal traffic offences</b>, and they follow different routes.",
+     "<b>Civil infractions get 90 days to respond.</b> If you take no action by the 90-day response date, the court enters a <b>default judgment</b>: you are found in violation, fines and penalties are assessed, and the case can no longer be contested.",
+     "<b>Paying early is called a &lsquo;Post and Forfeit&rsquo;</b> - and it means exactly what it says. By paying before your hearing you waive the right to a hearing, admit guilt, and a conviction is reported to the DMV. You cannot later change your plea or undo the conviction, and it is not the same as posting bail.",
+     "Pay, request a new arraignment date or find your case through the court's <a href='https://renomunicipalcourt.com/court-services/payments.php' target='_blank' rel='noopener'>Payments</a> page. For bail, bond or a fine quote, call a court clerk at <b>(775) 334-2290</b>, option 6, or use the court's chat line.",
+     "<b>If any violation is a mandatory appearance</b> (noted next to the violation on the ticket), you must appear in person at the time listed - paying will not substitute for the hearing.",
+     "The court offers <b>payment plans</b> if you cannot pay in full by the hearing date, and a <b>Virtual Clerk Counter</b> open Monday-Thursday, 8:30-11:30 a.m. and 2:00-5:00 p.m., so you can handle routine business without going to the courthouse.",
+     "For the record, not just the fine: ask whether a <b>DMV-approved traffic safety course</b> can cut 3 demerit points from your total (3-11 active points, once a year) - and confirm it is not a court-ordered course, which does not earn the reduction.",
+     "DUI is a criminal traffic offence at this court, handled on the criminal calendar with a mandatory appearance - not something a fine payment resolves."
+    ]
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "akron-oh",
+   "city": "Akron",
+   "county": "Summit County",
+   "contest_online": true,
+   "pay_link": "https://akronmunicipalcourt.municipalonlinepayments.com/akronmunicipalcourt",
+   "pay_label": "Akron Municipal Court - pay a fine online",
+   "court_link": "https://www.akronmunicipalcourt.org/case-types/trafficparking/",
+   "court_label": "Akron Municipal Court - Traffic / Parking (waivers, walk-ins, court dates)",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course - a credit against your point total rather than a dismissal. Confirm what Akron Municipal Court and the BMV will accept before you pay for a course.",
+   "school_link": "https://www.akronmunicipalcourt.org/case-types/trafficparking/",
+   "points_note": "Ohio assesses points on conviction and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). Points stay on your record two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines and court costs vary by violation. For a <b>waiver</b> ticket the amount is set for you; for anything else Akron Municipal Court only shows a payable balance once the case is marked payable.",
+   "verify": [
+    "whether your ticket is a waiver (payable without court) or requires a court appearance",
+    "the exact waiver amount - call the Clerk's Traffic Division at (330) 375-2572",
+    "the current court date on your ticket if you must or want to appear"
+   ],
+   "local": {
+    "h": "Akron / Summit County details, verified against Akron Municipal Court",
+    "bullets": [
+     "Akron tickets are handled by the <b>Akron Municipal Court</b> - start from the court's <a href='https://www.akronmunicipalcourt.org/case-types/trafficparking/' target='_blank' rel='noopener'>Traffic / Parking</a> page. Traffic Court is staffed by a full-time magistrate, a bailiff, a traffic safety officer and a traffic clerk.",
+     "<b>Check whether your ticket is a &lsquo;waiver&rsquo;.</b> A waiver means you can pay without coming to court. Look up your case and pay the balance on the court's portal (<a href='https://portal-ohakron.tylertech.cloud/Portal' target='_blank' rel='noopener'>case search</a> and <a href='https://akronmunicipalcourt.municipalonlinepayments.com/akronmunicipalcourt' target='_blank' rel='noopener'>pay a fine</a>), or pay in person or by mail. For the exact amount, call the Clerk of Court - Traffic Division at <b>(330) 375-2572</b>.",
+     "<b>Walk-ins are Monday-Thursday</b> at 9 a.m. or 1 p.m. - there are <b>no Friday walk-ins</b>. Traffic Court sits Monday-Friday, 8 a.m. to 4 p.m., and closes 12-1 p.m. for lunch. If your ticket requires an appearance, appear on or before the date on the ticket.",
+     "<b>You cannot move a traffic date by phone.</b> Akron says any request to change a court date must be made in writing as a <i>Motion for Request</i> - so a quick call will not buy you more time.",
+     "If you have a waiver ticket and want a <b>payment plan</b>, you must still appear in Traffic Court on or before the date on the ticket; a plan is not something you can set up purely online.",
+     "The Clerk of Court - <b>Criminal, Traffic &amp; Parking Division</b> handles the paperwork, and the court moved to a new electronic case-management system in September 2025, so if a link or balance looks off, call the Traffic Division rather than assuming the ticket is gone.",
+     "<b>For the record:</b> an Ohio conviction adds points, and 12 points in two years triggers a class-D suspension. A BMV-approved remedial driving course credits 2 points against your total - it reduces points, it does not erase the ticket."
+    ]
+   }
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "dayton-oh",
+   "city": "Dayton",
+   "county": "Montgomery County",
+   "contest_online": true,
+   "pay_link": "https://clerkofcourt.daytonohio.gov/",
+   "pay_label": "Dayton Municipal Court Clerk of Court - case search and online payment",
+   "court_link": "https://www.daytonmunicipalcourt.org/",
+   "court_label": "Dayton Municipal Court - official site",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course - a credit against your point total rather than a dismissal. Confirm what Dayton Municipal Court and the BMV accept before paying for a course.",
+   "school_link": "https://www.daytonmunicipalcourt.org/",
+   "points_note": "Ohio assesses points on conviction and 12 points in two years triggers a 12-point suspension (a class-D suspension, typically six months). Points stay on your record two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines and court costs vary by violation, and Ohio courts often only show a payable balance once the case is marked payable. Treat the amount printed on your court notice as the real number.",
+   "verify": [
+    "the exact case number and payable balance in the Clerk's case search",
+    "the court date and courtroom for your traffic or criminal case",
+    "whether a photo-enforcement or parking notice runs through a different process than a physical ticket"
+   ],
+   "local": {
+    "h": "Dayton / Montgomery County details, verified against Dayton Municipal Court",
+    "bullets": [
+     "Dayton city tickets go to the <b>Dayton Municipal Court</b> - start from the court's own site at <a href='https://www.daytonmunicipalcourt.org/' target='_blank' rel='noopener'>daytonmunicipalcourt.org</a>. Search your case and find payment through the <b>Clerk of Court</b> portal at <a href='https://clerkofcourt.daytonohio.gov/' target='_blank' rel='noopener'>clerkofcourt.daytonohio.gov</a>.",
+     "The Clerk portal is organised by type: <b>Traffic &amp; Criminal</b>, <b>Photo Enforcement</b>, <b>Parking</b>, <b>Jury</b>, and a <b>Civil Docket</b>. Pick the right tab - traffic and photo-enforcement notices follow different payment paths.",
+     "Court contact is <b>(937) 333-4338</b>. Downloadable forms - including the <a href='https://clerkofcourt.daytonohio.gov/PA/tc_form/DaytonMunicipalCourt-TCForms.pdf' target='_blank' rel='noopener'>Traffic &amp; Criminal forms</a> - are on the Clerk's site if you are filing or responding by mail.",
+     "<b>Do not confuse the courts.</b> Dayton Municipal Court handles city tickets; <b>Montgomery County</b> courts (via <a href='https://montcourt.oh.gov/' target='_blank' rel='noopener'>montcourt.oh.gov</a>) handle county-level cases. Check the court name on your citation before you act.",
+     "<b>Photo-enforcement and parking notices are their own thing.</b> If your notice came in the mail from a camera or a parking system, treat it as that type of notice and use the matching tab, not the traffic case search.",
+     "<b>For the record:</b> an Ohio conviction adds points, 12 points in two years triggers a class-D suspension, and a BMV-approved remedial driving course credits 2 points against the total rather than dismissing the ticket.",
+     "The Clerk's site also carries the official Ohio court links and forms, so if you are self-represented you can find the traffic forms and the case schedule without going through a third-party site."
+    ]
+   }
+  },
+  {
+   "state": "WA",
+   "state_name": "Washington",
+   "slug": "tacoma-wa",
+   "city": "Tacoma",
+   "county": "Pierce County",
+   "contest_online": true,
+   "pay_link": "https://wacljtmc.municipalonlinepayments.com/wacljtmc",
+   "pay_label": "Tacoma Municipal Court - pay a ticket, fine or fee online",
+   "court_link": "https://tacoma.gov/government/departments/municipal-court/traffic-parking-infractions/",
+   "court_label": "Tacoma Municipal Court - traffic & parking infractions (mitigation vs contested)",
+   "school_eligible": "Washington has no traffic-school dismissal. The equivalent is a <b>deferred finding</b>: the court defers the ticket up to a year and, if you stay violation-free, it never goes on your record. Most drivers get one deferral for a moving and one for a non-moving infraction every seven years - ask about it before you pay.",
+   "school_link": "https://tacoma.gov/government/departments/municipal-court/traffic-parking-infractions/",
+   "points_note": "Washington does not use points. A committed infraction still shows on your DOL record for three years and can affect your insurance - a deferred finding keeps it off, which is the real prize.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Washington sets a statewide penalty schedule for civil traffic infractions, so the base fine is the same across the state, and the amount is printed on your notice.",
+   "verify": [
+    "the response deadline on your notice (33 days if the Notice of Infraction arrived by mail)",
+    "whether you want a mitigation or a contested hearing, and whether to subpoena the officer",
+    "whether your infraction is eligible for a deferred finding"
+   ],
+   "local": {
+    "h": "Tacoma / Pierce County details, verified against Tacoma Municipal Court",
+    "bullets": [
+     "City tickets in Tacoma go to the <b>Tacoma Municipal Court</b>, a court of limited jurisdiction over city-ordinance cases - start from the court's <a href='https://tacoma.gov/government/departments/municipal-court/traffic-parking-infractions/' target='_blank' rel='noopener'>Traffic &amp; Parking Infractions</a> page.",
+     "<b>Respond on time or lose options.</b> You have a set number of days to respond to the ticket in person, and <b>33 days</b> if the Notice of Infraction came by mail. Responding means either paying the penalty or requesting a court date - silence leads to a committed finding and collections.",
+     "<b>Two hearings, two goals.</b> A <b>mitigation hearing</b> is for when you agree you committed the infraction but want to explain the circumstances - the judge will not dismiss it but may reduce the penalty. A <b>contested hearing</b> is for when you believe you did not commit it: you may testify, present evidence and call witnesses, and the ticket can be dismissed.",
+     "<b>Subpoena the officer if you are contesting.</b> Unless you request that the officer (or radar technician) be present, the judge simply reads the officer's sworn statement. Tell the clerk when you schedule if you want them there.",
+     "<b>There is no public defender for infractions.</b> You may hire an attorney at your own expense, but traffic and parking infractions do not qualify for appointed counsel.",
+     "Pay through the court's online portal (<a href='https://wacljtmc.municipalonlinepayments.com/wacljtmc' target='_blank' rel='noopener'>pay a ticket, fine or fee</a>) or by mail to <i>930 Tacoma Avenue South, Room 841, Tacoma, WA 98402</i>. Note: <b>court-date requests are not accepted by phone</b> - sign the back of the ticket and mail it, or file through the court.",
+     "<b>Watch for scams.</b> Tacoma Municipal Court states plainly that no member of the court will ever call you to ask for payment or card details - so any such call is fraudulent.",
+     "<b>The real prize is a deferred finding</b>: ask the court to defer the infraction up to a year and, if you stay clean, it never reaches your record or insurer. Ask before paying, because paying is a committed finding."
+    ]
+   }
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "knoxville-tn",
+   "city": "Knoxville",
+   "county": "Knox County",
+   "contest_online": true,
+   "pay_link": "https://www.knoxcounty.org/criminalcourt/index.php",
+   "pay_label": "Knox County Criminal Court Clerk - payments & KnoxCourtPay",
+   "court_link": "https://www.knoxcounty.org/courts/",
+   "court_label": "Knox County Courts - General Sessions (Criminal & Traffic), Criminal, Circuit, Chancery",
+   "school_eligible": "Tennessee has two routes: a court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "school_link": "https://www.knoxcounty.org/courts/",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and the insurance effect usually costs more than the fine.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Fines and court costs vary by violation. Check the court's current fine schedule, and treat the amount printed on your court notice as the real number.",
+   "verify": [
+    "which Knox County court your citation is set in (General Sessions Criminal & Traffic vs another court)",
+    "your court date and the exact amount owed, through the clerk or the KnoxCourtPay app",
+    "whether a court-ordered school or the state 4-hour course applies to your charge"
+   ],
+   "local": {
+    "h": "Knoxville / Knox County details, verified against Knox County courts",
+    "bullets": [
+     "Knoxville is the seat of <b>Knox County</b>, which runs several courts - see the county's <a href='https://www.knoxcounty.org/courts/' target='_blank' rel='noopener'>Court System</a> page. Moving and traffic citations are handled by the <b>General Sessions Court - Criminal and Traffic</b>, whose records sit with the <b>Knox County Criminal Court Clerk</b>.",
+     "The Criminal Court Clerk's office files and keeps the records for the Criminal Court, General Sessions Criminal, and Fourth Circuit Courts. Clerk Mike Hammond's office is at the City County Building and can be reached at <b>(865) 215-2375</b> - see the Clerk's <a href='https://www.knoxcounty.org/criminalcourt/index.php' target='_blank' rel='noopener'>site</a>.",
+     "<b>Pay or manage your case through KnoxCourtPay</b>, the Clerk's official app and online service, and use the same site to find your <b>court date</b> and today's dockets. Reach it from the Clerk's page rather than a search result, to avoid look-alike sites.",
+     "<b>The Clerk's office does more than take money.</b> It handles driver's-licence reinstatement, expungement screenings and criminal background searches - useful if your ticket snowballed into a licence problem.",
+     "Knox County also runs Chancery, Circuit, Fourth Circuit, Civil Sessions and Juvenile courts; if your citation or a related matter is set in one of those, use the matching court page rather than the General Sessions traffic process.",
+     "<b>Tennessee's record fix is twofold:</b> a judge can let a court-ordered traffic school dismiss a citation, and a state-approved 4-hour driver-education course removes up to 5 points from a speeding conviction. The school must file your certificate within 30 days - confirm who files it.",
+     "<b>Points matter more than the fine:</b> 12 points in 12 months can trigger a proposed licence suspension and a hearing, and the insurance increase outlasts the ticket. If your licence is at risk, ask about school before you pay."
+    ]
+   }
   }
  ]
 }
