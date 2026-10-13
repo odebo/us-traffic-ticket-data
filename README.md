@@ -6,6 +6,13 @@ This is a hand-checked snapshot. Every city record names the court or agency tha
 
 Maintained as the open-data layer behind **https://ticketsimplified.com** — the human-readable version, with the same facts written out as plain-English guides.
 
+## Mirrors
+
+| Platform | Link |
+|---|---|
+| Kaggle | [US Traffic Ticket Courts and Payment Portals](https://www.kaggle.com/datasets/pz2tools/us-traffic-ticket-courts-and-payment-portals) |
+| Hugging Face | [us-traffic-ticket-data](https://huggingface.co/datasets/Asrocky/us-traffic-ticket-data) |
+
 ## Files
 
 | File | Rows | What it is |
