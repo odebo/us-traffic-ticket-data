@@ -10,7 +10,7 @@ Maintained as the open-data layer behind **https://ticketsimplified.com** — th
 
 | File | Rows | What it is |
 |---|---|---|
-| `data/cities.json` | 42 | One object per city: court, payment portal, fine note, traffic-school eligibility, points note, typical lawyer cost, and the items still unverified |
+| `data/cities.json` | 54 | One object per city: court, payment portal, fine note, traffic-school eligibility, points note, typical lawyer cost, and the items still unverified |
 | `data/states.json` | 21 | One object per state: point system, course / record-protection rule, fine source, who handles tickets, the state licensing agency, and FAQs |
 
 ## City record
@@ -45,7 +45,7 @@ Maintained as the open-data layer behind **https://ticketsimplified.com** — th
 
 ## Coverage
 
-**Arizona** (Phoenix) · **California** (Los Angeles, San Diego, San Jose, San Francisco, Irvine, Sacramento, Fresno, Long Beach, Oakland, Anaheim) · **Colorado** (Denver) · **Florida** (Orlando, Miami) · **Georgia** (Atlanta) · **Illinois** (Chicago) · **Indiana** (Indianapolis) · **Massachusetts** (Boston) · **Michigan** (Detroit) · **Minnesota** (Minneapolis) · **Missouri** (Kansas City) · **Nevada** (Las Vegas) · **New York** (New York City) · **North Carolina** (Charlotte) · **Ohio** (Columbus, Cleveland) · **Oregon** (Portland) · **Pennsylvania** (Philadelphia, Pittsburgh) · **Tennessee** (Nashville) · **Texas** (Houston, San Antonio, Dallas, Austin, Fort Worth, Arlington, Plano, Corpus Christi, El Paso, Denton) · **Utah** (Salt Lake City) · **Washington** (Seattle)
+**Arizona** (Phoenix) · **California** (Los Angeles, San Diego, San Jose, San Francisco, Irvine, Sacramento, Fresno, Long Beach, Oakland, Anaheim, Bakersfield) · **Colorado** (Denver, Colorado Springs) · **Florida** (Orlando, Miami, Tampa, Jacksonville, Fort Lauderdale) · **Georgia** (Atlanta) · **Illinois** (Chicago) · **Indiana** (Indianapolis) · **Massachusetts** (Boston) · **Michigan** (Detroit) · **Minnesota** (Minneapolis) · **Missouri** (Kansas City) · **Nevada** (Las Vegas, Reno) · **New York** (New York) · **North Carolina** (Charlotte) · **Ohio** (Columbus, Cleveland, Cincinnati, Akron, Dayton) · **Oregon** (Portland) · **Pennsylvania** (Philadelphia, Pittsburgh) · **Tennessee** (Nashville, Knoxville) · **Texas** (Houston, San Antonio, Dallas, Austin, Fort Worth, Arlington, Plano, Corpus Christi, El Paso, Denton) · **Utah** (Salt Lake City) · **Washington** (Seattle, Spokane, Tacoma)
 
 ## Caveats — read before using this
 
