@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "US Traffic Ticket Courts and Payment Portals"
+abstract: >
+  A machine-readable reference for US traffic tickets: 54 city records and 21
+  state records covering the court or agency that handles the citation, its
+  official payment or contest portal, the fine structure, point consequences,
+  and whether a traffic course dismisses the case, withholds adjudication, only
+  reduces points, or does not exist.
+type: dataset
+authors:
+  - name: "TicketSimplified"
+    website: "https://ticketsimplified.com/"
+version: 2026.10.13
+date-released: 2026-10-13
+license: CC0-1.0
+url: "https://github.com/odebo/us-traffic-ticket-data"
+repository-code: "https://github.com/odebo/us-traffic-ticket-data"
+keywords:
+  - "traffic tickets"
+  - "traffic court"
+  - "open data"
+  - "United States"
+
