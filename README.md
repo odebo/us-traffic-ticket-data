@@ -8,10 +8,12 @@ Maintained as the open-data layer behind **https://ticketsimplified.com** — th
 
 ## Mirrors
 
-| Platform | Link |
-|---|---|
-| Kaggle | [US Traffic Ticket Courts and Payment Portals](https://www.kaggle.com/datasets/pz2tools/us-traffic-ticket-courts-and-payment-portals) |
-| Hugging Face | [us-traffic-ticket-data](https://huggingface.co/datasets/Asrocky/us-traffic-ticket-data) |
+| Platform | Link | Format |
+|---|---|---|
+| **TicketSimplified** (human-readable + dataset page) | [ticketsimplified.com/open-data/](https://ticketsimplified.com/open-data/) | HTML |
+| Kaggle | [US Traffic Ticket Courts and Payment Portals](https://www.kaggle.com/datasets/pz2tools/us-traffic-ticket-courts-and-payment-portals) | CSV |
+| Hugging Face | [us-traffic-ticket-data](https://huggingface.co/datasets/Asrocky/us-traffic-ticket-data) | CSV, JSONL |
+| GitHub (this repository) | [odebo/us-traffic-ticket-data](https://github.com/odebo/us-traffic-ticket-data) | JSON, CSV, JSONL |
 
 ## Files
 
@@ -66,3 +68,5 @@ Maintained as the open-data layer behind **https://ticketsimplified.com** — th
 Public domain (CC0). No attribution required, though a link back to https://ticketsimplified.com is appreciated.
 
 Spotted an error, or want a city added? Open an issue with the official page that shows the correct value.
+
+Dataset landing page with field notes, coverage and a suggested citation: <https://ticketsimplified.com/open-data/>
