@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 title: "US Traffic Ticket Courts and Payment Portals"
 abstract: >
-  A machine-readable reference for US traffic tickets: 153 city records and 21
+  A machine-readable reference for US traffic tickets: 185 city records and 21
   state records covering the court or agency that handles the citation, its
   official payment or contest portal, the fine structure, point consequences,
   and whether a traffic course dismisses the case, withholds adjudication, only
