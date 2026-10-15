@@ -14,6 +14,21 @@ Maintained as the open-data layer behind **https://ticketsimplified.com** — th
 | Kaggle | [US Traffic Ticket Courts and Payment Portals](https://www.kaggle.com/datasets/pz2tools/us-traffic-ticket-courts-and-payment-portals) | CSV |
 | Hugging Face | [us-traffic-ticket-data](https://huggingface.co/datasets/Asrocky/us-traffic-ticket-data) | CSV, JSONL |
 | GitHub (this repository) | [odebo/us-traffic-ticket-data](https://github.com/odebo/us-traffic-ticket-data) | JSON, CSV, JSONL |
+| **TicketSimplified API** (read-only JSON, no key) | [api.ticketsimplified.com](https://api.ticketsimplified.com/index.json) | JSON |
+
+## API
+
+The same records are served as a read-only JSON API - no key, no registration, no rate limit:
+
+```sh
+curl -s "https://api.ticketsimplified.com/cities.json?state=CA&limit=3"
+curl -s "https://api.ticketsimplified.com/states.json?state=TX"
+curl -s "https://api.ticketsimplified.com/index.json"     # endpoint index + licence
+```
+
+`/cities.json` accepts `?state=`, `?q=` and `?limit=`; `/states.json` accepts `?state=`.
+CORS is open (`Access-Control-Allow-Origin: *`), so the API is callable from a browser.
+
 
 ## Files
 
