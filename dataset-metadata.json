@@ -1,0 +1,18 @@
+{
+  "title": "US Traffic Ticket Courts and Payment Portals",
+  "id": "odebo/us-traffic-ticket-courts-and-payment-portals",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "keywords": [
+    "government",
+    "law",
+    "transportation",
+    "courts"
+  ],
+  "subtitle": "153 cities / 21 states: courts, official payment portals, points, traffic-school rules",
+  "description": "A machine-readable reference for what to do after a US traffic ticket: 153 city records across 21 states, plus 21 state records.\n\nEach city record names the court or agency that actually handles the citation and links to that agency's own official payment or contest portal - no third-party payment services - plus the fine structure, the point consequences, contest options, and the facts still unverified.\n\nEach state record covers the point system and whether a traffic course dismisses the case, withholds adjudication, only reduces points, or does not exist.\n\nAlso available as a key-less JSON API: https://api.ticketsimplified.com/index.json\n\nLicensed CC0-1.0. Source: https://github.com/odebo/us-traffic-ticket-data . Human-readable version: https://ticketsimplified.com . Not legal advice.",
+  "resources": []
+}
