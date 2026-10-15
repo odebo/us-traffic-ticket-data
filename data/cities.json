@@ -5262,6 +5262,1147 @@
     "the total fine including Miami-Dade County surcharges"
    ],
    "tool_note": "Hialeah is where the three-way split matters most: civil infraction, criminal traffic violation and parking citation are three different Miami-Dade processes, and the citation itself tells you which one you have."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "frisco-tx",
+   "city": "Frisco",
+   "county": "Collin and Denton counties",
+   "court_link": "https://www.friscotexas.gov/",
+   "court_label": "City of Frisco - official city website",
+   "pay_link": "https://friscotx.municipalonlinepayments.com/friscotx",
+   "pay_label": "City of Frisco Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Frisco details, verified against the City of Frisco Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Frisco officer goes to <b>Frisco Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://friscotx.municipalonlinepayments.com/friscotx' target='_blank' rel='noopener'>City of Frisco Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Frisco sits on the Collin/Denton county line, so a citation written at the Dallas North Tollway edge of town and one written downtown are the same court but different county filing paths - read the court name printed on the citation.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Frisco city ticket and a county JP ticket are handled completely differently",
+    "which municipal court is printed on your citation and its phone number",
+    "the amount due today, including court costs, in the court portal",
+    "whether the charge is eligible for the Texas driving safety course dismissal"
+   ],
+   "tool_note": "Frisco citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "mesquite-tx",
+   "city": "Mesquite",
+   "county": "Dallas County",
+   "court_link": "https://www.cityofmesquite.com/",
+   "court_label": "City of Mesquite - official city website",
+   "pay_link": "https://mesquitetx.municipalonlinepayments.com/mesquitetx",
+   "pay_label": "City of Mesquite Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Mesquite details, verified against the City of Mesquite Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Mesquite officer goes to <b>Mesquite Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://mesquitetx.municipalonlinepayments.com/mesquitetx' target='_blank' rel='noopener'>City of Mesquite Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Mesquite's court covers the city, and everything on I-635 or I-30 through Mesquite is heavily enforced - those citations are still Mesquite Municipal Court cases because the city's limits reach the interstate.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Mesquite city ticket and a county JP ticket are handled completely differently",
+    "the answer date on your citation, because the driving safety course has to be requested by then",
+    "the total due including court costs",
+    "whether deferred disposition is available for your charge in Mesquite"
+   ],
+   "tool_note": "Mesquite citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "baytown-tx",
+   "city": "Baytown",
+   "county": "Harris County",
+   "court_link": "https://www.baytown.org/",
+   "court_label": "City of Baytown - official city website",
+   "pay_link": "https://baytowntx.municipalonlinepayments.com/baytowntx",
+   "pay_label": "City of Baytown Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Baytown details, verified against the City of Baytown Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Baytown officer goes to <b>Baytown Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://baytowntx.municipalonlinepayments.com/baytowntx' target='_blank' rel='noopener'>City of Baytown Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Baytown straddles Harris and Chambers counties and sits on the I-10 industrial corridor, where the speed limit changes repeatedly - the citation is still a Baytown Municipal Court case, but read the location code on it.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Baytown city ticket and a county JP ticket are handled completely differently",
+    "the amount the court's portal shows as due today",
+    "the answer date, which is the deadline for requesting the driving safety course",
+    "whether your violation is one the court will allow a course on at all"
+   ],
+   "tool_note": "Baytown citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "conroe-tx",
+   "city": "Conroe",
+   "county": "Montgomery County",
+   "court_link": "https://www.cityofconroe.org/",
+   "court_label": "City of Conroe - official city website",
+   "pay_link": "https://conroetx.municipalonlinepayments.com/conroetx",
+   "pay_label": "City of Conroe Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Conroe details, verified against the City of Conroe Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Conroe officer goes to <b>Conroe Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://conroetx.municipalonlinepayments.com/conroetx' target='_blank' rel='noopener'>City of Conroe Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Conroe is the county seat of Montgomery County, and the county has its own Justice of the Peace precincts - a citation from a Montgomery County constable or sheriff's deputy outside the city limits is a JP case and is not payable through the city's portal.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Conroe city ticket and a county JP ticket are handled completely differently",
+    "whether the case is a Conroe Municipal Court case or a Montgomery County JP case, because the payment routes are different",
+    "the amount due today in the correct portal",
+    "whether a driving safety course is still available on your charge"
+   ],
+   "tool_note": "Conroe citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "galveston-tx",
+   "city": "Galveston",
+   "county": "Galveston County",
+   "court_link": "https://www.cityofgalveston.org/",
+   "court_label": "City of Galveston - official city website",
+   "pay_link": "https://galvestontx.municipalonlinepayments.com/galvestontx",
+   "pay_label": "City of Galveston Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Galveston details, verified against the City of Galveston Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Galveston officer goes to <b>Galveston Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://galvestontx.municipalonlinepayments.com/galvestontx' target='_blank' rel='noopener'>City of Galveston Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Galveston's enforcement is a mix of island surface streets and the seawall, and the county seat is in the same city - so both Galveston Municipal Court and Galveston County JP courts operate here. Your citation names which one you are in.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Galveston city ticket and a county JP ticket are handled completely differently",
+    "the court name printed on the citation",
+    "the fine plus court costs as shown in that court's portal",
+    "the answer date, which is the last day to request the driving safety course"
+   ],
+   "tool_note": "Galveston citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "beaumont-tx",
+   "city": "Beaumont",
+   "county": "Jefferson County",
+   "court_link": "https://www.beaumonttexas.gov/",
+   "court_label": "City of Beaumont - official city website",
+   "pay_link": "https://beaumonttx.municipalonlinepayments.com/beaumonttx",
+   "pay_label": "City of Beaumont Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Beaumont details, verified against the City of Beaumont Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Beaumont officer goes to <b>Beaumont Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://beaumonttx.municipalonlinepayments.com/beaumonttx' target='_blank' rel='noopener'>City of Beaumont Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Beaumont is on I-10 and US-69, the two heaviest enforcement corridors in the Golden Triangle, and the county runs its own Justice of the Peace precincts alongside the city court.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Beaumont city ticket and a county JP ticket are handled completely differently",
+    "whether your case is Beaumont Municipal Court or a Jefferson County JP case",
+    "the total amount due, which includes court costs on top of the statutory fine",
+    "whether a driving safety course dismissal is still requestable"
+   ],
+   "tool_note": "Beaumont citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "abilene-tx",
+   "city": "Abilene",
+   "county": "Taylor County",
+   "court_link": "https://www.abilenetx.gov/",
+   "court_label": "City of Abilene - official city website",
+   "pay_link": "https://abilenetx.municipalonlinepayments.com/abilenetx",
+   "pay_label": "City of Abilene Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Abilene details, verified against the City of Abilene Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Abilene officer goes to <b>Abilene Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://abilenetx.municipalonlinepayments.com/abilenetx' target='_blank' rel='noopener'>City of Abilene Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Abilene is the hub of the Big Country and the county seat, so both the municipal court and the Taylor County JP courts handle citations written around here, and the metropolitan area reaches into the county.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Abilene city ticket and a county JP ticket are handled completely differently",
+    "which court your citation was filed in",
+    "the amount due today in that court's portal",
+    "the answer date on your citation"
+   ],
+   "tool_note": "Abilene citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "san-angelo-tx",
+   "city": "San Angelo",
+   "county": "Tom Green County",
+   "court_link": "https://www.cosatx.us/",
+   "court_label": "City of San Angelo - official city website",
+   "pay_link": "https://sanangelotx.municipalonlinepayments.com/sanangelotx",
+   "pay_label": "City of San Angelo Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "San Angelo details, verified against the City of San Angelo Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a San Angelo officer goes to <b>San Angelo Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://sanangelotx.municipalonlinepayments.com/sanangelotx' target='_blank' rel='noopener'>City of San Angelo Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "San Angelo is the Tom Green County seat, and the city court's jurisdiction reaches well past the city limits in practice because of the highways running through the Concho Valley.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a San Angelo city ticket and a county JP ticket are handled completely differently",
+    "the court name and county on the citation",
+    "the fine with court costs included",
+    "whether deferred disposition or the driving safety course is available for your charge"
+   ],
+   "tool_note": "San Angelo citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "laredo-tx",
+   "city": "Laredo",
+   "county": "Webb County",
+   "court_link": "https://www.cityoflaredo.com/",
+   "court_label": "City of Laredo - official city website",
+   "pay_link": "https://laredotx.municipalonlinepayments.com/laredotx",
+   "pay_label": "City of Laredo Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Laredo details, verified against the City of Laredo Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Laredo officer goes to <b>Laredo Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://laredotx.municipalonlinepayments.com/laredotx' target='_blank' rel='noopener'>City of Laredo Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Laredo is on the I-35 corridor and the international bridge traffic that comes with it, and Webb County runs its own JP precincts alongside the city court.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Laredo city ticket and a county JP ticket are handled completely differently",
+    "whether the citation is a Laredo Municipal Court case or a Webb County JP case",
+    "the amount due in the correct portal, with court costs",
+    "whether the court will accept a driving safety course for this charge"
+   ],
+   "tool_note": "Laredo citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "edinburg-tx",
+   "city": "Edinburg",
+   "county": "Hidalgo County",
+   "court_link": "https://cityofedinburg.com/",
+   "court_label": "City of Edinburg - official city website",
+   "pay_link": "https://edinburgtx.municipalonlinepayments.com/edinburgtx",
+   "pay_label": "City of Edinburg Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Edinburg details, verified against the City of Edinburg Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Edinburg officer goes to <b>Edinburg Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://edinburgtx.municipalonlinepayments.com/edinburgtx' target='_blank' rel='noopener'>City of Edinburg Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Edinburg is the Hidalgo County seat and sits inside the McAllen-Edinburg-Mission metro, where the city courts and the county JP precincts both take traffic citations.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Edinburg city ticket and a county JP ticket are handled completely differently",
+    "which court on the citation is handling it",
+    "the total due today in that court's portal",
+    "how long you have to request the driving safety course"
+   ],
+   "tool_note": "Edinburg citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "harlingen-tx",
+   "city": "Harlingen",
+   "county": "Cameron County",
+   "court_link": "https://www.myharlingen.us/",
+   "court_label": "City of Harlingen - official city website",
+   "pay_link": "https://harlingentx.municipalonlinepayments.com/harlingentx",
+   "pay_label": "City of Harlingen Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Harlingen details, verified against the City of Harlingen Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Harlingen officer goes to <b>Harlingen Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://harlingentx.municipalonlinepayments.com/harlingentx' target='_blank' rel='noopener'>City of Harlingen Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Harlingen is in the Cameron County valley corridor, and US-77 and US-83 enforcement there produces a lot of city citations that stay city cases - but county deputies produce JP cases.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Harlingen city ticket and a county JP ticket are handled completely differently",
+    "the court named on the citation and its phone number",
+    "the amount due including court costs",
+    "whether a course or deferred disposition is still on the table"
+   ],
+   "tool_note": "Harlingen citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "college-station-tx",
+   "city": "College Station",
+   "county": "Brazos County",
+   "court_link": "https://www.cstx.gov/",
+   "court_label": "City of College Station - official city website",
+   "pay_link": "https://collegestationtx.municipalonlinepayments.com/collegestationtx",
+   "pay_label": "City of College Station Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "College Station details, verified against the City of College Station Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a College Station officer goes to <b>College Station Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://collegestationtx.municipalonlinepayments.com/collegestationtx' target='_blank' rel='noopener'>City of College Station Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "College Station and Bryan share the Brazos County court system, and Texas A&M traffic plus the Highway 6 corridor produce a steady stream of city citations. Brazos County also runs its own JP precincts.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a College Station city ticket and a county JP ticket are handled completely differently",
+    "whether your citation is a College Station Municipal Court case or a Brazos County JP case",
+    "the amount due today in the court's portal",
+    "the answer date, which is the deadline for requesting the driving safety course"
+   ],
+   "tool_note": "College Station citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "mansfield-tx",
+   "city": "Mansfield",
+   "county": "Tarrant County",
+   "court_link": "https://www.mansfieldtexas.gov/",
+   "court_label": "City of Mansfield - official city website",
+   "pay_link": "https://mansfieldtx.municipalonlinepayments.com/mansfieldtx",
+   "pay_label": "City of Mansfield Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Mansfield details, verified against the City of Mansfield Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Mansfield officer goes to <b>Mansfield Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://mansfieldtx.municipalonlinepayments.com/mansfieldtx' target='_blank' rel='noopener'>City of Mansfield Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Mansfield is at the corner of Tarrant, Ellis and Johnson counties, so the same city has citations filed in more than one county's JP system - only the city citations land at Mansfield Municipal Court.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Mansfield city ticket and a county JP ticket are handled completely differently",
+    "which court and county your citation was filed in",
+    "the total due with court costs in that court's portal",
+    "whether the charge qualifies for a driving safety course dismissal"
+   ],
+   "tool_note": "Mansfield citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "cedar-park-tx",
+   "city": "Cedar Park",
+   "county": "Williamson County",
+   "court_link": "https://www.cedarparktexas.gov/",
+   "court_label": "City of Cedar Park - official city website",
+   "pay_link": "https://cedarparktx.municipalonlinepayments.com/cedarparktx",
+   "pay_label": "City of Cedar Park Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Cedar Park details, verified against the City of Cedar Park Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Cedar Park officer goes to <b>Cedar Park Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://cedarparktx.municipalonlinepayments.com/cedarparktx' target='_blank' rel='noopener'>City of Cedar Park Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Cedar Park lies in both Williamson and Travis counties, and US-183A and the toll roads through it are the main enforcement sites - the citation still names which court has it.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Cedar Park city ticket and a county JP ticket are handled completely differently",
+    "whether the case is in Cedar Park Municipal Court and which county filed it",
+    "the amount the court shows as due today",
+    "the answer date on the citation"
+   ],
+   "tool_note": "Cedar Park citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "georgetown-tx",
+   "city": "Georgetown",
+   "county": "Williamson County",
+   "court_link": "https://www.georgetown.org/",
+   "court_label": "City of Georgetown - official city website",
+   "pay_link": "https://georgetowntx.municipalonlinepayments.com/georgetowntx",
+   "pay_label": "City of Georgetown Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Georgetown details, verified against the City of Georgetown Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Georgetown officer goes to <b>Georgetown Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://georgetowntx.municipalonlinepayments.com/georgetowntx' target='_blank' rel='noopener'>City of Georgetown Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Georgetown is the Williamson County seat and sits on I-35, so both the city court and the county JP precincts are active here - city citations go to Georgetown Municipal Court.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Georgetown city ticket and a county JP ticket are handled completely differently",
+    "the court named on your citation",
+    "the fine plus court costs as shown in that court's portal",
+    "the last day to request the Texas driving safety course dismissal"
+   ],
+   "tool_note": "Georgetown citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "pearland-tx",
+   "city": "Pearland",
+   "county": "Brazoria County",
+   "court_link": "https://www.pearlandtx.gov/",
+   "court_label": "City of Pearland - official city website",
+   "pay_link": "https://pearlandtx.municipalonlinepayments.com/pearlandtx",
+   "pay_label": "City of Pearland Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Pearland details, verified against the City of Pearland Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Pearland officer goes to <b>Pearland Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://pearlandtx.municipalonlinepayments.com/pearlandtx' target='_blank' rel='noopener'>City of Pearland Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Pearland spreads across Brazoria, Fort Bend and Harris counties, which is exactly why the citation has to be read for the court name - the city court only takes city citations.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Pearland city ticket and a county JP ticket are handled completely differently",
+    "which court and county your citation was filed in, because Pearland reaches three counties",
+    "the total due today in the right portal",
+    "whether the charge is course-eligible"
+   ],
+   "tool_note": "Pearland citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "missouricity-tx",
+   "city": "Missouri City",
+   "county": "Fort Bend County",
+   "court_link": "https://www.missouricitytx.gov/",
+   "court_label": "City of Missouri City - official city website",
+   "pay_link": "https://missouricitytx.municipalonlinepayments.com/missouricitytx",
+   "pay_label": "City of Missouri City Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Missouri City details, verified against the City of Missouri City Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Missouri City officer goes to <b>Missouri City Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://missouricitytx.municipalonlinepayments.com/missouricitytx' target='_blank' rel='noopener'>City of Missouri City Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Missouri City is partly in Fort Bend and partly in Harris County, and Fort Bend County runs its own JP precincts - so this is one of the cities where the citation can be a city case or a county case depending on who wrote it.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Missouri City city ticket and a county JP ticket are handled completely differently",
+    "whether the citation came from the city or from a Fort Bend County officer",
+    "the amount due in that court's portal, with court costs",
+    "how much time is left on the answer date"
+   ],
+   "tool_note": "Missouri City citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "portarthur-tx",
+   "city": "Port Arthur",
+   "county": "Jefferson County",
+   "court_link": "https://www.portarthurtx.gov/",
+   "court_label": "City of Port Arthur - official city website",
+   "pay_link": "https://portarthurtx.municipalonlinepayments.com/portarthurtx",
+   "pay_label": "City of Port Arthur Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Port Arthur details, verified against the City of Port Arthur Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Port Arthur officer goes to <b>Port Arthur Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://portarthurtx.municipalonlinepayments.com/portarthurtx' target='_blank' rel='noopener'>City of Port Arthur Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Port Arthur is on the Sabine and the Gulf, with refinery traffic and highway 69/96 enforcement, and Jefferson County runs its own JP precincts alongside the city court.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Port Arthur city ticket and a county JP ticket are handled completely differently",
+    "which court has the case",
+    "the fine with court costs from the correct portal",
+    "whether a driving safety course is available for your violation"
+   ],
+   "tool_note": "Port Arthur citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "longview-tx",
+   "city": "Longview",
+   "county": "Gregg County",
+   "court_link": "https://www.longviewtexas.gov/",
+   "court_label": "City of Longview - official city website",
+   "pay_link": "https://longviewtx.municipalonlinepayments.com/longviewtx",
+   "pay_label": "City of Longview Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Longview details, verified against the City of Longview Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Longview officer goes to <b>Longview Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://longviewtx.municipalonlinepayments.com/longviewtx' target='_blank' rel='noopener'>City of Longview Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Longview is the biggest city in Gregg County and sits on I-20 and US-259, so the municipal court sees a high volume of both city and interstate citations.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Longview city ticket and a county JP ticket are handled completely differently",
+    "the court and county printed on the citation",
+    "the total amount due today",
+    "the answer date, which is the deadline for a course request"
+   ],
+   "tool_note": "Longview citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "katy-tx",
+   "city": "Katy",
+   "county": "Harris County",
+   "court_link": "https://www.cityofkaty.com/",
+   "court_label": "City of Katy - official city website",
+   "pay_link": "https://katytx.municipalonlinepayments.com/katytx",
+   "pay_label": "City of Katy Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Katy details, verified against the City of Katy Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Katy officer goes to <b>Katy Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://katytx.municipalonlinepayments.com/katytx' target='_blank' rel='noopener'>City of Katy Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Katy crosses Harris, Fort Bend and Waller counties, and I-10 through it is one of the most heavily patrolled stretches in the state - a Katy citation can be a Katy Municipal Court case only if a Katy officer wrote it.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Katy city ticket and a county JP ticket are handled completely differently",
+    "which court and county filed your citation",
+    "the amount due in that court's portal",
+    "whether deferred disposition is offered on your charge"
+   ],
+   "tool_note": "Katy citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "TX",
+   "state_name": "Texas",
+   "slug": "texas-city-tx",
+   "city": "Texas City",
+   "county": "Galveston County",
+   "court_link": "https://www.texas-city-tx.org/",
+   "court_label": "City of Texas City - official city website",
+   "pay_link": "https://texascitytx.municipalonlinepayments.com/texascitytx",
+   "pay_label": "City of Texas City Municipal Court - citation lookup and online payment",
+   "school_link": "https://www.tdlr.texas.gov/driver/safety/providers/search/",
+   "school_eligible": "In Texas you can often take a driving safety course to get an eligible ticket dismissed - usually once every 12 months. You must request it by your answer date and pay the court costs plus the state fee.",
+   "points_note": "Texas does not use a points system, but a conviction can still raise your insurance rate.",
+   "lawyer_cost": "$150-$400 typical for a simple moving violation",
+   "fine_note": "Texas fines are set by statute for many violations, but the amount you owe is the fine plus the court costs that court charges, so the same speeding ticket costs different amounts in different cities. The court's portal shows the amount that is actually due on your case - that is the number to trust, not the citation.",
+   "contest_online": true,
+   "local": {
+    "h": "Texas City details, verified against the City of Texas City Municipal Court",
+    "bullets": [
+     "<b>Texas traffic citations are municipal court cases.</b> A ticket written by a Texas City officer goes to <b>Texas City Municipal Court</b>; one written by a county deputy, constable or DPS trooper outside the city limits goes to the <b>Justice of the Peace</b> precinct for that area instead. The court name printed on the citation tells you which one you have, and the two have different payment routes.",
+     "Pay or dispute through the court's own portal: <a href='https://texascitytx.municipalonlinepayments.com/texascitytx' target='_blank' rel='noopener'>City of Texas City Municipal Court online payments</a>. Texas city courts run on municipalonlinepayments.com, so you look the case up by <b>citation number</b> and it shows the amount that is actually due on the case today - not the number written on the citation.",
+     "Texas City is an industrial corridor city on Galveston Bay, and Galveston County runs its own JP precincts next to the municipal court - the citation says which one has the case.",
+     "Texas has <b>no points system</b>, but a conviction still ends up on the driving record that insurers price - which is the whole reason the dismissal routes below matter.",
+     "<b>The record tool in Texas is the driving safety course (DSC) dismissal.</b> On an eligible ticket you can usually take a state-approved course once every <b>12 months</b> and have the charge dismissed, but you must <b>request it by your answer date</b>. Paying first closes that door, so decide the route before you pay anything.",
+     "Many Texas municipal courts also offer <b>deferred disposition</b>: a probation period where the case is dismissed if you stay clean and meet the conditions. It is a different route from the DSC dismissal, and courts generally will not let you use both - ask the court before the answer date which fits your charge.",
+     "Approved DSC providers are listed by the state: <a href='https://www.tdlr.texas.gov/driver/safety/providers/search/' target='_blank' rel='noopener'>TDLR driving safety course provider search</a>. Check your record at <a href='https://www.dps.texas.gov/section/driver-license' target='_blank' rel='noopener'>Texas DPS</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because a Texas City city ticket and a county JP ticket are handled completely differently",
+    "the court and county on your citation",
+    "the fine plus court costs from the court's portal",
+    "the answer date and whether it has already passed"
+   ],
+   "tool_note": "Texas City citations are payable online through the municipal court's portal - look the case up by citation number, not by name."
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "canton-oh",
+   "city": "Canton",
+   "county": "Stark County",
+   "court_link": "https://www.cantoncourt.org/",
+   "court_label": "Canton Municipal Court - official court website",
+   "pay_link": "https://www.cantoncourt.org/",
+   "pay_label": "City of Canton - court and payment information",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Ohio fines are set by statute, and the court adds its own costs - the amount you pay is the fine plus costs, so it is usually higher than the number on the ticket. The case record in the court's own system is the number that counts.",
+   "contest_online": false,
+   "local": {
+    "h": "Canton details, verified against the municipal court that covers the city",
+    "bullets": [
+     "<b>Ohio traffic tickets are municipal court cases.</b> The court that covers Canton is the municipal court for that city - Ohio's municipal courts are city-based, not county-based, which is why the same county can have several of them and why the citation's court name matters.",
+     "Start from the city's own site: <a href='https://www.cantoncourt.org/' target='_blank' rel='noopener'>City of Canton</a> points at that court's case search and payment options. Ohio courts show you the case record first - the online payment button only appears when the case is marked payable.",
+     "Canton Municipal Court is Stark County's biggest municipal court and runs its own case search, so you can look the case up and see whether it is marked payable before you pay anything.",
+     "Ohio assesses points <b>on conviction</b>, and <b>12 points in two years</b> triggers a 12-point (class-D) suspension that typically runs six months. Points stay on the record for two years from the conviction, and the BMV can act before you reach twelve.",
+     "<b>Ohio's record tool is not a dismissal - it is a 2-point credit.</b> Completing a BMV-approved remedial driving course earns a credit against your point total; it does not delete the ticket unless a court orders it. Ask the court and check the BMV first, because paying for a course that does not change your case is a waste: <a href='https://www.bmv.ohio.gov/suspensions-reinstatements.aspx' target='_blank' rel='noopener'>Ohio BMV suspensions and remedial courses</a>.",
+     "If the fine is the problem, Ohio courts can order a payment plan or community service instead of a single payment - that has to be asked for at the court, and it is much easier before the case is in default than after.",
+     "Check your point total at <a href='https://www.bmv.ohio.gov/' target='_blank' rel='noopener'>Ohio BMV</a>. A conviction also reaches your insurer independently of the points."
+    ]
+   },
+   "verify": [
+    "the case number and whether it is marked payable in the court's own system",
+    "the fine plus court costs as the court records them",
+    "whether the court will order a remedial driving course or grant a payment plan"
+   ],
+   "tool_note": "Canton citations are handled by the municipal court for the city - look the case up in the court's own system before paying, because the pay button only shows when the case is payable."
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "parma-oh",
+   "city": "Parma",
+   "county": "Cuyahoga County",
+   "court_link": "https://www.cityofparma-oh.gov/",
+   "court_label": "City of Parma - official city website",
+   "pay_link": "https://www.cityofparma-oh.gov/",
+   "pay_label": "City of Parma - court and payment information",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Ohio fines are set by statute, and the court adds its own costs - the amount you pay is the fine plus costs, so it is usually higher than the number on the ticket. The case record in the court's own system is the number that counts.",
+   "contest_online": false,
+   "local": {
+    "h": "Parma details, verified against the municipal court that covers the city",
+    "bullets": [
+     "<b>Ohio traffic tickets are municipal court cases.</b> The court that covers Parma is the municipal court for that city - Ohio's municipal courts are city-based, not county-based, which is why the same county can have several of them and why the citation's court name matters.",
+     "Start from the city's own site: <a href='https://www.cityofparma-oh.gov/' target='_blank' rel='noopener'>City of Parma</a> points at that court's case search and payment options. Ohio courts show you the case record first - the online payment button only appears when the case is marked payable.",
+     "Parma is Cuyahoga County's largest suburb and has its own municipal court, which matters because Cuyahoga County also runs Cleveland Municipal Court and the county's common pleas courts - a Parma citation stays a Parma case.",
+     "Ohio assesses points <b>on conviction</b>, and <b>12 points in two years</b> triggers a 12-point (class-D) suspension that typically runs six months. Points stay on the record for two years from the conviction, and the BMV can act before you reach twelve.",
+     "<b>Ohio's record tool is not a dismissal - it is a 2-point credit.</b> Completing a BMV-approved remedial driving course earns a credit against your point total; it does not delete the ticket unless a court orders it. Ask the court and check the BMV first, because paying for a course that does not change your case is a waste: <a href='https://www.bmv.ohio.gov/suspensions-reinstatements.aspx' target='_blank' rel='noopener'>Ohio BMV suspensions and remedial courses</a>.",
+     "If the fine is the problem, Ohio courts can order a payment plan or community service instead of a single payment - that has to be asked for at the court, and it is much easier before the case is in default than after.",
+     "Check your point total at <a href='https://www.bmv.ohio.gov/' target='_blank' rel='noopener'>Ohio BMV</a>. A conviction also reaches your insurer independently of the points."
+    ]
+   },
+   "verify": [
+    "the court named on the citation and its phone number",
+    "the amount due, including court costs, on the court's case record",
+    "whether your point total is close to the 12-point suspension line"
+   ],
+   "tool_note": "Parma citations are handled by the municipal court for the city - look the case up in the court's own system before paying, because the pay button only shows when the case is payable."
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "lakewood-oh",
+   "city": "Lakewood",
+   "county": "Cuyahoga County",
+   "court_link": "https://www.lakewoodoh.gov/",
+   "court_label": "City of Lakewood - official city website",
+   "pay_link": "https://www.lakewoodoh.gov/",
+   "pay_label": "City of Lakewood - court and payment information",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Ohio fines are set by statute, and the court adds its own costs - the amount you pay is the fine plus costs, so it is usually higher than the number on the ticket. The case record in the court's own system is the number that counts.",
+   "contest_online": false,
+   "local": {
+    "h": "Lakewood details, verified against the municipal court that covers the city",
+    "bullets": [
+     "<b>Ohio traffic tickets are municipal court cases.</b> The court that covers Lakewood is the municipal court for that city - Ohio's municipal courts are city-based, not county-based, which is why the same county can have several of them and why the citation's court name matters.",
+     "Start from the city's own site: <a href='https://www.lakewoodoh.gov/' target='_blank' rel='noopener'>City of Lakewood</a> points at that court's case search and payment options. Ohio courts show you the case record first - the online payment button only appears when the case is marked payable.",
+     "Lakewood is a dense inner-ring suburb on the Cleveland border, and it has its own municipal court - the enforcement there is mostly surface-street and parking, and parking is handled separately from moving violations.",
+     "Ohio assesses points <b>on conviction</b>, and <b>12 points in two years</b> triggers a 12-point (class-D) suspension that typically runs six months. Points stay on the record for two years from the conviction, and the BMV can act before you reach twelve.",
+     "<b>Ohio's record tool is not a dismissal - it is a 2-point credit.</b> Completing a BMV-approved remedial driving course earns a credit against your point total; it does not delete the ticket unless a court orders it. Ask the court and check the BMV first, because paying for a course that does not change your case is a waste: <a href='https://www.bmv.ohio.gov/suspensions-reinstatements.aspx' target='_blank' rel='noopener'>Ohio BMV suspensions and remedial courses</a>.",
+     "If the fine is the problem, Ohio courts can order a payment plan or community service instead of a single payment - that has to be asked for at the court, and it is much easier before the case is in default than after.",
+     "Check your point total at <a href='https://www.bmv.ohio.gov/' target='_blank' rel='noopener'>Ohio BMV</a>. A conviction also reaches your insurer independently of the points."
+    ]
+   },
+   "verify": [
+    "whether the ticket is a moving violation or a parking citation, because the two run on different tracks in Lakewood",
+    "the case number and the amount due in the court's system",
+    "how many points are already on your Ohio record"
+   ],
+   "tool_note": "Lakewood citations are handled by the municipal court for the city - look the case up in the court's own system before paying, because the pay button only shows when the case is payable."
+  },
+  {
+   "state": "OH",
+   "state_name": "Ohio",
+   "slug": "elyria-oh",
+   "city": "Elyria",
+   "county": "Lorain County",
+   "court_link": "https://www.cityofelyria.org/",
+   "court_label": "City of Elyria - official city website",
+   "pay_link": "https://www.cityofelyria.org/",
+   "pay_label": "City of Elyria - court and payment information",
+   "school_link": "https://www.bmv.ohio.gov/suspensions-reinstatements.aspx",
+   "school_eligible": "Ohio's record tool is a 2-point credit for completing a BMV-approved remedial driving course. It is a credit against your point total, and it does not delete a ticket unless a court orders it, so confirm what your court and the BMV will accept before you pay for a course.",
+   "points_note": "Ohio assesses points on conviction, and 12 points in two years triggers a 12-point suspension (a class-D suspension that typically runs six months). The BMV can act well before that, and points stay on your record for two years from the conviction.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Ohio fines are set by statute, and the court adds its own costs - the amount you pay is the fine plus costs, so it is usually higher than the number on the ticket. The case record in the court's own system is the number that counts.",
+   "contest_online": false,
+   "local": {
+    "h": "Elyria details, verified against the municipal court that covers the city",
+    "bullets": [
+     "<b>Ohio traffic tickets are municipal court cases.</b> The court that covers Elyria is the municipal court for that city - Ohio's municipal courts are city-based, not county-based, which is why the same county can have several of them and why the citation's court name matters.",
+     "Start from the city's own site: <a href='https://www.cityofelyria.org/' target='_blank' rel='noopener'>City of Elyria</a> points at that court's case search and payment options. Ohio courts show you the case record first - the online payment button only appears when the case is marked payable.",
+     "Elyria is the Lorain County seat and has its own municipal court covering the city, with the county's other municipalities falling under their own courts - so the court on the citation is the court on the case.",
+     "Ohio assesses points <b>on conviction</b>, and <b>12 points in two years</b> triggers a 12-point (class-D) suspension that typically runs six months. Points stay on the record for two years from the conviction, and the BMV can act before you reach twelve.",
+     "<b>Ohio's record tool is not a dismissal - it is a 2-point credit.</b> Completing a BMV-approved remedial driving course earns a credit against your point total; it does not delete the ticket unless a court orders it. Ask the court and check the BMV first, because paying for a course that does not change your case is a waste: <a href='https://www.bmv.ohio.gov/suspensions-reinstatements.aspx' target='_blank' rel='noopener'>Ohio BMV suspensions and remedial courses</a>.",
+     "If the fine is the problem, Ohio courts can order a payment plan or community service instead of a single payment - that has to be asked for at the court, and it is much easier before the case is in default than after.",
+     "Check your point total at <a href='https://www.bmv.ohio.gov/' target='_blank' rel='noopener'>Ohio BMV</a>. A conviction also reaches your insurer independently of the points."
+    ]
+   },
+   "verify": [
+    "the court and case number on your citation",
+    "the fine with court costs from that court",
+    "whether a BMV-approved remedial driving course is worth taking for the point credit"
+   ],
+   "tool_note": "Elyria citations are handled by the municipal court for the city - look the case up in the court's own system before paying, because the pay button only shows when the case is payable."
+  },
+  {
+   "state": "AZ",
+   "state_name": "Arizona",
+   "slug": "chandler-az",
+   "city": "Chandler",
+   "county": "Maricopa County",
+   "court_link": "https://www.chandleraz.gov/",
+   "court_label": "City of Chandler - official city website",
+   "pay_link": "https://www.justicecourts.maricopa.gov/",
+   "pay_label": "Maricopa County Justice Courts - county-wide case lookup and payments",
+   "school_link": "https://www.azcourts.gov/drive",
+   "school_eligible": "Arizona's defensive driving program can get an eligible civil traffic violation dismissed: if you complete a class at an Arizona Supreme Court certified school, the school notifies the court and the charge is dismissed from your record. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+   "points_note": "Arizona tracks points on your MVD record and an accumulation can lead to a licence suspension and/or a mandatory class.",
+   "lawyer_cost": "$250-$500 typical for a simple civil traffic violation",
+   "fine_note": "Arizona sets the fine on the facts of the case and adds state surcharges and fees, so the number on the ticket is not the number you pay. The court's own financial obligation search shows what is actually due today.",
+   "contest_online": false,
+   "local": {
+    "h": "Chandler details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Most Arizona tickets are civil traffic violations</b>, and they go to the <b>city or justice court named on the citation</b>. Criminal traffic charges - DUI, reckless driving, racing - go to the same court on a criminal docket, and those are not payable, they are appearances.",
+     "Chandler is in Maricopa County, where the <b>Justice Courts</b> handle most civil traffic cases countywide while each city also runs its own municipal court - Chandler has both a city court and access to the county justice court system.",
+     "Start with the court's own search: <a href='https://www.justicecourts.maricopa.gov/' target='_blank' rel='noopener'>Maricopa County Justice Courts case lookup</a>. Arizona courts publish a <b>financial obligation</b> figure for the case, which is the number with the state surcharges already added - the ticket amount is not it.",
+     "<b>Arizona's serious route is the defensive driving dismissal.</b> Complete a class at an Arizona Supreme Court certified school and the school notifies the court, so an eligible civil traffic violation is <b>dismissed from your record</b> - not just masked. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+     "<b>Points are what make the dismissal worth it.</b> Arizona tracks points on your MVD record, and accumulation leads to a suspension and a mandatory class. Because the points come from the conviction, a dismissal is a genuinely different outcome from paying the fine.",
+     "Arizona also expects a <b>response from you by the date on the citation</b>. Doing nothing is its own outcome: a failure to appear on a civil traffic case can end with your licence suspended, which is far more expensive than the fine.",
+     "Certified schools and program rules: <a href='https://www.azcourts.gov/drive' target='_blank' rel='noopener'>Arizona Supreme Court - defensive driving program</a>. Check your record at <a href='https://azdot.gov/mvd' target='_blank' rel='noopener'>Arizona MVD</a>."
+    ]
+   },
+   "verify": [
+    "whether the citation was filed in Chandler Municipal Court or a Maricopa County Justice Court",
+    "the financial obligation figure the court shows today, with surcharges",
+    "whether the violation is eligible for the defensive driving dismissal"
+   ],
+   "tool_note": "Chandler citations are civil traffic cases - check the court's financial obligation search for the real number, and ask about the defensive driving dismissal before paying."
+  },
+  {
+   "state": "AZ",
+   "state_name": "Arizona",
+   "slug": "surprise-az",
+   "city": "Surprise",
+   "county": "Maricopa County",
+   "court_link": "https://www.surpriseaz.gov/",
+   "court_label": "City of Surprise - official city website",
+   "pay_link": "https://www.justicecourts.maricopa.gov/",
+   "pay_label": "Maricopa County Justice Courts - county-wide case lookup and payments",
+   "school_link": "https://www.azcourts.gov/drive",
+   "school_eligible": "Arizona's defensive driving program can get an eligible civil traffic violation dismissed: if you complete a class at an Arizona Supreme Court certified school, the school notifies the court and the charge is dismissed from your record. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+   "points_note": "Arizona tracks points on your MVD record and an accumulation can lead to a licence suspension and/or a mandatory class.",
+   "lawyer_cost": "$250-$500 typical for a simple civil traffic violation",
+   "fine_note": "Arizona sets the fine on the facts of the case and adds state surcharges and fees, so the number on the ticket is not the number you pay. The court's own financial obligation search shows what is actually due today.",
+   "contest_online": false,
+   "local": {
+    "h": "Surprise details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Most Arizona tickets are civil traffic violations</b>, and they go to the <b>city or justice court named on the citation</b>. Criminal traffic charges - DUI, reckless driving, racing - go to the same court on a criminal docket, and those are not payable, they are appearances.",
+     "Surprise is one of the fastest-growing Maricopa County cities, and its court shares the county's case-lookup system - so the county justice court search and the city court are both live entry points for a Surprise citation.",
+     "Start with the court's own search: <a href='https://www.justicecourts.maricopa.gov/' target='_blank' rel='noopener'>Maricopa County Justice Courts case lookup</a>. Arizona courts publish a <b>financial obligation</b> figure for the case, which is the number with the state surcharges already added - the ticket amount is not it.",
+     "<b>Arizona's serious route is the defensive driving dismissal.</b> Complete a class at an Arizona Supreme Court certified school and the school notifies the court, so an eligible civil traffic violation is <b>dismissed from your record</b> - not just masked. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+     "<b>Points are what make the dismissal worth it.</b> Arizona tracks points on your MVD record, and accumulation leads to a suspension and a mandatory class. Because the points come from the conviction, a dismissal is a genuinely different outcome from paying the fine.",
+     "Arizona also expects a <b>response from you by the date on the citation</b>. Doing nothing is its own outcome: a failure to appear on a civil traffic case can end with your licence suspended, which is far more expensive than the fine.",
+     "Certified schools and program rules: <a href='https://www.azcourts.gov/drive' target='_blank' rel='noopener'>Arizona Supreme Court - defensive driving program</a>. Check your record at <a href='https://azdot.gov/mvd' target='_blank' rel='noopener'>Arizona MVD</a>."
+    ]
+   },
+   "verify": [
+    "which court on the citation has the case",
+    "the amount due today including state surcharges",
+    "whether you are inside the 24-month window for the defensive driving dismissal"
+   ],
+   "tool_note": "Surprise citations are civil traffic cases - check the court's financial obligation search for the real number, and ask about the defensive driving dismissal before paying."
+  },
+  {
+   "state": "AZ",
+   "state_name": "Arizona",
+   "slug": "flagstaff-az",
+   "city": "Flagstaff",
+   "county": "Coconino County",
+   "court_link": "https://www.flagstaff.az.gov/",
+   "court_label": "City of Flagstaff - official city website",
+   "pay_link": "https://www.flagstaff.az.gov/",
+   "pay_label": "City of Flagstaff - court and payment information",
+   "school_link": "https://www.azcourts.gov/drive",
+   "school_eligible": "Arizona's defensive driving program can get an eligible civil traffic violation dismissed: if you complete a class at an Arizona Supreme Court certified school, the school notifies the court and the charge is dismissed from your record. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+   "points_note": "Arizona tracks points on your MVD record and an accumulation can lead to a licence suspension and/or a mandatory class.",
+   "lawyer_cost": "$250-$500 typical for a simple civil traffic violation",
+   "fine_note": "Arizona sets the fine on the facts of the case and adds state surcharges and fees, so the number on the ticket is not the number you pay. The court's own financial obligation search shows what is actually due today.",
+   "contest_online": false,
+   "local": {
+    "h": "Flagstaff details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Most Arizona tickets are civil traffic violations</b>, and they go to the <b>city or justice court named on the citation</b>. Criminal traffic charges - DUI, reckless driving, racing - go to the same court on a criminal docket, and those are not payable, they are appearances.",
+     "Flagstaff is in Coconino County and is the enforcement hub of I-17 and I-40 in northern Arizona - the county also has its own justice courts, so the citation tells you which court took the case.",
+     "Start with the court's own search: <a href='https://www.flagstaff.az.gov/' target='_blank' rel='noopener'>City of Flagstaff</a>. Arizona courts publish a <b>financial obligation</b> figure for the case, which is the number with the state surcharges already added - the ticket amount is not it.",
+     "<b>Arizona's serious route is the defensive driving dismissal.</b> Complete a class at an Arizona Supreme Court certified school and the school notifies the court, so an eligible civil traffic violation is <b>dismissed from your record</b> - not just masked. Most drivers can use it once every 24 months, and CDL holders generally cannot.",
+     "<b>Points are what make the dismissal worth it.</b> Arizona tracks points on your MVD record, and accumulation leads to a suspension and a mandatory class. Because the points come from the conviction, a dismissal is a genuinely different outcome from paying the fine.",
+     "Arizona also expects a <b>response from you by the date on the citation</b>. Doing nothing is its own outcome: a failure to appear on a civil traffic case can end with your licence suspended, which is far more expensive than the fine.",
+     "Certified schools and program rules: <a href='https://www.azcourts.gov/drive' target='_blank' rel='noopener'>Arizona Supreme Court - defensive driving program</a>. Check your record at <a href='https://azdot.gov/mvd' target='_blank' rel='noopener'>Arizona MVD</a>."
+    ]
+   },
+   "verify": [
+    "the court named on the citation",
+    "the financial obligation amount from that court's own search",
+    "whether an Arizona Supreme Court certified defensive driving school is still available to you"
+   ],
+   "tool_note": "Flagstaff citations are civil traffic cases - check the court's financial obligation search for the real number, and ask about the defensive driving dismissal before paying."
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "clarksville-tn",
+   "city": "Clarksville",
+   "county": "Montgomery County",
+   "court_link": "https://www.clarksvilletn.gov/",
+   "court_label": "City of Clarksville - official city website",
+   "pay_link": "https://www.clarksvilletn.gov/",
+   "pay_label": "City of Clarksville - court and payment information",
+   "school_link": "https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html",
+   "school_eligible": "Tennessee does let a course help, in two different ways. A court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and it is the insurance effect that usually costs the most.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Tennessee fines are set by statute and the court adds costs, so the total is higher than the number on the citation. The court's case record is the figure that counts - ask for it before paying.",
+   "contest_online": false,
+   "local": {
+    "h": "Clarksville details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Tennessee citations go to the court named on the citation</b>, which for a city ticket is the city court or, in many counties, the county <b>General Sessions</b> court. That is why the same county can produce two different payment routes.",
+     "Start from the city's own site: <a href='https://www.clarksvilletn.gov/' target='_blank' rel='noopener'>City of Clarksville</a> links the court that covers the city, and the court is where the case record and the payable amount live.",
+     "Clarksville is the Montgomery County seat and the state's fifth-largest city, and it sits on I-24 opposite Fort Campbell - a lot of the enforcement there is military-adjacent and interstate.",
+     "Tennessee's Department of Safety runs a <b>driver-improvement point system</b>: <b>12 points in 12 months</b> can bring a proposed suspension and a hearing, and points stay on your record for years. It is usually the insurance effect that costs the most.",
+     "<b>Tennessee has two different course routes, and they are not the same thing.</b> A <b>court-ordered traffic school</b> can get a citation dismissed if the judge allows it; separately, the Department will <b>remove up to 5 points</b> from a speeding conviction if you complete an approved 4-hour driver education course. The certificate has to reach the Department within 30 days, so ask who files it.",
+     "Because the dismissal is a judge's decision in Tennessee, the free move is to <b>ask the court what your options are before you pay</b> - school, a reduced charge, or a payment plan. Once the fine is paid the case is over and the conviction stands.",
+     "Course and point rules: <a href='https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html' target='_blank' rel='noopener'>Tennessee traffic school / driver education</a>. Point records and licence services: <a href='https://www.tn.gov/safety/driver-services.html' target='_blank' rel='noopener'>Tennessee Department of Safety</a>."
+    ]
+   },
+   "verify": [
+    "the court named on the citation and whether it is a city or General Sessions case",
+    "the fine plus court costs from the court's record",
+    "whether the judge will allow a traffic school dismissal on your charge"
+   ],
+   "tool_note": "Clarksville citations are filed in the court named on the ticket - ask that court about a school dismissal before paying, because in Tennessee that is the judge's call."
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "johnson-city-tn",
+   "city": "Johnson City",
+   "county": "Washington County",
+   "court_link": "https://www.johnsoncitytn.org/",
+   "court_label": "City of Johnson City - official city website",
+   "pay_link": "https://www.johnsoncitytn.org/",
+   "pay_label": "City of Johnson City - court and payment information",
+   "school_link": "https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html",
+   "school_eligible": "Tennessee does let a course help, in two different ways. A court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and it is the insurance effect that usually costs the most.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Tennessee fines are set by statute and the court adds costs, so the total is higher than the number on the citation. The court's case record is the figure that counts - ask for it before paying.",
+   "contest_online": false,
+   "local": {
+    "h": "Johnson City details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Tennessee citations go to the court named on the citation</b>, which for a city ticket is the city court or, in many counties, the county <b>General Sessions</b> court. That is why the same county can produce two different payment routes.",
+     "Start from the city's own site: <a href='https://www.johnsoncitytn.org/' target='_blank' rel='noopener'>City of Johnson City</a> links the court that covers the city, and the court is where the case record and the payable amount live.",
+     "Johnson City spans Washington, Carter and Sullivan counties, so a citation written at one edge of the city and one at the other can be filed in different courts - the citation names yours.",
+     "Tennessee's Department of Safety runs a <b>driver-improvement point system</b>: <b>12 points in 12 months</b> can bring a proposed suspension and a hearing, and points stay on your record for years. It is usually the insurance effect that costs the most.",
+     "<b>Tennessee has two different course routes, and they are not the same thing.</b> A <b>court-ordered traffic school</b> can get a citation dismissed if the judge allows it; separately, the Department will <b>remove up to 5 points</b> from a speeding conviction if you complete an approved 4-hour driver education course. The certificate has to reach the Department within 30 days, so ask who files it.",
+     "Because the dismissal is a judge's decision in Tennessee, the free move is to <b>ask the court what your options are before you pay</b> - school, a reduced charge, or a payment plan. Once the fine is paid the case is over and the conviction stands.",
+     "Course and point rules: <a href='https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html' target='_blank' rel='noopener'>Tennessee traffic school / driver education</a>. Point records and licence services: <a href='https://www.tn.gov/safety/driver-services.html' target='_blank' rel='noopener'>Tennessee Department of Safety</a>."
+    ]
+   },
+   "verify": [
+    "which court and county filed your citation, because Johnson City reaches three counties",
+    "the amount due from that court's case record",
+    "whether a court-ordered traffic school is available, and who files the certificate"
+   ],
+   "tool_note": "Johnson City citations are filed in the court named on the ticket - ask that court about a school dismissal before paying, because in Tennessee that is the judge's call."
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "kingsport-tn",
+   "city": "Kingsport",
+   "county": "Sullivan County",
+   "court_link": "https://www.kingsporttn.gov/",
+   "court_label": "City of Kingsport - official city website",
+   "pay_link": "https://www.kingsporttn.gov/",
+   "pay_label": "City of Kingsport - court and payment information",
+   "school_link": "https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html",
+   "school_eligible": "Tennessee does let a course help, in two different ways. A court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and it is the insurance effect that usually costs the most.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Tennessee fines are set by statute and the court adds costs, so the total is higher than the number on the citation. The court's case record is the figure that counts - ask for it before paying.",
+   "contest_online": false,
+   "local": {
+    "h": "Kingsport details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Tennessee citations go to the court named on the citation</b>, which for a city ticket is the city court or, in many counties, the county <b>General Sessions</b> court. That is why the same county can produce two different payment routes.",
+     "Start from the city's own site: <a href='https://www.kingsporttn.gov/' target='_blank' rel='noopener'>City of Kingsport</a> links the court that covers the city, and the court is where the case record and the payable amount live.",
+     "Kingsport crosses Sullivan and Hawkins counties and is an I-81 corridor city, so both city court and county General Sessions courts handle citations written around here.",
+     "Tennessee's Department of Safety runs a <b>driver-improvement point system</b>: <b>12 points in 12 months</b> can bring a proposed suspension and a hearing, and points stay on your record for years. It is usually the insurance effect that costs the most.",
+     "<b>Tennessee has two different course routes, and they are not the same thing.</b> A <b>court-ordered traffic school</b> can get a citation dismissed if the judge allows it; separately, the Department will <b>remove up to 5 points</b> from a speeding conviction if you complete an approved 4-hour driver education course. The certificate has to reach the Department within 30 days, so ask who files it.",
+     "Because the dismissal is a judge's decision in Tennessee, the free move is to <b>ask the court what your options are before you pay</b> - school, a reduced charge, or a payment plan. Once the fine is paid the case is over and the conviction stands.",
+     "Course and point rules: <a href='https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html' target='_blank' rel='noopener'>Tennessee traffic school / driver education</a>. Point records and licence services: <a href='https://www.tn.gov/safety/driver-services.html' target='_blank' rel='noopener'>Tennessee Department of Safety</a>."
+    ]
+   },
+   "verify": [
+    "the court and county on the citation",
+    "the total amount due, fine plus costs, from that court",
+    "whether your point total is near Tennessee's 12-point line"
+   ],
+   "tool_note": "Kingsport citations are filed in the court named on the ticket - ask that court about a school dismissal before paying, because in Tennessee that is the judge's call."
+  },
+  {
+   "state": "TN",
+   "state_name": "Tennessee",
+   "slug": "jackson-tn",
+   "city": "Jackson",
+   "county": "Madison County",
+   "court_link": "https://www.jacksontn.gov/",
+   "court_label": "City of Jackson - official city website",
+   "pay_link": "https://www.jacksontn.gov/",
+   "pay_label": "City of Jackson - court and payment information",
+   "school_link": "https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html",
+   "school_eligible": "Tennessee does let a course help, in two different ways. A court-ordered traffic school can get a citation dismissed if the judge allows it, and separately the Department of Safety will remove up to 5 points from a speeding conviction if you complete an approved 4-hour driver education course. Course providers must send your certificate to the Department within 30 days, so ask the school who files it.",
+   "points_note": "Tennessee's Department of Safety runs a driver-improvement point system: 12 points in 12 months can bring a proposed suspension and a hearing. Points stay on your record for years, and it is the insurance effect that usually costs the most.",
+   "lawyer_cost": "$250-$500 typical for a simple moving violation",
+   "fine_note": "Tennessee fines are set by statute and the court adds costs, so the total is higher than the number on the citation. The court's case record is the figure that counts - ask for it before paying.",
+   "contest_online": false,
+   "local": {
+    "h": "Jackson details, verified against the court that covers the city",
+    "bullets": [
+     "<b>Tennessee citations go to the court named on the citation</b>, which for a city ticket is the city court or, in many counties, the county <b>General Sessions</b> court. That is why the same county can produce two different payment routes.",
+     "Start from the city's own site: <a href='https://www.jacksontn.gov/' target='_blank' rel='noopener'>City of Jackson</a> links the court that covers the city, and the court is where the case record and the payable amount live.",
+     "Jackson is the Madison County seat and sits on I-40 between Memphis and Nashville, so it takes both city citations and county General Sessions cases.",
+     "Tennessee's Department of Safety runs a <b>driver-improvement point system</b>: <b>12 points in 12 months</b> can bring a proposed suspension and a hearing, and points stay on your record for years. It is usually the insurance effect that costs the most.",
+     "<b>Tennessee has two different course routes, and they are not the same thing.</b> A <b>court-ordered traffic school</b> can get a citation dismissed if the judge allows it; separately, the Department will <b>remove up to 5 points</b> from a speeding conviction if you complete an approved 4-hour driver education course. The certificate has to reach the Department within 30 days, so ask who files it.",
+     "Because the dismissal is a judge's decision in Tennessee, the free move is to <b>ask the court what your options are before you pay</b> - school, a reduced charge, or a payment plan. Once the fine is paid the case is over and the conviction stands.",
+     "Course and point rules: <a href='https://www.tn.gov/safety/driver-services/driver-education-traffic-school/traffic-school.html' target='_blank' rel='noopener'>Tennessee traffic school / driver education</a>. Point records and licence services: <a href='https://www.tn.gov/safety/driver-services.html' target='_blank' rel='noopener'>Tennessee Department of Safety</a>."
+    ]
+   },
+   "verify": [
+    "whether the case is a Jackson city court case or a Madison County General Sessions case",
+    "the fine with court costs as the court records it",
+    "whether the 4-hour driver education point removal applies to your conviction"
+   ],
+   "tool_note": "Jackson citations are filed in the court named on the ticket - ask that court about a school dismissal before paying, because in Tennessee that is the judge's call."
   }
  ]
 }
